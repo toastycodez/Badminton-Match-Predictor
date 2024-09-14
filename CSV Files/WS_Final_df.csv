@@ -1,0 +1,485 @@
+,Tournament Name,Tournament Date,Tournament Country,Discipline,Number of Sets Played,Retired,Match Duration (min),Team 1 Nationalities,Team 2 Nationalities,Team 1 Name(s),Team 1 Seed,Team 2 Name(s),Team 2 Seed,Points Set 1 Team 1,Points Set 1 Team 2,Points Set 2 Team 1,Points Set 2 Team 2,Points Set 3 Team 1,Points Set 3 Team 2,Total Points Team 1,Total Points Team 2,Sets Won Team 1,Sets Won Team 2,Total Game Points Team 1,Total Game Points Team 2,Most Consecutive Points Team 1,Most Consecutive Points Team 2,Team 1 Head to Head Analysis,Team 2 Head to Head Analysis,Upset,Team 1 World Ranking (at the time),Team 1 Points Accumulated,Team 2 World Ranking (at the time),Team 2 Points Accumulated
+0,Blibli_Indonesia_Open,2018-07-03,Indonesia,WS,4,0,35,Thailand,Indonesia,Ratchanok Intanon,4.0,Fitriani Fitriani,,21,8,21.0,16.0,,,42,24,2,0,5,0,9,3,7,0,0,2,25040,25,15040
+1,Yonex_All_England_Open,2018-03-14,England,WS,6,0,67,Canada,Thailand,Michelle Li,,Ratchanok Intanon,3.0,21,15,14.0,21.0,21.0,19.0,56,55,2,1,2,1,6,5,1,7,1,33,5820,1,22040
+2,Yonex_All_England_Open,2018-03-18,England,WS,4,0,45,Chinesetaipei,Japan,Tai Tzu Ying,1.0,Akane Yamaguchi,2.0,22,20,21.0,13.0,,,43,33,2,0,2,1,4,4,11,12,0,3,17000,7,13420
+3,Blibli_Indonesia_Open,2018-07-07,Indonesia,WS,6,0,83,China,Korea,Chen Yu Fei,5.0,Sung Jihyun,7.0,21,23,21.0,18.0,23.0,21.0,65,62,2,1,4,3,8,4,9,1,0,7,21610,28,14110
+4,Yonex_All_England_Open,2018-03-16,England,WS,4,0,32,Chinesetaipei,Japan,Tai Tzu Ying,1.0,Aya Ohori,,21,12,21.0,13.0,,,42,25,2,0,3,0,5,5,9,2,0,3,17000,26,8570
+5,Blibli_Indonesia_Open,2018-07-07,Indonesia,WS,4,0,31,Chinesetaipei,China,Tai Tzu Ying,1.0,He Bing Jiao,8.0,21,13,21.0,18.0,,,42,31,2,0,2,0,4,3,15,4,0,1,29000,27,14460
+6,Blibli_Indonesia_Open,2018-07-03,Indonesia,WS,4,0,43,Japan,Thailand,Akane Yamaguchi,2.0,Nitchaon Jindapol,,21,15,21.0,19.0,,,42,34,2,0,2,0,4,3,5,0,1,5,23620,4,23900
+7,Yonex_All_England_Open,2018-03-15,England,WS,6,0,66,India,Thailand,Pusarla V. Sindhu,4.0,Nitchaon Jindapol,,21,13,13.0,21.0,21.0,18.0,55,52,2,1,3,1,6,7,4,2,1,10,12840,2,19100
+8,Yonex_All_England_Open,2018-03-17,England,WS,6,0,64,Chinesetaipei,China,Tai Tzu Ying,1.0,Chen Yu Fei,8.0,21,15,20.0,22.0,21.0,13.0,62,50,2,1,4,5,6,4,18,9,0,3,17000,8,13210
+9,Blibli_Indonesia_Open,2018-07-08,Indonesia,WS,6,0,54,Chinesetaipei,China,Tai Tzu Ying,1.0,Chen Yu Fei,5.0,21,23,21.0,15.0,21.0,9.0,63,47,2,1,3,2,6,5,18,9,0,1,29000,7,21610
+10,Yonex_All_England_Open,2018-03-16,England,WS,6,0,84,India,Japan,Pusarla V. Sindhu,4.0,Nozomi Okuhara,7.0,20,22,21.0,18.0,21.0,18.0,62,58,2,1,3,1,5,5,9,10,0,10,12840,18,9940
+11,Yonex_All_England_Open,2018-03-14,England,WS,4,0,38,Chinesetaipei,India,Tai Tzu Ying,1.0,Saina Nehwal,,21,14,21.0,18.0,,,42,32,2,0,2,0,7,4,15,5,0,2,17000,6,12840
+12,Blibli_Indonesia_Open,2018-07-06,Indonesia,WS,4,0,36,Korea,Thailand,Sung Jihyun,7.0,Ratchanok Intanon,4.0,21,12,21.0,12.0,,,42,24,2,0,5,0,8,3,9,13,1,28,14110,2,25040
+13,Yonex_All_England_Open,2018-03-17,England,WS,6,0,80,Japan,India,Akane Yamaguchi,2.0,Pusarla V. Sindhu,4.0,19,21,21.0,19.0,21.0,18.0,61,58,2,1,3,2,7,6,10,15,0,7,13420,10,12840
+14,Blibli_Indonesia_Open,2018-07-04,Indonesia,WS,4,0,34,Chinesetaipei,Japan,Tai Tzu Ying,1.0,Saena Kawakami,,21,11,23.0,21.0,,,44,32,2,0,3,1,5,4,3,0,0,1,29000,56,8650
+15,Yonex_All_England_Open,2018-03-16,England,WS,4,0,52,Japan,Spain,Akane Yamaguchi,2.0,Carolina Marin,5.0,21,15,21.0,18.0,,,42,33,2,0,2,0,5,4,7,10,1,7,13420,4,16500
+16,Blibli_Indonesia_Open,2018-07-03,Indonesia,WS,4,0,25,Indonesia,Chinesetaipei,Gregoria Mariska Tunjung,,Lee Chia Hsin,,21,13,21.0,7.0,,,42,20,2,0,2,0,5,3,2,0,0,32,12950,36,12160
+17,Blibli_Indonesia_Open,2018-07-06,Indonesia,WS,4,0,37,China,India,He Bing Jiao,8.0,Pusarla V. Sindhu,3.0,21,14,21.0,15.0,,,42,29,2,0,7,0,6,4,11,10,1,27,14460,8,21240
+18,Blibli_Indonesia_Open,2018-07-05,Indonesia,WS,6,0,61,Thailand,Indonesia,Ratchanok Intanon,4.0,Gregoria Mariska Tunjung,,21,11,17.0,21.0,21.0,14.0,59,46,2,1,3,1,5,4,8,2,0,2,25040,32,12950
+19,Yonex_All_England_Open,2018-03-15,England,WS,4,0,38,Chinesetaipei,Thailand,Tai Tzu Ying,1.0,Busanan Ongbamrungphan,,21,15,21.0,11.0,,,42,26,2,0,2,0,9,4,16,4,0,3,17000,50,4440
+20,Blibli_Indonesia_Open,2018-07-06,Indonesia,WS,4,0,31,Chinesetaipei,Scotland,Tai Tzu Ying,1.0,Kirsty Gilmour,,21,16,21.0,11.0,,,42,27,2,0,3,0,5,3,4,0,0,1,29000,43,10490
+21,Blibli_Indonesia_Open,2018-07-05,Indonesia,WS,4,0,41,China,India,Chen Yu Fei,5.0,Saina Nehwal,,21,18,21.0,15.0,,,42,33,2,0,5,0,6,5,3,1,0,7,21610,23,15840
+22,Yonex_All_England_Open,2018-03-16,England,WS,4,0,44,China,Denmark,Chen Yu Fei,8.0,Mia Blichfeldt,,21,17,21.0,12.0,,,42,29,2,0,3,0,6,4,8,1,0,8,13210,22,8860
+23,Blibli_Indonesia_Open,2018-07-06,Indonesia,WS,4,0,34,China,Japan,Chen Yu Fei,5.0,Akane Yamaguchi,2.0,23,21,21.0,8.0,,,44,29,2,0,4,0,7,4,10,21,1,7,21610,5,23620
+24,Blibli_Indonesia_Open,2018-07-04,Indonesia,WS,6,0,64,India,Thailand,Pusarla V. Sindhu,3.0,Pornpawee Chochuwong,,21,15,19.0,21.0,21.0,13.0,61,49,2,1,3,1,7,6,5,4,0,8,21240,19,16690
+25,Victor_China_Open,2018-09-19,China,WS,4,0,37,China,Chinesetaipei,Gao Fang Jie,,Tai Tzu Ying,1.0,21,17,21.0,16.0,,,42,33,2,0,5,0,6,4,0,3,1,30,23250,1,52000
+26,Victor_China_Open,2018-09-20,China,WS,6,0,69,India,Thailand,Pusarla V. Sindhu,3.0,Busanan Ongbamrungphan,,21,23,21.0,13.0,21.0,18.0,63,54,2,1,4,1,6,6,17,1,0,2,43340,20,28940
+27,Blibli_Indonesia_Open,2018-07-04,Indonesia,WS,6,0,65,Japan,Spain,Sayaka Sato,,Carolina Marin,6.0,11,21,22.0,20.0,21.0,18.0,54,59,2,1,4,5,6,8,1,3,1,21,16120,6,23100
+28,Blibli_Indonesia_Open,2018-07-03,Indonesia,WS,4,0,35,India,Indonesia,Saina Nehwal,,Dinar Dyah Ayustine,,21,12,21.0,12.0,,,42,24,2,0,3,0,9,5,2,0,0,23,15840,93,3890
+29,Victor_China_Open,2018-09-18,China,WS,4,0,25,China,Denmark,He Bing Jiao,7.0,Line Højmark Kjaersfeldt,,21,9,21.0,15.0,,,42,24,2,0,3,0,7,7,6,0,0,14,32210,18,30300
+30,Victor_China_Open,2018-09-19,China,WS,4,0,41,Japan,Canada,Nozomi Okuhara,8.0,Michelle Li,,21,12,21.0,13.0,,,42,25,2,0,4,0,6,4,9,4,1,9,34860,7,38730
+31,Yonex_All_England_Open,2018-03-15,England,WS,4,0,40,Denmark,Canada,Mia Blichfeldt,,Michelle Li,,21,19,21.0,14.0,,,42,33,2,0,4,0,8,4,1,3,0,22,8860,32,7490
+32,Blibli_Indonesia_Open,2018-07-05,Indonesia,WS,4,0,33,Korea,Canada,Sung Jihyun,7.0,Michelle Li,,21,11,21.0,14.0,,,42,25,2,0,4,0,6,3,2,3,1,28,14110,9,20970
+33,Victor_China_Open,2018-09-18,China,WS,4,0,26,China,Japan,Chen Yu Fei,5.0,Sayaka Sato,,21,17,21.0,9.0,,,42,26,2,0,3,0,6,2,4,1,0,11,34470,22,27180
+34,Blibli_Indonesia_Open,2018-07-05,Indonesia,WS,4,0,26,Chinesetaipei,Denmark,Tai Tzu Ying,1.0,Line Højmark Kjaersfeldt,,21,15,21.0,8.0,,,42,23,2,0,2,0,9,3,5,0,0,1,29000,17,17940
+35,Victor_China_Open,2018-09-19,China,WS,6,0,51,Usa,Thailand,Beiwen Zhang,,Ratchanok Intanon,4.0,9,21,21.0,16.0,21.0,16.0,51,53,2,1,3,1,4,5,1,7,1,8,35860,6,39340
+36,Victor_China_Open,2018-09-21,China,WS,4,0,36,Japan,China,Akane Yamaguchi,2.0,He Bing Jiao,7.0,21,19,21.0,16.0,,,42,35,2,0,3,0,3,4,12,4,0,3,41310,14,32210
+37,Victor_China_Open,2018-09-20,China,WS,4,0,37,China,Korea,Chen Yu Fei,5.0,Sung Jihyun,,21,18,21.0,15.0,,,42,33,2,0,4,0,4,2,9,1,0,11,34470,24,26830
+38,Blibli_Indonesia_Open,2018-07-03,Indonesia,WS,4,0,29,Korea,Spain,Sung Jihyun,7.0,Beatriz Corrales,,21,9,21.0,16.0,,,42,25,2,0,3,0,6,3,1,0,1,28,14110,13,18740
+39,Victor_China_Open,2018-09-19,China,WS,4,0,31,Japan,Scotland,Sayaka Takahashi,,Kirsty Gilmour,,21,18,21.0,9.0,,,42,27,2,0,4,0,10,3,3,2,0,5,39340,28,24650
+40,Blibli_Indonesia_Open,2018-07-04,Indonesia,WS,6,0,51,Japan,Usa,Aya Ohori,,Beiwen Zhang,,21,15,21.0,23.0,21.0,11.0,63,49,2,1,3,2,8,3,0,4,1,11,20070,3,24220
+41,Blibli_Indonesia_Open,2018-07-05,Indonesia,WS,4,0,32,China,Thailand,He Bing Jiao,8.0,Busanan Ongbamrungphan,,21,15,21.0,12.0,,,42,27,2,0,2,0,5,6,10,1,0,27,14460,31,13090
+42,Yonex_All_England_Open,2018-03-14,England,WS,6,0,60,Indonesia,Malaysia,Fitriani Fitriani,,Soniia Cheah,,16,21,21.0,18.0,21.0,9.0,58,48,2,1,2,1,8,9,1,3,1,33,5820,25,7120
+43,Victor_China_Open,2018-09-21,China,WS,4,0,40,Spain,China,Carolina Marin,6.0,Gao Fang Jie,,21,10,24.0,22.0,,,45,32,2,0,3,2,8,5,5,1,0,15,32150,30,23250
+44,Victor_China_Open,2018-09-22,China,WS,6,0,60,China,Japan,Chen Yu Fei,5.0,Akane Yamaguchi,2.0,21,14,15.0,21.0,21.0,14.0,57,49,2,1,2,2,7,6,10,21,1,11,34470,3,41310
+45,Victor_China_Open,2018-09-22,China,WS,6,0,65,Spain,Japan,Carolina Marin,6.0,Nozomi Okuhara,8.0,15,21,21.0,12.0,21.0,13.0,57,46,2,1,2,2,5,4,9,8,1,15,32150,9,34860
+46,Victor_China_Open,2018-09-18,China,WS,6,0,48,Korea,India,Sung Jihyun,,Saina Nehwal,,20,22,21.0,8.0,21.0,14.0,62,44,2,1,3,2,9,4,2,8,0,24,26830,27,24960
+47,Yonex_All_England_Open,2018-03-15,England,WS,4,0,43,China,Korea,Chen Yu Fei,8.0,Kim Hyo Min,,21,15,21.0,14.0,,,42,29,2,0,5,0,6,4,2,1,0,8,13210,70,2750
+48,Victor_China_Open,2018-09-21,China,WS,6,0,52,China,India,Chen Yu Fei,5.0,Pusarla V. Sindhu,3.0,21,11,11.0,21.0,21.0,15.0,53,47,2,1,2,1,5,6,5,6,1,11,34470,2,43340
+49,Victor_China_Open,2018-09-18,China,WS,4,0,28,Thailand,Spain,Busanan Ongbamrungphan,,Beatriz Corrales,,21,12,21.0,16.0,,,42,28,2,0,4,0,5,3,2,1,1,20,28940,17,31410
+50,Blibli_Indonesia_Open,2018-07-03,Indonesia,WS,4,0,28,China,Russia,Chen Yu Fei,5.0,Evgeniya Kosetskaya,,21,10,21.0,15.0,,,42,25,2,0,3,0,6,3,2,0,0,7,21610,39,11790
+51,Victor_China_Open,2018-09-19,China,WS,6,0,60,Indonesia,China,Gregoria Mariska Tunjung,,Chen Xiao Xin,,12,21,21.0,19.0,23.0,21.0,56,61,2,1,5,1,6,7,1,0,0,23,26830,83,8570
+52,Victor_China_Open,2018-09-20,China,WS,4,0,54,China,Thailand,Gao Fang Jie,,Nitchaon Jindapol,,22,20,21.0,18.0,,,43,38,2,0,3,3,5,5,1,1,1,30,23250,4,39860
+53,Yonex_All_England_Open,2018-03-15,England,WS,4,0,35,Japan,Indonesia,Nozomi Okuhara,7.0,Fitriani Fitriani,,21,13,21.0,15.0,,,42,28,2,0,2,0,5,3,1,0,0,18,9940,32,7490
+54,Victor_China_Open,2018-09-23,China,WS,4,0,47,Spain,China,Carolina Marin,6.0,Chen Yu Fei,5.0,21,18,21.0,13.0,,,42,31,2,0,4,0,12,6,5,7,1,15,32150,11,34470
+55,Victor_China_Open,2018-09-19,China,WS,4,0,36,Thailand,China,Nitchaon Jindapol,,Cai Yan Yan,,21,14,21.0,18.0,,,42,32,2,0,4,0,4,2,0,0,0,4,39860,26,25300
+56,Victor_China_Open,2018-09-20,China,WS,4,0,30,China,Russia,He Bing Jiao,7.0,Evgeniya Kosetskaya,,21,16,21.0,15.0,,,42,31,2,0,2,0,7,4,0,0,0,14,32210,32,22630
+57,Blibli_Indonesia_Open,2018-07-04,Indonesia,WS,4,0,33,Scotland,Indonesia,Kirsty Gilmour,,Lyanny Alessandra Mainaky,,21,15,21.0,5.0,,,42,20,2,0,3,0,8,4,0,0,1,43,10490,29,13320
+58,Yonex_All_England_Open,2018-03-15,England,WS,4,0,41,Spain,Japan,Carolina Marin,5.0,Saena Kawakami,,21,13,21.0,17.0,,,42,30,2,0,8,0,5,6,1,0,0,4,16500,59,3850
+59,Yonex_All_England_Open,2019-03-06,England,WS,4,0,40,Japan,Indonesia,Nozomi Okuhara,2.0,Gregoria Mariska Tunjung,,21,17,21.0,16.0,,,42,33,2,0,2,0,5,4,4,3,0,19,7260,27,5820
+60,Yonex_All_England_Open,2018-03-15,England,WS,4,0,47,Japan,Malaysia,Aya Ohori,,Goh Jin Wei,,24,22,21.0,18.0,,,45,40,2,0,5,1,5,4,2,1,1,26,8570,9,13060
+61,Blibli_Indonesia_Open,2018-07-04,Indonesia,WS,4,0,29,China,Hongkong,He Bing Jiao,8.0,Cheung Ngan Yi,,21,19,21.0,13.0,,,42,32,2,0,2,0,6,4,0,1,1,27,14460,15,18210
+62,Victor_China_Open,2018-09-18,China,WS,4,0,26,India,Japan,Pusarla V. Sindhu,3.0,Saena Kawakami,,21,15,21.0,13.0,,,42,28,2,0,6,0,6,3,2,0,0,2,43340,35,20940
+63,Blibli_Indonesia_Open,2018-07-03,Indonesia,WS,4,0,29,Japan,Chinesetaipei,Nozomi Okuhara,,Chiang Ying Li,,21,11,21.0,11.0,,,42,22,2,0,2,0,6,4,0,0,0,20,16540,62,8290
+64,Yonex_All_England_Open,2019-03-06,England,WS,6,0,80,Korea,India,Sung Jihyun,,Pusarla V. Sindhu,5.0,21,16,20.0,22.0,21.0,18.0,62,56,2,1,10,1,8,5,7,9,0,19,7260,37,5040
+65,Victor_China_Open,2018-09-21,China,WS,6,0,55,Japan,Indonesia,Nozomi Okuhara,8.0,Gregoria Mariska Tunjung,,21,15,19.0,21.0,21.0,12.0,61,48,2,1,3,2,7,4,4,3,0,9,34860,23,26830
+66,Blibli_Indonesia_Open,2018-07-05,Indonesia,WS,4,0,36,India,Japan,Pusarla V. Sindhu,3.0,Aya Ohori,,21,17,21.0,14.0,,,42,31,2,0,3,0,7,4,12,1,0,8,21240,11,20070
+67,Victor_China_Open,2018-09-20,China,WS,4,0,34,Indonesia,Usa,Gregoria Mariska Tunjung,,Beiwen Zhang,,23,21,22.0,20.0,,,45,41,2,0,4,2,6,11,5,2,1,23,26830,8,35860
+68,Blibli_Indonesia_Open,2018-07-03,Indonesia,WS,4,0,39,Canada,Denmark,Michelle Li,,Mia Blichfeldt,,21,18,21.0,17.0,,,42,35,2,0,2,0,6,5,2,2,0,9,20970,10,20140
+69,Yonex_All_England_Open,2019-03-07,England,WS,6,0,76,Korea,Hongkong,Sung Jihyun,,Cheung Ngan Yi,,21,11,18.0,21.0,21.0,18.0,60,50,2,1,2,1,6,4,5,1,0,19,7260,39,4970
+70,Yonex_All_England_Open,2018-03-14,England,WS,4,0,33,Japan,Hongkong,Sayaka Sato,,Cheung Ngan Yi,,21,10,21.0,14.0,,,42,24,2,0,4,0,6,4,4,1,1,33,5820,15,8640
+71,Blibli_Indonesia_Open,2018-07-04,Indonesia,WS,4,0,27,Denmark,India,Line Højmark Kjaersfeldt,,Vaishnavi Reddy Jakka,,21,12,21.0,10.0,,,42,22,2,0,5,0,6,3,0,0,0,17,17940,48,9980
+72,Yonex_All_England_Open,2019-03-07,England,WS,4,0,39,Japan,Denmark,Akane Yamaguchi,4.0,Mia Blichfeldt,,21,18,21.0,14.0,,,42,32,2,0,2,0,5,5,10,0,1,27,5820,23,7000
+73,Blibli_Indonesia_Open,2018-07-04,Indonesia,WS,6,0,52,Thailand,Chinesetaipei,Busanan Ongbamrungphan,,Pai Yu Po,,15,21,21.0,16.0,21.0,13.0,57,50,2,1,7,4,7,6,6,1,0,31,13090,32,12950
+74,Yonex_All_England_Open,2019-03-06,England,WS,4,0,28,Chinesetaipei,Canada,Tai Tzu Ying,1.0,Michelle Li,,21,12,21.0,15.0,,,42,27,2,0,2,0,7,3,8,2,1,37,5040,26,6070
+75,Victor_China_Open,2018-09-18,China,WS,4,0,34,Japan,Chinesetaipei,Aya Ohori,,Pai Yu Po,,21,11,21.0,18.0,,,42,29,2,0,4,0,4,4,4,0,0,13,32570,39,18610
+76,Blibli_Indonesia_Open,2018-07-05,Indonesia,WS,6,0,62,Scotland,Japan,Kirsty Gilmour,,Sayaka Sato,,21,19,17.0,21.0,21.0,14.0,59,54,2,1,2,4,5,6,2,1,1,43,10490,21,16120
+77,Blibli_Indonesia_Open,2018-07-05,Indonesia,WS,6,0,58,Japan,Japan,Akane Yamaguchi,2.0,Nozomi Okuhara,,21,9,14.0,21.0,24.0,22.0,59,52,2,1,4,7,6,6,7,11,0,5,23620,20,16540
+78,Victor_China_Open,2018-09-18,China,WS,6,0,44,Russia,Chinesetaipei,Evgeniya Kosetskaya,,Lee Chia Hsin,,21,16,18.0,21.0,22.0,20.0,61,57,2,1,5,1,4,4,0,1,0,32,22630,34,21700
+79,Victor_China_Open,2018-09-19,China,WS,4,0,34,Spain,Denmark,Carolina Marin,6.0,Mia Blichfeldt,,21,13,21.0,13.0,,,42,26,2,0,2,0,11,4,4,2,0,15,32150,16,31750
+80,Yonex_All_England_Open,2019-03-07,England,WS,4,0,31,Chinesetaipei,Usa,Tai Tzu Ying,1.0,Beiwen Zhang,,21,15,21.0,14.0,,,42,29,2,0,3,0,5,6,9,3,0,37,5040,44,3850
+81,Victor_China_Open,2018-09-20,China,WS,6,0,54,Spain,Japan,Carolina Marin,6.0,Sayaka Takahashi,,21,16,14.0,21.0,21.0,9.0,56,46,2,1,2,1,6,7,5,1,1,15,32150,5,39340
+82,Yonex_All_England_Open,2018-03-15,England,WS,6,0,49,Japan,Japan,Akane Yamaguchi,2.0,Sayaka Sato,,18,21,21.0,10.0,21.0,12.0,60,43,2,1,4,3,7,3,4,2,0,7,13420,26,8570
+83,Yonex_All_England_Open,2018-03-14,England,WS,4,0,26,Japan,Russia,Saena Kawakami,,Evgeniya Kosetskaya,,21,9,21.0,11.0,,,42,20,2,0,3,0,9,3,0,0,1,,,25,7120
+84,Victor_China_Open,2018-09-19,China,WS,4,0,30,Thailand,Malaysia,Pornpawee Chochuwong,,Soniia Cheah,,21,15,21.0,12.0,,,42,27,2,0,5,0,4,3,0,1,0,10,34610,37,19490
+85,Yonex_All_England_Open,2019-03-08,England,WS,4,0,38,Chinesetaipei,India,Tai Tzu Ying,1.0,Saina Nehwal,8.0,21,15,21.0,19.0,,,42,34,2,0,5,0,7,4,15,5,1,37,5040,2,15620
+86,Blibli_Indonesia_Open,2019-07-16,Indonesia,WS,4,0,31,Chinesetaipei,Singapore,Tai Tzu Ying,1.0,Yeo Jia Min,,21,12,21.0,18.0,,,42,30,2,0,2,0,5,4,3,0,0,5,35440,24,24510
+87,Yonex_All_England_Open,2019-03-06,England,WS,6,0,75,China,Thailand,Chen Xiao Xin,,Ratchanok Intanon,7.0,21,23,24.0,22.0,21.0,14.0,66,59,2,1,9,2,4,8,0,8,1,24,6710,4,14240
+88,Victor_China_Open,2018-09-20,China,WS,4,0,42,Japan,Thailand,Nozomi Okuhara,8.0,Pornpawee Chochuwong,,21,9,22.0,20.0,,,43,29,2,0,3,0,5,4,4,2,0,9,34860,10,34610
+89,Yonex_All_England_Open,2019-03-10,England,WS,4,0,41,China,Chinesetaipei,Chen Yu Fei,3.0,Tai Tzu Ying,1.0,21,17,21.0,17.0,,,42,34,2,0,2,0,6,4,8,19,0,25,6420,37,5040
+90,Yonex_All_England_Open,2019-03-08,England,WS,6,0,66,Japan,China,Akane Yamaguchi,4.0,He Bing Jiao,6.0,21,16,19.0,21.0,21.0,12.0,61,49,2,1,3,1,7,4,12,4,1,27,5820,7,11460
+91,Yonex_All_England_Open,2019-03-09,England,WS,6,0,47,Chinesetaipei,Japan,Tai Tzu Ying,1.0,Akane Yamaguchi,4.0,21,13,10.0,21.0,21.0,8.0,52,42,2,1,2,1,8,6,11,12,1,37,5040,27,5820
+92,Yonex_All_England_Open,2019-03-06,England,WS,4,0,35,India,Scotland,Saina Nehwal,8.0,Kirsty Gilmour,,21,17,21.0,18.0,,,42,35,2,0,2,0,5,4,6,0,0,2,15620,56,1670
+93,Victor_China_Open,2018-09-20,China,WS,6,0,57,Japan,Japan,Akane Yamaguchi,2.0,Aya Ohori,,18,21,21.0,14.0,21.0,17.0,60,52,2,1,5,1,6,4,5,0,0,3,41310,13,32570
+94,Victor_China_Open,2018-09-18,China,WS,6,0,49,Japan,Malaysia,Akane Yamaguchi,2.0,Goh Jin Wei,,23,21,12.0,21.0,21.0,15.0,56,57,2,1,4,2,7,4,6,1,0,3,41310,21,27510
+95,Yonex_All_England_Open,2019-03-09,England,WS,4,0,42,China,Japan,Chen Yu Fei,3.0,Nozomi Okuhara,2.0,21,17,21.0,11.0,,,42,28,2,0,3,0,7,5,9,4,1,25,6420,19,7260
+96,Blibli_Indonesia_Open,2019-07-17,Indonesia,WS,4,0,32,China,Indonesia,Chen Yu Fei,2.0,Fitriani Fitriani,,21,7,21.0,19.0,,,42,26,2,0,2,0,9,4,5,2,0,4,40120,9,32000
+97,Yonex_All_England_Open,2019-03-07,England,WS,4,0,33,China,China,Li Xue Rui,,Chen Xiao Xin,,21,14,21.0,12.0,,,42,26,2,0,5,0,10,3,0,0,1,39,4970,24,6710
+98,Yonex_All_England_Open,2019-03-06,England,WS,4,0,30,Hongkong,Russia,Cheung Ngan Yi,,Evgeniya Kosetskaya,,21,15,21.0,9.0,,,42,24,2,0,4,0,7,3,1,0,1,39,4970,16,7490
+99,Yonex_All_England_Open,2019-03-08,England,WS,4,0,38,Japan,China,Nozomi Okuhara,2.0,Li Xue Rui,,21,17,21.0,14.0,,,42,31,2,0,4,0,6,4,3,2,0,19,7260,39,4970
+100,Blibli_Indonesia_Open,2019-07-19,Indonesia,WS,6,0,64,Chinesetaipei,Thailand,Tai Tzu Ying,1.0,Ratchanok Intanon,7.0,21,18,16.0,21.0,21.0,12.0,58,51,2,1,3,2,6,4,20,17,1,5,35440,1,48380
+101,Blibli_Indonesia_Open,2019-07-17,Indonesia,WS,6,0,59,India,Japan,Pusarla V. Sindhu,5.0,Aya Ohori,,11,21,21.0,15.0,21.0,15.0,53,51,2,1,5,1,5,5,12,1,0,13,27950,16,27000
+102,Yonex_All_England_Open,2019-03-06,England,WS,4,0,38,Thailand,Thailand,Pornpawee Chochuwong,,Busanan Ongbamrungphan,,21,18,21.0,8.0,,,42,26,2,0,3,0,7,3,2,5,1,11,9940,5,11770
+103,Blibli_Indonesia_Open,2019-07-18,Indonesia,WS,4,0,45,Chinesetaipei,Thailand,Tai Tzu Ying,1.0,Busanan Ongbamrungphan,,21,19,21.0,18.0,,,42,37,2,0,2,0,6,5,16,4,0,5,35440,6,34330
+104,Blibli_Indonesia_Open,2019-07-21,Indonesia,WS,4,0,51,Japan,India,Akane Yamaguchi,4.0,Pusarla V. Sindhu,5.0,21,15,21.0,16.0,,,42,31,2,0,3,0,8,5,10,15,0,3,41890,13,27950
+105,Blibli_Indonesia_Open,2019-07-20,Indonesia,WS,4,0,32,Japan,Chinesetaipei,Akane Yamaguchi,4.0,Tai Tzu Ying,1.0,21,9,21.0,15.0,,,42,24,2,0,3,0,6,3,11,12,0,3,41890,5,35440
+106,Blibli_Indonesia_Open,2019-07-16,Indonesia,WS,4,0,37,Thailand,Indonesia,Ratchanok Intanon,7.0,Ruselli Hartawan,,21,14,21.0,14.0,,,42,28,2,0,6,0,5,4,1,0,0,1,48380,29,22090
+107,Yonex_All_England_Open,2018-03-14,England,WS,4,0,26,Japan,Chinesetaipei,Akane Yamaguchi,2.0,Lee Chia Hsin,,21,10,21.0,14.0,,,42,24,2,0,2,0,7,4,1,1,0,29,6420,33,5820
+108,Blibli_Indonesia_Open,2019-07-20,Indonesia,WS,4,0,46,India,China,Pusarla V. Sindhu,5.0,Chen Yu Fei,2.0,21,19,21.0,10.0,,,42,29,2,0,3,0,8,4,5,6,1,13,27950,4,40120
+109,Blibli_Indonesia_Open,2019-07-16,Indonesia,WS,4,0,38,Thailand,Russia,Busanan Ongbamrungphan,,Evgeniya Kosetskaya,,21,15,21.0,16.0,,,42,31,2,0,3,0,5,3,2,0,0,6,34330,36,19220
+110,Blibli_Indonesia_Open,2019-07-19,Indonesia,WS,4,0,44,Japan,Thailand,Akane Yamaguchi,4.0,Nitchaon Jindapol,,21,17,21.0,14.0,,,42,31,2,0,3,0,5,3,5,0,0,3,41890,19,26320
+111,Yonex_All_England_Open,2019-03-08,England,WS,4,0,37,China,Korea,Chen Yu Fei,3.0,Sung Jihyun,,21,12,21.0,16.0,,,42,28,2,0,2,0,6,3,9,1,1,25,6420,19,7260
+112,Victor_China_Open,2019-09-18,China,WS,4,0,44,Thailand,India,Busanan Ongbamrungphan,,Saina Nehwal,8.0,21,10,21.0,17.0,,,42,27,2,0,3,0,7,4,5,3,0,7,47400,23,35190
+113,Yonex_All_England_Open,2019-03-07,England,WS,6,0,61,China,Japan,Chen Yu Fei,3.0,Aya Ohori,,21,6,17.0,21.0,21.0,19.0,59,46,2,1,4,2,6,4,11,0,0,25,6420,27,5820
+114,Blibli_Indonesia_Open,2019-07-18,Indonesia,WS,6,0,62,India,Denmark,Pusarla V. Sindhu,5.0,Mia Blichfeldt,,21,14,17.0,21.0,21.0,11.0,59,46,2,1,6,2,8,3,6,1,0,13,27950,20,25850
+115,Yonex_All_England_Open,2018-03-14,England,WS,4,0,45,Thailand,Scotland,Busanan Ongbamrungphan,,Kirsty Gilmour,,21,15,21.0,19.0,,,42,34,2,0,5,0,6,5,7,1,1,48,4440,33,5820
+116,Yonex_All_England_Open,2019-03-07,England,WS,6,0,57,China,Thailand,He Bing Jiao,6.0,Pornpawee Chochuwong,,15,21,21.0,15.0,21.0,14.0,57,50,2,1,3,1,5,5,13,2,0,7,11460,11,9940
+117,Victor_China_Open,2019-09-18,China,WS,4,0,32,Chinesetaipei,Malaysia,Tai Tzu Ying,2.0,Soniia Cheah,,21,9,21.0,16.0,,,42,25,2,0,4,0,6,3,5,0,0,6,49890,31,30350
+118,Victor_China_Open,2019-09-17,China,WS,4,0,46,Spain,Japan,Carolina Marin,,Nozomi Okuhara,4.0,21,16,21.0,18.0,,,42,34,2,0,4,0,4,5,9,8,1,52,16890,4,57960
+119,Blibli_Indonesia_Open,2019-07-18,Indonesia,WS,4,0,35,Japan,Hongkong,Akane Yamaguchi,4.0,Cheung Ngan Yi,,21,19,21.0,15.0,,,42,34,2,0,9,0,6,4,3,1,0,3,41890,26,22970
+120,Blibli_Indonesia_Open,2019-07-16,Indonesia,WS,6,0,47,Japan,China,Akane Yamaguchi,4.0,Li Xue Rui,,18,21,21.0,10.0,21.0,15.0,60,46,2,1,4,2,7,6,3,7,0,3,41890,8,33460
+121,Yonex_All_England_Open,2019-03-06,England,WS,4,0,34,Japan,Spain,Akane Yamaguchi,4.0,Beatriz Corrales,,21,15,21.0,18.0,,,42,33,2,0,6,0,4,3,3,0,0,27,5820,,
+122,Blibli_Indonesia_Open,2019-07-19,Indonesia,WS,6,0,49,China,Usa,Chen Yu Fei,2.0,Beiwen Zhang,,21,14,17.0,21.0,21.0,16.0,59,51,2,1,3,2,5,5,5,1,0,4,40120,11,31730
+123,Blibli_Indonesia_Open,2019-07-16,Indonesia,WS,4,0,26,Indonesia,Thailand,Gregoria Mariska Tunjung,,Pornpawee Chochuwong,,21,10,21.0,8.0,,,42,18,2,0,4,0,7,3,3,3,1,31,20890,14,27730
+124,Blibli_Indonesia_Open,2019-07-17,Indonesia,WS,4,0,36,Japan,China,Sayaka Takahashi,,Han Yue,,21,18,21.0,16.0,,,42,34,2,0,2,0,5,5,2,2,0,17,26530,25,24470
+125,Yonex_All_England_Open,2019-03-07,England,WS,6,0,51,India,Denmark,Saina Nehwal,8.0,Line Højmark Kjaersfeldt,,8,21,21.0,16.0,21.0,13.0,50,50,2,1,3,1,4,6,3,1,0,2,15620,5,11770
+126,Victor_China_Open,2019-09-18,China,WS,4,0,35,India,China,Pusarla V. Sindhu,5.0,Li Xue Rui,,21,18,21.0,12.0,,,42,30,2,0,6,0,4,5,3,4,0,12,44200,14,41340
+127,Blibli_Indonesia_Open,2019-07-18,Indonesia,WS,4,0,42,Thailand,Canada,Nitchaon Jindapol,,Michelle Li,,22,20,21.0,13.0,,,43,33,2,0,9,0,8,4,1,0,0,19,26320,22,25270
+128,Blibli_Indonesia_Open,2019-07-19,Indonesia,WS,4,0,44,India,Japan,Pusarla V. Sindhu,5.0,Nozomi Okuhara,3.0,21,14,21.0,7.0,,,42,21,2,0,2,0,10,3,9,10,1,13,27950,2,42010
+129,Victor_China_Open,2019-09-19,China,WS,4,0,40,Thailand,China,Ratchanok Intanon,6.0,Chen Xiao Xin,,21,14,21.0,11.0,,,42,25,2,0,8,0,9,3,7,1,0,1,65440,17,38730
+130,Blibli_Indonesia_Open,2019-07-16,Indonesia,WS,4,0,29,Thailand,England,Nitchaon Jindapol,,Chloe Birch,,21,6,21.0,15.0,,,42,21,2,0,2,0,10,4,1,0,0,19,26320,47,13110
+131,Blibli_Indonesia_Open,2019-07-18,Indonesia,WS,6,0,65,Thailand,Indonesia,Ratchanok Intanon,7.0,Gregoria Mariska Tunjung,,13,21,21.0,19.0,21.0,15.0,55,55,2,1,4,1,6,4,8,2,0,1,48380,31,20890
+132,Victor_China_Open,2019-09-20,China,WS,6,0,58,Spain,China,Carolina Marin,,He Bing Jiao,7.0,11,21,21.0,14.0,21.0,15.0,53,50,2,1,4,1,5,7,6,3,1,52,16890,11,44630
+133,Victor_China_Open,2019-09-18,China,WS,4,0,33,China,China,Chen Yu Fei,3.0,Deng Joy Xuan,,21,18,21.0,9.0,,,42,27,2,0,2,0,10,6,0,0,0,2,65420,33,30120
+134,Blibli_Indonesia_Open,2019-07-17,Indonesia,WS,6,0,67,Denmark,Hongkong,Mia Blichfeldt,,Yip Pui Yin,,19,21,21.0,15.0,21.0,17.0,61,53,2,1,3,4,10,5,1,0,0,20,25850,39,16490
+135,Victor_China_Open,2019-09-19,China,WS,4,0,36,Spain,Usa,Carolina Marin,,Beiwen Zhang,,21,17,21.0,12.0,,,42,29,2,0,3,0,5,7,8,3,1,52,16890,8,47340
+136,Yonex_All_England_Open,2018-03-14,England,WS,6,0,56,India,Thailand,Pusarla V. Sindhu,4.0,Pornpawee Chochuwong,,20,22,21.0,17.0,21.0,9.0,62,48,2,1,5,3,6,5,5,4,0,6,12840,17,8170
+137,Victor_China_Open,2019-09-20,China,WS,4,0,44,China,Thailand,Chen Yu Fei,3.0,Pornpawee Chochuwong,,22,20,21.0,13.0,,,43,33,2,0,3,1,4,5,12,1,0,2,65420,16,39810
+138,Blibli_Indonesia_Open,2019-07-16,Indonesia,WS,6,0,55,Hongkong,Denmark,Cheung Ngan Yi,,Line Højmark Kjaersfeldt,,18,21,21.0,12.0,21.0,8.0,60,41,2,1,2,1,5,6,0,0,0,26,22970,30,20900
+139,Blibli_Indonesia_Open,2019-07-17,Indonesia,WS,4,0,32,Malaysia,China,Soniia Cheah,,Cai Yan Yan,,21,8,21.0,17.0,,,42,25,2,0,4,0,9,5,0,0,1,40,16190,21,25840
+140,Victor_China_Open,2019-09-17,China,WS,6,0,46,Russia,Japan,Evgeniya Kosetskaya,,Akane Yamaguchi,1.0,20,22,21.0,17.0,24.0,22.0,65,61,2,1,8,4,6,4,0,3,1,34,27100,3,64890
+141,Victor_China_Open,2019-09-20,China,WS,4,0,33,Chinesetaipei,Thailand,Tai Tzu Ying,2.0,Busanan Ongbamrungphan,,21,17,21.0,10.0,,,42,27,2,0,6,0,9,5,16,4,0,6,49890,7,47400
+142,Victor_China_Open,2019-09-19,China,WS,4,0,37,Chinesetaipei,Japan,Tai Tzu Ying,2.0,Aya Ohori,,21,19,21.0,14.0,,,42,33,2,0,5,0,6,3,9,2,0,6,49890,21,36540
+143,Victor_China_Open,2019-09-18,China,WS,6,0,52,Korea,Indonesia,Kim Ga Eun,,Fitriani Fitriani,,12,21,21.0,12.0,21.0,13.0,54,46,2,1,4,3,7,12,1,0,1,18,37980,9,46550
+144,Yonex_All_England_Open,2018-03-14,England,WS,4,0,39,Spain,Korea,Carolina Marin,5.0,Lee Jang Mi,,21,17,21.0,8.0,,,42,25,2,0,2,0,6,3,0,1,0,3,16500,22,7200
+145,Blibli_Indonesia_Open,2019-07-17,Indonesia,WS,4,0,40,Japan,China,Nozomi Okuhara,3.0,Deng Joy Xuan,,21,13,21.0,17.0,,,42,30,2,0,2,0,8,6,1,0,0,2,42010,27,22790
+146,Yonex_All_England_Open,2019-03-07,England,WS,4,0,44,Japan,Japan,Nozomi Okuhara,2.0,Sayaka Takahashi,,21,14,23.0,21.0,,,44,35,2,0,3,1,7,6,7,0,0,19,7260,27,5820
+147,Blibli_Indonesia_Open,2019-07-18,Indonesia,WS,6,0,58,Usa,China,Beiwen Zhang,,He Bing Jiao,6.0,21,15,15.0,21.0,21.0,18.0,57,54,2,1,3,1,4,4,1,12,1,11,31730,10,31910
+148,Victor_China_Open,2019-09-17,China,WS,4,0,38,Korea,China,Sung Jihyun,,Cai Yan Yan,,21,11,22.0,20.0,,,43,31,2,0,2,1,6,5,1,1,0,5,51620,27,33720
+149,Victor_China_Open,2019-09-20,China,WS,6,0,60,Japan,Thailand,Sayaka Takahashi,,Ratchanok Intanon,6.0,14,21,21.0,14.0,22.0,20.0,57,55,2,1,5,1,6,5,3,7,1,15,40410,1,65440
+150,Blibli_Indonesia_Open,2019-07-18,Indonesia,WS,6,0,58,China,Japan,Chen Yu Fei,2.0,Sayaka Takahashi,,15,21,21.0,17.0,21.0,12.0,57,50,2,1,3,1,11,6,7,0,0,4,40120,17,26530
+151,Victor_China_Open,2019-09-21,China,WS,6,0,72,Spain,Japan,Carolina Marin,,Sayaka Takahashi,,20,22,21.0,13.0,21.0,18.0,62,53,2,1,6,3,8,6,5,1,1,52,16890,15,40410
+152,Blibli_Indonesia_Open,2019-07-16,Indonesia,WS,6,0,66,Canada,Korea,Michelle Li,,Sung Jihyun,,21,12,14.0,21.0,21.0,17.0,56,50,2,1,4,1,6,5,2,3,1,22,25270,7,33700
+153,Victor_China_Open,2019-09-17,China,WS,4,0,38,China,Hongkong,Chen Xiao Xin,,Yip Pui Yin,,21,12,21.0,13.0,,,42,25,2,0,3,0,5,4,0,0,0,17,38730,37,26040
+154,Yonex_All_England_Open,2018-03-14,England,WS,6,0,64,Denmark,Spain,Mia Blichfeldt,,Beatriz Corrales,,15,21,21.0,13.0,23.0,21.0,59,55,2,1,4,1,6,4,1,2,1,24,7190,11,11110
+155,Victor_China_Open,2019-09-21,China,WS,6,0,54,Chinesetaipei,China,Tai Tzu Ying,2.0,Chen Yu Fei,3.0,6,21,21.0,13.0,22.0,20.0,49,54,2,1,2,3,6,7,18,9,1,6,49890,2,65420
+156,Victor_China_Open,2019-09-19,China,WS,6,0,71,China,Korea,Chen Yu Fei,3.0,An Se Young,,20,22,21.0,17.0,21.0,15.0,62,54,2,1,8,1,7,5,12,7,0,2,65420,25,34940
+157,Yonex_All_England_Open,2019-03-06,England,WS,6,0,54,China,Indonesia,He Bing Jiao,6.0,Fitriani Fitriani,,17,21,21.0,15.0,21.0,10.0,59,46,2,1,2,2,5,4,5,0,1,7,11460,1,16950
+158,Victor_China_Open,2019-09-17,China,WS,4,0,36,China,China,He Bing Jiao,7.0,Han Yue,,21,18,21.0,17.0,,,42,35,2,0,4,0,4,7,7,0,0,11,44630,26,33730
+159,Blibli_Indonesia_Open,2019-07-17,Indonesia,WS,6,0,70,China,China,He Bing Jiao,6.0,Chen Xiao Xin,,21,13,13.0,21.0,21.0,17.0,55,51,2,1,5,2,7,5,1,0,0,10,31910,18,26370
+160,Victor_China_Open,2019-09-17,China,WS,4,0,36,Thailand,Denmark,Ratchanok Intanon,6.0,Line Højmark Kjaersfeldt,,21,17,21.0,17.0,,,42,34,2,0,2,0,5,3,2,1,0,1,65440,36,26560
+161,Blibli_Indonesia_Open,2019-07-18,Indonesia,WS,4,0,37,Japan,Malaysia,Nozomi Okuhara,3.0,Soniia Cheah,,21,7,21.0,16.0,,,42,23,2,0,3,0,7,3,6,0,0,2,42010,40,16190
+162,Yonex_All_England_Open,2018-03-14,England,WS,4,0,40,Thailand,Usa,Nitchaon Jindapol,,Beiwen Zhang,,21,18,21.0,14.0,,,42,32,2,0,3,0,4,4,2,4,0,4,14200,9,11420
+163,Victor_China_Open,2019-09-19,China,WS,6,0,58,Thailand,India,Pornpawee Chochuwong,,Pusarla V. Sindhu,5.0,12,21,21.0,13.0,21.0,19.0,54,53,2,1,2,1,6,8,3,6,1,16,39810,12,44200
+164,Victor_China_Open,2019-09-18,China,WS,6,0,71,Thailand,Canada,Pornpawee Chochuwong,,Michelle Li,,23,21,11.0,21.0,21.0,19.0,55,61,2,1,3,2,5,5,0,4,1,16,39810,13,43720
+165,Victor_China_Open,2019-09-22,China,WS,6,0,65,Spain,Chinesetaipei,Carolina Marin,,Tai Tzu Ying,2.0,14,21,21.0,17.0,21.0,18.0,56,56,2,1,3,1,5,4,11,12,1,52,16890,6,49890
+166,Victor_China_Open,2019-09-19,China,WS,4,0,39,China,Korea,He Bing Jiao,7.0,Sung Jihyun,,21,15,21.0,11.0,,,42,26,2,0,3,0,4,4,4,5,1,11,44630,5,51620
+167,Yonex_All_England_Open,2020-03-11,England,WS,6,0,67,China,Korea,Chen Yu Fei,1.0,An Se Young,,14,21,21.0,14.0,21.0,15.0,56,50,2,1,4,1,5,5,12,7,1,14,11420,2,17340
+168,Blibli_Indonesia_Open,2019-07-17,Indonesia,WS,6,0,58,Usa,Indonesia,Beiwen Zhang,,Lyanny Alessandra Mainaky,,11,21,21.0,13.0,21.0,9.0,53,43,2,1,3,2,8,3,1,0,0,11,31730,33,19410
+169,Yonex_All_England_Open,2020-03-13,England,WS,6,0,69,China,Thailand,Chen Yu Fei,1.0,Ratchanok Intanon,5.0,17,21,21.0,15.0,21.0,17.0,59,53,2,1,0,0,0,0,17,3,1,14,11420,4,16650
+170,Victor_China_Open,2019-09-19,China,WS,4,0,44,Thailand,Korea,Busanan Ongbamrungphan,,Kim Ga Eun,,21,19,21.0,16.0,,,42,35,2,0,3,0,4,4,4,0,0,7,47400,18,37980
+171,Yonex_All_England_Open,2020-03-12,England,WS,4,0,34,Thailand,Japan,Ratchanok Intanon,5.0,Aya Ohori,,21,11,21.0,11.0,,,42,22,2,0,0,0,0,0,3,3,0,4,16650,15,10720
+172,Victor_China_Open,2019-09-17,China,WS,6,0,41,Usa,Indonesia,Beiwen Zhang,,Gregoria Mariska Tunjung,,14,21,21.0,19.0,21.0,16.0,56,56,2,1,2,1,6,5,1,6,0,8,47340,22,36080
+173,Yonex_All_England_Open,2020-03-11,England,WS,4,0,42,India,Usa,Pusarla V. Sindhu,6.0,Beiwen Zhang,,21,14,21.0,17.0,,,42,31,2,0,2,0,5,3,6,5,0,19,8640,30,7260
+174,Yonex_All_England_Open,2020-03-13,England,WS,6,0,68,Japan,India,Nozomi Okuhara,4.0,Pusarla V. Sindhu,6.0,12,21,21.0,15.0,21.0,13.0,54,49,2,1,0,0,0,0,9,10,0,19,8640,19,8640
+175,Yonex_All_England_Open,2020-03-13,England,WS,4,0,51,Spain,Japan,Carolina Marin,8.0,Akane Yamaguchi,3.0,21,15,21.0,12.0,,,42,27,2,0,0,0,0,0,9,8,0,1,32070,8,12820
+176,Yonex_All_England_Open,2019-03-06,England,WS,4,0,37,Japan,Malaysia,Sayaka Takahashi,,Goh Jin Wei,,22,20,21.0,13.0,,,43,33,2,0,4,0,6,5,1,0,1,27,5820,14,8640
+177,Yonex_All_England_Open,2020-03-12,England,WS,4,0,33,Japan,Denmark,Nozomi Okuhara,4.0,Line Højmark Kjaersfeldt,,21,12,21.0,16.0,,,42,28,2,0,0,0,0,0,6,1,0,19,8640,21,8570
+178,Yonex_All_England_Open,2019-03-06,England,WS,4,0,35,Japan,Malaysia,Aya Ohori,,Soniia Cheah,,21,15,21.0,16.0,,,42,31,2,0,2,0,5,2,0,0,0,27,5820,42,4440
+179,Victor_China_Open,2019-09-17,China,WS,6,0,56,Japan,Thailand,Sayaka Takahashi,,Nitchaon Jindapol,,12,21,21.0,17.0,21.0,19.0,54,57,2,1,7,2,6,6,3,1,1,15,40410,10,46420
+180,Yonex_All_England_Open,2020-03-13,England,WS,4,0,30,Chinesetaipei,Thailand,Tai Tzu Ying,2.0,Pornpawee Chochuwong,,21,9,21.0,11.0,,,42,20,2,0,0,0,0,0,3,2,1,26,7800,5,15860
+181,Yonex_All_England_Open,2020-03-15,England,WS,4,0,44,Chinesetaipei,China,Tai Tzu Ying,2.0,Chen Yu Fei,1.0,21,19,21.0,15.0,,,42,34,2,0,0,0,0,0,18,9,1,26,7800,14,11420
+182,Victor_China_Open,2019-09-19,China,WS,4,0,36,Japan,Russia,Sayaka Takahashi,,Evgeniya Kosetskaya,,21,17,21.0,15.0,,,42,32,2,0,2,0,6,3,2,0,0,15,40410,34,27100
+183,Yonex_All_England_Open,2020-03-14,England,WS,4,0,43,China,Japan,Chen Yu Fei,1.0,Nozomi Okuhara,4.0,21,14,23.0,21.0,,,44,35,2,0,0,0,0,0,9,4,0,14,11420,19,8640
+184,Victor_China_Open,2019-09-18,China,WS,4,0,29,Japan,Hongkong,Aya Ohori,,Cheung Ngan Yi,,21,9,21.0,10.0,,,42,19,2,0,3,0,9,3,3,1,1,21,36540,20,37140
+185,Yonex_All_England_Open,2020-03-12,England,WS,4,0,41,China,Thailand,Chen Yu Fei,1.0,Busanan Ongbamrungphan,,21,17,21.0,13.0,,,42,30,2,0,0,0,0,0,11,3,1,14,11420,6,13470
+186,Victor_China_Open,2019-09-18,China,WS,4,0,34,Korea,Germany,An Se Young,,Yvonne Li,,21,4,21.0,18.0,,,42,22,2,0,5,0,11,4,4,0,0,25,34940,50,18090
+187,Yonex_All_England_Open,2020-03-14,England,WS,6,0,62,Chinesetaipei,Spain,Tai Tzu Ying,2.0,Carolina Marin,8.0,19,21,21.0,13.0,21.0,11.0,61,45,2,1,0,0,0,0,11,12,1,26,7800,1,32070
+188,Yonex_All_England_Open,2021-03-17,England,WS,4,0,39,India,Malaysia,Pusarla V. Sindhu,5.0,Soniia Cheah,,21,11,21.0,17.0,,,42,28,2,0,2,0,6,3,2,1,0,2,5950,17,1670
+189,Yonex_All_England_Open,2020-03-12,England,WS,4,0,36,Spain,China,Carolina Marin,8.0,Wang Zhi Yi,,21,13,21.0,14.0,,,42,27,2,0,0,0,0,0,1,1,0,1,32070,3,16980
+190,Yonex_All_England_Open,2019-03-06,England,WS,4,0,28,China,China,Chen Yu Fei,3.0,Han Yue,,21,10,21.0,14.0,,,42,24,2,0,3,0,6,2,7,0,1,25,6420,22,7120
+191,Yonex_All_England_Open,2021-03-18,England,WS,4,0,36,Thailand,Usa,Ratchanok Intanon,4.0,Iris Wang,,21,14,21.0,13.0,,,42,27,2,0,0,0,0,0,2,0,1,,,9,2750
+192,Yonex_All_England_Open,2021-03-18,England,WS,4,0,48,Thailand,Japan,Busanan Ongbamrungphan,8.0,Aya Ohori,,21,19,21.0,15.0,,,42,34,2,0,0,0,0,0,7,9,0,5,3850,,
+193,Yonex_All_England_Open,2021-03-19,England,WS,6,0,62,Thailand,Denmark,Ratchanok Intanon,4.0,Mia Blichfeldt,7.0,18,21,21.0,17.0,21.0,10.0,60,48,2,1,0,0,0,0,6,0,1,,,3,4900
+194,Yonex_All_England_Open,2021-03-20,England,WS,4,0,45,Thailand,India,Pornpawee Chochuwong,6.0,Pusarla V. Sindhu,5.0,21,17,21.0,9.0,,,42,26,2,0,0,0,0,0,3,6,1,3,4900,2,5950
+195,Yonex_All_England_Open,2021-03-19,England,WS,6,0,73,Japan,Thailand,Nozomi Okuhara,2.0,Busanan Ongbamrungphan,8.0,18,21,21.0,8.0,21.0,16.0,60,45,2,1,0,0,0,0,6,2,1,,,5,3850
+196,Yonex_All_England_Open,2020-03-11,England,WS,4,0,28,Japan,India,Akane Yamaguchi,3.0,Saina Nehwal,,21,11,21.0,8.0,,,42,19,2,0,3,0,6,4,11,2,0,8,12820,9,12780
+197,Yonex_All_England_Open,2018-03-14,England,WS,4,0,47,Japan,Korea,Aya Ohori,,Sung Jihyun,6.0,21,16,21.0,17.0,,,42,33,2,0,3,0,9,4,2,3,1,33,5820,20,7260
+198,Yonex_All_England_Open,2021-03-19,England,WS,6,0,76,India,Japan,Pusarla V. Sindhu,5.0,Akane Yamaguchi,3.0,16,21,21.0,16.0,21.0,19.0,58,56,2,1,0,0,0,0,14,11,0,2,5950,,
+199,Yonex_All_England_Open,2021-03-21,England,WS,4,0,44,Japan,Thailand,Nozomi Okuhara,2.0,Pornpawee Chochuwong,6.0,21,12,21.0,16.0,,,42,28,2,0,0,0,0,0,4,2,1,,,3,4900
+200,Yonex_All_England_Open,2019-03-06,England,WS,4,0,35,China,Singapore,Li Xue Rui,,Yeo Jia Min,,21,19,22.0,20.0,,,43,39,2,0,3,8,10,6,0,1,1,39,4970,12,9920
+201,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,WS,6,0,61,Spain,France,Beatriz Corrales,,Marie Batomene,,21,23,21.0,14.0,21.0,17.0,63,54,2,1,5,1,8,5,1,1,1,31,10110,26,11660
+202,Yonex_All_England_Open,2020-03-12,England,WS,4,0,34,Japan,Japan,Akane Yamaguchi,3.0,Sayaka Takahashi,,21,13,21.0,15.0,,,42,28,2,0,0,0,0,0,9,0,0,8,12820,11,12490
+203,Yonex_All_England_Open,2021-03-18,England,WS,4,0,46,Denmark,Germany,Mia Blichfeldt,7.0,Yvonne Li,,21,16,21.0,17.0,,,42,33,2,0,0,0,0,0,7,2,0,3,4900,9,2750
+204,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,WS,4,0,34,Indonesia,Thailand,Gregoria Mariska Tunjung,,Supanida Katethong,,21,16,21.0,15.0,,,42,31,2,0,5,0,4,3,5,2,1,23,12720,17,16810
+205,Yonex_All_England_Open,2021-03-17,England,WS,4,0,24,Thailand,Bulgaria,Supanida Katethong,,Mariya Mitsova,,21,11,21.0,7.0,,,42,18,2,0,0,0,0,0,0,0,0,9,2750,,
+206,Yonex_All_England_Open,2019-03-06,England,WS,4,0,36,Denmark,Hongkong,Mia Blichfeldt,,Yip Pui Yin,,22,20,21.0,14.0,,,43,34,2,0,2,1,6,4,1,0,0,23,7000,36,5270
+207,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,WS,4,0,36,Thailand,Chinesetaipei,Ratchanok Intanon,2.0,Pai Yu Po,,21,11,21.0,16.0,,,42,27,2,0,3,0,8,6,5,0,0,7,21050,37,9540
+208,Yonex_All_England_Open,2020-03-12,England,WS,4,0,49,India,Korea,Pusarla V. Sindhu,6.0,Sung Jihyun,,21,19,21.0,15.0,,,42,34,2,0,0,0,0,0,8,8,0,19,8640,27,7490
+209,Yonex_All_England_Open,2021-03-17,England,WS,4,0,37,Bulgaria,Switzerland,Linda Zetchiri,,Sabrina Jaquet,,21,19,21.0,9.0,,,42,28,2,0,0,0,0,0,5,1,0,17,1670,17,1670
+210,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,WS,6,0,70,India,Japan,Pusarla V. Sindhu,3.0,Aya Ohori,,17,21,21.0,17.0,21.0,17.0,59,55,2,1,5,1,7,5,12,1,0,4,28650,22,13920
+211,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,WS,6,0,56,Thailand,Japan,Lalinrat Chaiwan,,Sayaka Takahashi,8.0,21,19,14.0,21.0,21.0,14.0,56,54,2,1,6,2,5,5,0,1,0,6,23820,21,14150
+212,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,WS,4,0,26,Korea,Indonesia,An Se Young,4.0,Ruselli Hartawan,,21,11,21.0,8.0,,,42,19,2,0,3,0,14,3,1,1,0,14,17900,36,9640
+213,Yonex_All_England_Open,2020-03-11,England,WS,6,0,65,Thailand,Denmark,Busanan Ongbamrungphan,,Mia Blichfeldt,,21,15,14.0,21.0,21.0,16.0,56,52,2,1,7,2,9,5,3,2,0,6,13470,,
+214,Yonex_All_England_Open,2021-03-19,England,WS,4,0,38,Thailand,Usa,Pornpawee Chochuwong,6.0,Beiwen Zhang,,21,16,21.0,19.0,,,42,35,2,0,0,0,0,0,3,3,0,3,4900,5,3850
+215,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,WS,4,0,36,Thailand,Korea,Ratchanok Intanon,2.0,Kim Ga Eun,,21,19,21.0,12.0,,,42,31,2,0,2,0,8,8,0,4,0,7,21050,38,9130
+216,Yonex_All_England_Open,2021-03-17,England,WS,4,0,29,Japan,Denmark,Nozomi Okuhara,2.0,Julie Dawall Jakobsen,,21,11,21.0,7.0,,,42,18,2,0,2,0,10,2,1,0,1,,,9,2750
+217,Yonex_All_England_Open,2021-03-18,England,WS,4,0,28,Japan,Bulgaria,Nozomi Okuhara,2.0,Linda Zetchiri,,21,6,21.0,13.0,,,42,19,2,0,0,0,0,0,1,0,1,,,17,1670
+218,Yonex_All_England_Open,2018-03-14,England,WS,4,0,31,Japan,Chinesetaipei,Nozomi Okuhara,7.0,Pai Yu Po,,21,15,21.0,8.0,,,42,23,2,0,3,0,8,5,4,3,1,41,5040,22,7200
+219,Yonex_All_England_Open,2020-03-12,England,WS,6,0,72,Thailand,China,Pornpawee Chochuwong,,He Bing Jiao,7.0,17,21,21.0,18.0,21.0,12.0,59,51,2,1,0,0,0,0,1,14,0,5,15860,7,12840
+220,Siminvest_Indonesia_Open_2021_New_,2021-11-26,Indonesia,WS,4,0,34,Korea,Thailand,An Se Young,4.0,Lalinrat Chaiwan,,21,13,21.0,11.0,,,42,24,2,0,2,0,7,3,5,2,1,14,17900,6,23820
+221,Yonex_All_England_Open,2021-03-18,England,WS,4,0,25,India,Denmark,Pusarla V. Sindhu,5.0,Line Christophersen,,21,8,21.0,8.0,,,42,16,2,0,0,0,0,0,4,0,0,2,5950,5,3850
+222,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,WS,6,0,63,Japan,Singapore,Akane Yamaguchi,1.0,Yeo Jia Min,,21,15,19.0,21.0,21.0,14.0,61,50,2,1,4,1,6,3,3,1,0,3,29600,16,16850
+223,Yonex_All_England_Open,2021-03-18,England,WS,4,0,39,Thailand,Thailand,Pornpawee Chochuwong,6.0,Lalinrat Chaiwan,,21,17,21.0,11.0,,,42,28,2,0,0,0,0,0,2,2,0,3,4900,5,3850
+224,Siminvest_Indonesia_Open_2021_New_,2021-11-26,Indonesia,WS,6,0,72,Thailand,Japan,Pornpawee Chochuwong,5.0,Akane Yamaguchi,1.0,21,6,21.0,23.0,21.0,11.0,63,40,2,1,3,4,11,4,4,10,0,2,35200,3,29600
+225,Yonex_All_England_Open,2018-03-14,England,WS,4,0,38,Korea,Denmark,Kim Hyo Min,,Line Højmark Kjaersfeldt,,21,15,21.0,12.0,,,42,27,2,0,2,0,6,3,3,0,1,,,5,13270
+226,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,WS,4,0,31,Singapore,Poland,Yeo Jia Min,,Jordan Hart,,21,9,21.0,10.0,,,42,19,2,0,2,0,7,3,1,0,0,16,16850,27,11220
+227,Yonex_All_England_Open,2020-03-12,England,WS,4,0,31,Chinesetaipei,Indonesia,Tai Tzu Ying,2.0,Gregoria Mariska Tunjung,,22,20,21.0,16.0,,,43,36,2,0,0,0,0,0,8,0,1,26,7800,23,8290
+228,Siminvest_Indonesia_Open_2021_New_,2021-11-27,Indonesia,WS,4,0,50,Korea,Thailand,An Se Young,4.0,Pornpawee Chochuwong,5.0,21,19,21.0,19.0,,,42,38,2,0,0,0,0,0,8,0,1,14,17900,2,35200
+229,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,WS,4,0,37,Japan,Japan,Sayaka Takahashi,8.0,Saena Kawakami,,21,14,21.0,14.0,,,42,28,2,0,2,0,9,4,1,2,0,21,14150,67,2220
+230,Siminvest_Indonesia_Open_2021_New_,2021-11-27,Indonesia,WS,6,0,54,Thailand,India,Ratchanok Intanon,2.0,Pusarla V. Sindhu,3.0,15,21,21.0,9.0,21.0,14.0,57,44,2,1,3,1,6,4,8,4,1,7,21050,4,28650
+231,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,WS,4,0,31,Korea,Canada,Sim Yu Jin,,Michelle Li,6.0,21,11,21.0,9.0,,,42,20,2,0,2,0,8,2,0,1,1,68,2660,47,6420
+232,Yonex_All_England_Open,2021-03-17,England,WS,4,0,37,Japan,Denmark,Aya Ohori,,Line Højmark Kjaersfeldt,,21,16,21.0,10.0,,,42,26,2,0,3,0,6,3,3,2,1,,,9,2750
+233,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,WS,4,0,50,Thailand,Indonesia,Lalinrat Chaiwan,,Yulia Yosephine Susanto,,21,18,21.0,19.0,,,42,37,2,0,2,0,4,5,1,1,0,6,23820,68,2660
+234,Siminvest_Indonesia_Open_2021_New_,2021-11-26,Indonesia,WS,6,0,66,India,Korea,Pusarla V. Sindhu,3.0,Sim Yu Jin,,14,21,21.0,19.0,21.0,14.0,56,54,2,1,5,1,9,7,2,0,0,4,28650,68,2660
+235,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,WS,6,0,56,Japan,Indonesia,Asuka Takahashi,,Fitriani Fitriani,,21,14,14.0,21.0,21.0,11.0,56,46,2,1,2,1,7,4,0,0,0,68,2660,68,2660
+236,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,WS,4,0,25,Korea,France,An Se Young,4.0,Léonice Huet,,21,8,21.0,10.0,,,42,18,2,0,3,0,14,4,3,0,0,14,17900,28,11070
+237,Yonex_All_England_Open,2020-03-11,England,WS,4,0,46,Korea,Thailand,Sung Jihyun,,Nitchaon Jindapol,,23,21,21.0,10.0,,,44,31,2,0,2,2,12,3,10,3,0,27,7490,35,5820
+238,Siminvest_Indonesia_Open_2021_New_,2021-11-26,Indonesia,WS,4,0,39,Thailand,Japan,Ratchanok Intanon,2.0,Asuka Takahashi,,21,17,21.0,12.0,,,42,29,2,0,2,0,5,3,1,0,0,7,21050,68,2660
+239,Siminvest_Indonesia_Open_2021_New_,2021-11-28,Indonesia,WS,4,0,46,Korea,Thailand,An Se Young,4.0,Ratchanok Intanon,2.0,21,17,22.0,20.0,,,43,37,2,0,12,0,6,7,5,1,1,14,17900,7,21050
+240,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,WS,6,0,60,Thailand,Indonesia,Pornpawee Chochuwong,5.0,Gregoria Mariska Tunjung,,11,21,21.0,9.0,22.0,20.0,54,50,2,1,4,2,7,6,2,4,0,2,35200,23,12720
+241,Yonex_All_England_Open,2019-03-06,England,WS,4,0,35,Usa,Thailand,Beiwen Zhang,,Nitchaon Jindapol,,21,17,21.0,14.0,,,42,31,2,0,3,0,5,4,3,3,1,44,3850,15,8570
+242,Yonex_All_England_Open,2021-03-17,England,WS,4,0,29,Thailand,Israel,Pornpawee Chochuwong,6.0,Ksenia Polikarpova,,21,10,21.0,9.0,,,42,19,2,0,0,0,0,0,0,0,0,3,4900,9,2750
+243,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,WS,4,0,24,Japan,Ukraine,Akane Yamaguchi,1.0,Maria Ulitina,,21,13,21.0,10.0,,,42,23,2,0,5,0,9,4,0,1,0,3,29600,55,3600
+244,Yonex_All_England_Open,2022-03-17,England,WS,4,0,46,Chinesetaipei,Thailand,Tai Tzu Ying,1.0,Busanan Ongbamrungphan,,21,19,22.0,20.0,,,43,39,2,0,2,2,8,4,16,4,1,44,2750,5,10870
+245,Yonex_All_England_Open,2020-03-11,England,WS,4,0,31,Thailand,Malaysia,Ratchanok Intanon,5.0,Soniia Cheah,,21,9,21.0,11.0,,,42,20,2,0,4,0,6,2,6,0,0,4,16650,50,2750
+246,Yonex_All_England_Open,2022-03-18,England,WS,4,0,35,Chinesetaipei,Japan,Tai Tzu Ying,1.0,Nozomi Okuhara,5.0,21,10,21.0,11.0,,,42,21,2,0,3,0,7,3,8,6,0,44,2750,,
+247,Yonex_All_England_Open,2021-03-18,England,WS,6,0,41,Usa,Thailand,Beiwen Zhang,,Supanida Katethong,,7,21,21.0,13.0,21.0,9.0,49,43,2,1,0,0,0,0,2,2,0,5,3850,9,2750
+248,Yonex_All_England_Open,2020-03-11,England,WS,6,0,53,Denmark,Thailand,Line Højmark Kjaersfeldt,,Lalinrat Chaiwan,,21,18,19.0,21.0,21.0,9.0,61,48,2,1,3,1,5,4,1,1,1,21,8570,10,12550
+249,Yonex_All_England_Open,2022-03-17,England,WS,4,0,42,Japan,China,Nozomi Okuhara,5.0,Han Yue,,21,15,21.0,18.0,,,42,33,2,0,3,0,5,4,2,1,1,,,44,2750
+250,Yonex_All_England_Open,2021-03-17,England,WS,4,0,30,Thailand,Estonia,Ratchanok Intanon,4.0,Kristin Kuuba,,21,14,21.0,16.0,,,42,30,2,0,2,0,6,3,0,0,1,,,17,1670
+251,Yonex_All_England_Open,2020-03-11,England,WS,6,0,58,Japan,Korea,Aya Ohori,,Kim Ga Eun,,12,21,21.0,16.0,21.0,18.0,54,55,2,1,2,1,5,4,3,4,1,15,10720,12,12390
+252,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,WS,6,0,68,Germany,Turkey,Yvonne Li,,Neslihan Arin,,19,21,23.0,21.0,21.0,13.0,63,55,2,1,2,3,4,6,2,3,0,11,18380,19,14510
+253,Yonex_All_England_Open,2022-03-19,England,WS,4,0,40,Korea,Chinesetaipei,An Se Young,4.0,Tai Tzu Ying,1.0,21,19,21.0,13.0,,,42,32,2,0,6,0,4,6,11,2,0,24,4900,44,2750
+254,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,WS,4,0,39,Thailand,Belgium,Pornpawee Chochuwong,5.0,Lianne Tan,,21,12,21.0,12.0,,,42,24,2,0,4,0,9,3,3,0,0,2,35200,8,20510
+255,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,WS,4,0,36,Japan,Thailand,Asuka Takahashi,,Busanan Ongbamrungphan,7.0,21,7,22.0,20.0,,,43,27,2,0,2,1,10,5,0,0,1,68,2660,1,36000
+256,Yonex_All_England_Open,2020-03-11,England,WS,4,0,36,Japan,Canada,Nozomi Okuhara,4.0,Michelle Li,,21,12,21.0,12.0,,,42,24,2,0,3,0,6,4,9,4,0,19,8640,37,5040
+257,Yonex_All_England_Open,2022-03-16,England,WS,4,0,42,India,China,Pusarla V. Sindhu,6.0,Wang Zhi Yi,,21,18,21.0,13.0,,,42,31,2,0,4,0,9,3,1,2,0,2,16170,60,1670
+258,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,WS,4,0,33,Thailand,Russia,Busanan Ongbamrungphan,7.0,Evgeniya Kosetskaya,,21,10,21.0,13.0,,,42,23,2,0,4,0,6,4,2,0,0,1,36000,29,10790
+259,Yonex_All_England_Open,2021-03-17,England,WS,4,0,32,Japan,France,Akane Yamaguchi,3.0,Qi Xuefei,,21,17,21.0,13.0,,,42,30,2,0,3,0,5,3,0,0,1,,,17,1670
+260,Yonex_All_England_Open,2022-03-18,England,WS,4,0,35,Korea,Usa,An Se Young,4.0,Iris Wang,,21,12,21.0,9.0,,,42,21,2,0,3,0,10,4,2,1,0,24,4900,60,1670
+261,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,WS,6,0,49,Chinesetaipei,Denmark,Pai Yu Po,,Line Christophersen,,14,21,21.0,18.0,21.0,11.0,56,50,2,1,2,1,6,7,2,1,1,37,9540,5,26600
+262,Yonex_All_England_Open,2019-03-06,England,WS,4,0,42,Denmark,China,Line Højmark Kjaersfeldt,,Cai Yan Yan,,25,23,21.0,15.0,,,46,38,2,0,5,2,9,5,0,0,0,5,11770,13,9870
+263,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,WS,4,0,33,France,Spain,Léonice Huet,,Clara Azurmendi,,22,20,21.0,10.0,,,43,30,2,0,2,1,8,6,0,1,1,28,11070,24,12010
+264,Yonex_All_England_Open,2022-03-19,England,WS,4,0,41,Japan,China,Akane Yamaguchi,2.0,Chen Yu Fei,3.0,21,11,21.0,13.0,,,42,24,2,0,2,0,6,3,20,11,1,44,2750,19,5950
+265,Yonex_All_England_Open,2022-03-20,England,WS,4,0,44,Japan,Korea,Akane Yamaguchi,2.0,An Se Young,4.0,21,15,21.0,15.0,,,42,30,2,0,2,0,6,4,12,11,1,44,2750,24,4900
+266,Yonex_All_England_Open,2022-03-18,England,WS,4,0,34,Japan,Japan,Akane Yamaguchi,2.0,Sayaka Takahashi,,21,18,21.0,7.0,,,42,25,2,0,2,0,13,4,9,0,1,44,2750,33,3850
+267,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,WS,4,0,37,India,Germany,Pusarla V. Sindhu,3.0,Yvonne Li,,21,12,21.0,18.0,,,42,30,2,0,5,0,7,3,2,0,0,4,28650,11,18380
+268,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,WS,4,0,47,China,India,He Bing Jiao,,Pusarla V. Sindhu,7.0,21,14,21.0,18.0,,,42,32,2,0,4,0,5,4,11,10,1,5,32060,1,45850
+269,Yonex_All_England_Open,2022-03-16,England,WS,4,0,33,Thailand,France,Busanan Ongbamrungphan,,Léonice Huet,,21,9,21.0,13.0,,,42,22,2,0,2,0,7,3,0,0,0,5,10870,60,1670
+270,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,WS,6,0,52,Thailand,Indonesia,Lalinrat Chaiwan,,Gregoria Mariska Tunjung,,21,17,10.0,21.0,21.0,12.0,52,50,2,1,2,1,7,7,0,5,0,47,7780,54,6600
+271,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,WS,4,0,41,Japan,Denmark,Akane Yamaguchi,1.0,Mia Blichfeldt,,21,15,21.0,18.0,,,42,33,2,0,2,0,5,4,10,0,0,14,19790,68,4440
+272,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,WS,4,0,36,Korea,Spain,Sim Yu Jin,,Beatriz Corrales,,21,13,21.0,14.0,,,42,27,2,0,4,0,6,4,0,0,1,68,2660,31,10110
+273,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,WS,4,0,48,China,Spain,Wang Zhi Yi,,Carolina Marin,5.0,21,17,21.0,18.0,,,42,35,2,0,4,0,5,4,0,2,0,15,18990,,
+274,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,WS,4,0,39,China,Korea,Chen Yu Fei,4.0,Kim Ga Eun,,21,10,21.0,17.0,,,42,27,2,0,2,0,6,3,6,1,0,2,40900,19,16370
+275,East_Ventures_Indonesia_Open,2022-06-17,Indonesia,WS,6,0,69,China,Korea,He Bing Jiao,,An Se Young,3.0,15,21,21.0,17.0,21.0,14.0,57,52,2,1,3,4,7,4,4,8,1,5,32060,3,35020
+276,East_Ventures_Indonesia_Open,2022-06-18,Indonesia,WS,4,0,42,China,China,Wang Zhi Yi,,He Bing Jiao,,21,15,21.0,10.0,,,42,25,2,0,3,0,8,3,4,3,1,15,18990,5,32060
+277,East_Ventures_Indonesia_Open,2022-06-17,Indonesia,WS,4,0,37,China,Japan,Chen Yu Fei,4.0,Nozomi Okuhara,6.0,21,16,21.0,10.0,,,42,26,2,0,3,0,7,5,9,4,0,2,40900,37,10200
+278,East_Ventures_Indonesia_Open,2022-06-18,Indonesia,WS,6,0,69,Chinesetaipei,China,Tai Tzu Ying,2.0,Chen Yu Fei,4.0,10,21,26.0,24.0,21.0,12.0,57,57,2,1,3,7,6,7,18,9,1,12,20350,2,40900
+279,Yonex_All_England_Open,2021-03-17,England,WS,4,0,24,Denmark,Slovakia,Line Christophersen,,Martina Repiska,,21,12,21.0,11.0,,,42,23,2,0,0,0,0,0,0,0,0,5,3850,,
+280,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,WS,4,0,49,Spain,Denmark,Carolina Marin,5.0,Julie Dawall Jakobsen,,21,17,21.0,17.0,,,42,34,2,0,2,0,7,4,3,0,1,,,22,14950
+281,Yonex_All_England_Open,2022-03-17,England,WS,4,0,40,Korea,Scotland,An Se Young,4.0,Kirsty Gilmour,,21,17,21.0,16.0,,,42,33,2,0,3,0,9,4,5,0,0,24,4900,60,1670
+282,East_Ventures_Indonesia_Open,2022-06-17,Indonesia,WS,4,0,37,Chinesetaipei,Denmark,Tai Tzu Ying,2.0,Line Højmark Kjaersfeldt,,21,13,21.0,13.0,,,42,26,2,0,2,0,5,5,5,0,0,12,20350,18,18530
+283,Yonex_All_England_Open,2022-03-17,England,WS,6,0,47,China,Spain,He Bing Jiao,8.0,Clara Azurmendi,,16,21,21.0,6.0,21.0,9.0,58,36,2,1,2,1,8,3,1,0,0,13,7000,60,1670
+284,East_Ventures_Indonesia_Open,2022-06-19,Indonesia,WS,6,0,60,Chinesetaipei,China,Tai Tzu Ying,2.0,Wang Zhi Yi,,21,23,21.0,6.0,21.0,15.0,63,44,2,1,3,2,11,5,1,0,0,12,20350,15,18990
+285,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,WS,6,0,59,Scotland,Denmark,Kirsty Gilmour,,Line Christophersen,,17,21,21.0,16.0,21.0,19.0,59,56,2,1,3,2,7,5,4,1,0,17,18570,24,14680
+286,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,WS,4,0,32,Japan,Thailand,Nozomi Okuhara,6.0,Lalinrat Chaiwan,,21,16,21.0,8.0,,,42,24,2,0,3,0,9,6,1,1,0,37,10200,47,7780
+287,Yonex_All_England_Open,2020-03-11,England,WS,4,0,37,China,Hongkong,Wang Zhi Yi,,Cheung Ngan Yi,,21,14,21.0,16.0,,,42,30,2,0,4,0,7,4,0,0,0,3,16980,44,3890
+288,Yonex_All_England_Open,2022-03-16,England,WS,4,0,27,Scotland,Usa,Kirsty Gilmour,,Beiwen Zhang,,21,16,21.0,13.0,,,42,29,2,0,2,0,7,3,2,3,0,60,1670,,
+289,Yonex_All_England_Open,2022-03-17,England,WS,6,0,66,Japan,India,Sayaka Takahashi,,Pusarla V. Sindhu,6.0,21,19,16.0,21.0,21.0,17.0,58,57,2,1,4,1,5,5,4,4,1,33,3850,2,16170
+290,East_Ventures_Indonesia_Open,2022-06-17,Indonesia,WS,4,0,43,China,Japan,Wang Zhi Yi,,Akane Yamaguchi,1.0,21,19,21.0,14.0,,,42,33,2,0,2,0,5,4,2,5,1,15,18990,14,19790
+291,Yonex_All_England_Open,2021-03-17,England,WS,6,0,46,Usa,Thailand,Iris Wang,,Benyapa Aimsaard,,15,21,21.0,16.0,21.0,6.0,57,43,2,1,2,1,8,11,1,0,0,9,2750,,
+292,Yonex_All_England_Open,2022-03-16,England,WS,4,0,29,China,France,Han Yue,,Marie Batomene,,21,9,21.0,13.0,,,42,22,2,0,4,0,9,3,0,0,0,44,2750,,
+293,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,WS,4,0,40,Japan,Chinesetaipei,Nozomi Okuhara,6.0,Pai Yu Po,,21,14,21.0,18.0,,,42,32,2,0,2,0,5,4,4,3,0,37,10200,95,2220
+294,Yonex_All_England_Open,2022-03-16,England,WS,4,0,36,Japan,Denmark,Nozomi Okuhara,5.0,Line Christophersen,,21,15,21.0,16.0,,,42,31,2,0,5,0,7,5,0,0,1,,,60,1670
+295,Yonex_All_England_Open,2021-03-17,England,WS,4,0,30,Thailand,Malaysia,Busanan Ongbamrungphan,8.0,Kisona Selvaduray,,21,6,21.0,7.0,,,42,13,2,0,0,0,0,0,2,0,0,5,3850,,
+296,Yonex_All_England_Open,2022-03-16,England,WS,4,0,33,Spain,Denmark,Clara Azurmendi,,Line Højmark Kjaersfeldt,,21,19,21.0,11.0,,,42,30,2,0,3,0,9,4,0,3,1,60,1670,44,2750
+297,Yonex_All_England_Open,2022-03-17,England,WS,6,0,50,Japan,India,Akane Yamaguchi,2.0,Saina Nehwal,,21,14,17.0,21.0,21.0,17.0,59,52,2,1,2,1,7,6,11,2,1,44,2750,14,6350
+298,Yonex_All_England_Open,2022-03-17,England,WS,4,0,34,Usa,Canada,Iris Wang,,Michelle Li,,21,15,21.0,14.0,,,42,29,2,0,2,0,9,6,0,10,1,60,1670,33,3850
+299,Yonex_All_England_Open,2022-03-16,England,WS,4,0,30,Chinesetaipei,Belgium,Tai Tzu Ying,1.0,Lianne Tan,,21,12,21.0,14.0,,,42,26,2,0,4,0,8,4,2,0,0,44,2750,44,2750
+300,Yonex_All_England_Open,2021-03-17,England,WS,4,0,34,Germany,Scotland,Yvonne Li,,Kirsty Gilmour,,21,7,21.0,18.0,,,42,25,2,0,0,0,0,0,2,6,0,9,2750,,
+301,Yonex_All_England_Open,2022-03-17,England,WS,4,0,28,China,Denmark,Chen Yu Fei,3.0,Julie Dawall Jakobsen,,21,10,21.0,12.0,,,42,22,2,0,5,0,6,3,0,0,0,19,5950,60,1670
+302,Yonex_All_England_Open,2022-03-16,England,WS,6,0,55,Denmark,Germany,Julie Dawall Jakobsen,,Yvonne Li,,21,15,7.0,21.0,21.0,18.0,49,54,2,1,2,1,4,6,5,4,1,60,1670,33,3850
+303,Yonex_All_England_Open,2022-03-16,England,WS,4,0,19,China,Ukraine,He Bing Jiao,8.0,Maria Ulitina,,21,8,21.0,6.0,,,42,14,2,0,5,0,8,2,0,0,0,13,7000,38,3600
+304,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,WS,4,0,35,Thailand,Thailand,Ratchanok Intanon,8.0,Pornpawee Chochuwong,,21,17,21.0,17.0,,,42,34,2,0,4,0,6,4,4,2,0,9,23110,27,13070
+305,Yonex_All_England_Open,2021-03-17,England,WS,6,0,59,Turkey,France,Neslihan Arin,,Marie Batomene,,13,21,21.0,19.0,21.0,17.0,55,57,2,1,3,3,4,8,3,0,0,17,1670,,
+306,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,WS,6,0,60,Thailand,China,Busanan Ongbamrungphan,,Han Yue,,21,15,12.0,21.0,22.0,20.0,55,56,2,1,8,1,4,7,2,5,0,4,33920,13,20080
+307,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,WS,4,0,32,Japan,Usa,Sayaka Takahashi,,Beiwen Zhang,,21,16,21.0,14.0,,,42,30,2,0,7,0,4,3,1,0,0,29,12670,54,6600
+308,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,WS,4,0,31,China,Canada,Wang Zhi Yi,,Michelle Li,,21,5,21.0,12.0,,,42,17,2,0,2,0,9,3,0,1,1,15,18990,8,23650
+309,Yonex_All_England_Open,2021-03-17,England,WS,4,0,30,Thailand,Belgium,Lalinrat Chaiwan,,Lianne Tan,,21,9,21.0,15.0,,,42,24,2,0,3,0,14,4,3,0,0,5,3850,17,1670
+310,Yonex_All_England_Open,2020-03-11,England,WS,4,0,31,China,Scotland,He Bing Jiao,7.0,Kirsty Gilmour,,21,10,21.0,16.0,,,42,26,2,0,0,0,0,0,4,2,0,7,12840,32,6350
+311,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,WS,4,0,37,Korea,Scotland,An Se Young,3.0,Kirsty Gilmour,,21,14,21.0,11.0,,,42,25,2,0,2,0,6,3,5,0,0,3,35020,17,18570
+312,Yonex_All_England_Open,2021-03-17,England,WS,6,0,47,Usa,Wales,Beiwen Zhang,,Jordan Hart,,21,10,19.0,21.0,21.0,12.0,61,43,2,1,0,0,0,0,0,0,0,5,3850,17,1670
+313,Yonex_All_England_Open,2020-03-11,England,WS,4,0,30,Spain,China,Carolina Marin,8.0,Zhang Yi Man,,21,13,21.0,14.0,,,42,27,2,0,0,0,0,0,4,1,0,1,32070,17,8860
+314,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,WS,4,0,32,China,Thailand,He Bing Jiao,,Busanan Ongbamrungphan,,21,9,21.0,9.0,,,42,18,2,0,3,0,7,6,10,1,1,5,32060,4,33920
+315,Yonex_All_England_Open,2020-03-11,England,WS,6,0,66,Thailand,China,Pornpawee Chochuwong,,Han Yue,,21,17,14.0,21.0,24.0,22.0,59,60,2,1,0,0,0,0,1,7,0,5,15860,27,7490
+316,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,WS,4,0,31,Korea,Turkey,An Se Young,3.0,Neslihan Arin,,21,13,21.0,10.0,,,42,23,2,0,4,0,8,5,0,0,0,3,35020,89,2750
+317,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,WS,4,0,35,Usa,Germany,Iris Wang,,Yvonne Li,,21,9,21.0,15.0,,,42,24,2,0,3,0,8,4,1,0,0,10,21840,28,12920
+318,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,WS,6,0,57,China,China,Chen Yu Fei,4.0,Zhang Yi Man,,21,10,15.0,21.0,21.0,12.0,57,43,2,1,4,1,6,4,6,0,0,2,40900,30,12390
+319,Yonex_All_England_Open,2020-03-11,England,WS,4,0,28,Japan,Russia,Sayaka Takahashi,,Evgeniya Kosetskaya,,21,12,21.0,9.0,,,42,21,2,0,0,0,0,0,2,0,0,11,12490,13,11630
+320,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,WS,4,0,30,Chinesetaipei,Singapore,Tai Tzu Ying,2.0,Yeo Jia Min,,21,14,21.0,14.0,,,42,28,2,0,2,0,10,4,3,0,0,12,20350,23,14710
+321,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,WS,4,0,36,Denmark,Belgium,Line Højmark Kjaersfeldt,,Lianne Tan,,21,16,21.0,8.0,,,42,24,2,0,4,0,10,4,4,0,0,18,18530,32,10720
+322,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,WS,6,0,58,Chinesetaipei,Usa,Tai Tzu Ying,2.0,Iris Wang,,15,21,21.0,16.0,21.0,9.0,57,46,2,1,6,1,6,5,4,0,1,12,20350,10,21840
+323,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,WS,6,0,63,Denmark,Thailand,Line Højmark Kjaersfeldt,,Ratchanok Intanon,8.0,15,21,21.0,16.0,22.0,20.0,58,57,2,1,3,2,6,4,0,3,1,18,18530,9,23110
+324,Yonex_All_England_Open,2023-03-14,England,WS,4,0,36,Thailand,Japan,Pornpawee Chochuwong,,Nozomi Okuhara,,21,11,21.0,15.0,,,42,26,2,0,2,0,8,6,1,5,0,7,19740,30,7880
+325,Yonex_All_England_Open,2023-03-16,England,WS,4,0,43,Indonesia,Thailand,Gregoria Mariska Tunjung,,Lalinrat Chaiwan,,21,11,21.0,19.0,,,42,30,2,0,2,0,8,7,4,1,0,15,14160,49,1670
+326,Yonex_All_England_Open,2023-03-17,England,WS,4,0,56,China,Indonesia,Chen Yu Fei,4.0,Gregoria Mariska Tunjung,,24,22,23.0,21.0,,,47,43,2,0,5,2,3,6,9,3,0,8,19350,15,14160
+327,Yonex_All_England_Open,2023-03-18,England,WS,4,0,37,China,Japan,Chen Yu Fei,4.0,Akane Yamaguchi,1.0,21,17,21.0,8.0,,,42,25,2,0,2,0,6,3,10,21,1,8,19350,2,28350
+328,Yonex_All_England_Open,2022-03-16,England,WS,4,0,38,India,Spain,Saina Nehwal,,Beatriz Corrales,,21,17,21.0,19.0,,,42,36,2,0,2,0,9,6,0,0,0,14,6350,60,1670
+329,Yonex_All_England_Open,2023-03-15,England,WS,4,0,33,Chinesetaipei,Korea,Tai Tzu Ying,3.0,Kim Ga Eun,,21,10,21.0,12.0,,,42,22,2,0,4,0,7,2,8,0,1,29,8400,12,17240
+330,Yonex_All_England_Open,2023-03-14,England,WS,6,0,64,Indonesia,Denmark,Gregoria Mariska Tunjung,,Line Højmark Kjaersfeldt,,15,21,21.0,12.0,22.0,20.0,58,53,2,1,2,4,4,4,2,0,0,15,14160,17,13110
+331,Yonex_All_England_Open,2020-03-11,England,WS,6,0,47,Chinesetaipei,China,Tai Tzu Ying,2.0,Cai Yan Yan,,14,21,21.0,19.0,21.0,8.0,56,48,2,1,0,0,0,0,2,0,1,26,7800,21,8570
+332,Yonex_All_England_Open,2023-03-16,England,WS,4,0,54,China,Thailand,Chen Yu Fei,4.0,Pornpawee Chochuwong,,21,18,24.0,22.0,,,45,40,2,0,5,1,5,5,12,1,1,8,19350,7,19740
+333,Yonex_All_England_Open,2023-03-15,England,WS,4,0,30,Japan,Denmark,Akane Yamaguchi,1.0,Mia Blichfeldt,,21,9,21.0,10.0,,,42,19,2,0,2,0,12,3,10,0,0,2,28350,13,15610
+334,Yonex_All_England_Open,2023-03-18,England,WS,6,0,82,Korea,Chinesetaipei,An Se Young,2.0,Tai Tzu Ying,3.0,17,21,21.0,19.0,24.0,22.0,62,62,2,1,2,6,7,4,11,2,0,1,36350,29,8400
+335,Yonex_All_England_Open,2020-03-11,England,WS,4,0,29,Indonesia,Singapore,Gregoria Mariska Tunjung,,Yeo Jia Min,,21,12,21.0,17.0,,,42,29,2,0,0,0,0,0,6,3,0,23,8290,33,6110
+336,Yonex_All_England_Open,2023-03-14,England,WS,4,0,49,China,Canada,Chen Yu Fei,4.0,Michelle Li,,22,20,21.0,14.0,,,43,34,2,0,5,0,5,5,10,1,0,8,19350,25,9680
+337,Yonex_All_England_Open,2023-03-19,England,WS,6,0,75,Korea,China,An Se Young,2.0,Chen Yu Fei,4.0,21,17,10.0,21.0,21.0,19.0,52,57,2,1,4,2,5,5,6,13,0,1,36350,8,19350
+338,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WS,6,0,51,Japan,China,Akane Yamaguchi,1.0,Zhang Yi Man,,6,21,21.0,7.0,22.0,20.0,49,48,2,1,2,3,9,6,5,1,0,2,55300,13,36480
+339,Yonex_All_England_Open,2023-03-17,England,WS,4,0,40,Japan,China,Akane Yamaguchi,1.0,Wang Zhi Yi,6.0,21,19,21.0,12.0,,,42,31,2,0,3,0,8,3,4,3,0,2,28350,4,21190
+340,Yonex_All_England_Open,2023-03-16,England,WS,4,0,41,Spain,Usa,Carolina Marin,7.0,Beiwen Zhang,,21,13,21.0,18.0,,,42,31,2,0,2,0,4,4,8,3,0,5,20450,14,15400
+341,Yonex_All_England_Open,2022-03-16,England,WS,4,0,34,Japan,Estonia,Akane Yamaguchi,2.0,Kristin Kuuba,,21,13,21.0,13.0,,,42,26,2,0,2,0,4,4,1,0,0,44,2750,60,1670
+342,Yonex_All_England_Open,2023-03-15,England,WS,4,0,39,China,India,Zhang Yi Man,,Pusarla V. Sindhu,,21,17,21.0,11.0,,,42,28,2,0,4,0,7,4,2,2,0,10,17630,35,5660
+343,Kapal_Api_Group_Indonesia_Open,2023-06-16,Indonesia,WS,4,0,44,Spain,Chinesetaipei,Carolina Marin,6.0,Tai Tzu Ying,3.0,21,18,21.0,13.0,,,42,31,2,0,2,0,8,4,11,12,0,3,49690,25,24500
+344,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,WS,4,0,60,Spain,Singapore,Carolina Marin,6.0,Yeo Jia Min,,26,24,23.0,21.0,,,49,45,2,0,9,2,6,4,3,0,0,3,49690,17,31210
+345,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WS,6,0,70,Korea,Canada,Kim Ga Eun,,Michelle Li,,22,24,21.0,17.0,23.0,21.0,66,62,2,1,8,3,6,5,1,3,0,14,35320,16,31500
+346,Yonex_All_England_Open,2022-03-16,England,WS,4,0,28,Korea,Indonesia,An Se Young,4.0,Gregoria Mariska Tunjung,,21,16,21.0,4.0,,,42,20,2,0,3,0,8,5,8,0,0,24,4900,,
+347,Yonex_All_England_Open,2023-03-17,England,WS,4,0,33,Chinesetaipei,China,Tai Tzu Ying,3.0,He Bing Jiao,5.0,21,12,21.0,11.0,,,42,23,2,0,4,0,6,4,15,4,1,29,8400,9,19200
+348,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,WS,4,0,38,India,Indonesia,Pusarla V. Sindhu,,Gregoria Mariska Tunjung,,21,19,21.0,15.0,,,42,34,2,0,4,0,6,3,9,2,1,22,28660,5,44780
+349,Kapal_Api_Group_Indonesia_Open,2023-06-16,Indonesia,WS,4,0,47,China,Korea,Chen Yu Fei,4.0,Kim Ga Eun,,21,11,21.0,19.0,,,42,30,2,0,4,0,5,3,6,1,0,12,37250,14,35320
+350,Yonex_All_England_Open,2023-03-16,England,WS,4,0,40,Chinesetaipei,Thailand,Tai Tzu Ying,3.0,Busanan Ongbamrungphan,,21,19,21.0,12.0,,,42,31,2,0,3,0,6,9,16,4,1,29,8400,18,12720
+351,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,WS,4,0,39,Chinesetaipei,India,Tai Tzu Ying,3.0,Pusarla V. Sindhu,,21,18,21.0,16.0,,,42,34,2,0,3,0,7,3,19,5,1,25,24500,22,28660
+352,Kapal_Api_Group_Indonesia_Open,2023-06-17,Indonesia,WS,4,0,46,China,Korea,Chen Yu Fei,4.0,An Se Young,2.0,21,8,21.0,17.0,,,42,25,2,0,2,0,6,4,12,7,1,12,37250,1,68550
+353,Kapal_Api_Group_Indonesia_Open,2023-06-18,Indonesia,WS,4,0,64,China,Spain,Chen Yu Fei,4.0,Carolina Marin,6.0,21,18,21.0,19.0,,,42,37,2,0,2,0,7,3,6,6,1,12,37250,3,49690
+354,Yonex_All_England_Open,2023-03-15,England,WS,4,0,42,Spain,Scotland,Carolina Marin,7.0,Kirsty Gilmour,,21,19,21.0,17.0,,,42,36,2,0,2,0,6,5,11,3,0,5,20450,28,8990
+355,Kapal_Api_Group_Indonesia_Open,2023-06-17,Indonesia,WS,4,0,43,Spain,Thailand,Carolina Marin,6.0,Ratchanok Intanon,8.0,21,12,21.0,11.0,,,42,23,2,0,2,0,7,4,5,7,0,3,49690,27,22790
+356,Yonex_All_England_Open,2022-03-16,England,WS,4,0,40,Canada,India,Michelle Li,,Aakarshi Kashyap,,21,18,21.0,18.0,,,42,36,2,0,2,0,5,4,1,1,1,33,3850,4,11940
+357,Yonex_All_England_Open,2023-03-16,England,WS,4,0,35,Japan,Germany,Akane Yamaguchi,1.0,Yvonne Li,,21,13,21.0,17.0,,,42,30,2,0,5,0,5,4,3,0,0,2,28350,23,10630
+358,Kapal_Api_Group_Indonesia_Open,2023-06-16,Indonesia,WS,6,0,73,Thailand,Japan,Ratchanok Intanon,8.0,Akane Yamaguchi,1.0,18,21,25.0,23.0,21.0,16.0,64,60,2,1,4,3,5,6,10,15,1,27,22790,2,55300
+359,Victor_China_Open,2023-09-05,China,WS,4,0,41,China,Singapore,Wang Zhi Yi,,Yeo Jia Min,,21,17,21.0,19.0,,,42,36,2,0,2,0,7,4,4,0,0,9,58310,18,47590
+360,Yonex_All_England_Open,2023-03-15,England,WS,4,0,43,Thailand,Japan,Busanan Ongbamrungphan,,Aya Ohori,,21,15,21.0,15.0,,,42,30,2,0,2,0,6,2,7,9,0,18,12720,20,11350
+361,Yonex_All_England_Open,2023-03-16,England,WS,4,0,42,China,China,Wang Zhi Yi,6.0,Han Yue,,21,14,21.0,16.0,,,42,30,2,0,4,0,8,3,4,3,1,4,21190,3,23160
+362,Kapal_Api_Group_Indonesia_Open,2023-06-16,Indonesia,WS,6,0,82,Korea,China,An Se Young,2.0,He Bing Jiao,5.0,21,18,19.0,21.0,21.0,11.0,61,50,2,1,4,1,6,5,7,5,0,1,68550,9,39650
+363,Yonex_All_England_Open,2023-03-14,England,WS,4,0,31,Thailand,Thailand,Lalinrat Chaiwan,,Ratchanok Intanon,8.0,21,16,21.0,17.0,,,42,33,2,0,6,0,5,4,2,1,1,49,1670,27,9360
+364,Victor_China_Open,2023-09-05,China,WS,4,0,38,China,Thailand,Zhang Yi Man,,Busanan Ongbamrungphan,,21,18,21.0,14.0,,,42,32,2,0,3,0,4,4,0,0,0,16,48840,36,24780
+365,Yonex_All_England_Open,2022-03-16,England,WS,6,0,57,Usa,France,Iris Wang,,Qi Xuefei,,21,16,12.0,21.0,21.0,7.0,54,44,2,1,3,1,9,9,1,0,0,60,1670,60,1670
+366,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,WS,4,0,36,Chinesetaipei,China,Tai Tzu Ying,3.0,Han Yue,,21,15,21.0,17.0,,,42,32,2,0,3,0,7,6,2,0,1,25,24500,4,46490
+367,Yonex_All_England_Open,2023-03-16,England,WS,4,0,29,Korea,Chinesetaipei,An Se Young,2.0,Pai Yu Po,,21,3,21.0,7.0,,,42,10,2,0,2,0,7,2,3,0,0,1,36350,16,13530
+368,Victor_China_Open,2023-09-06,China,WS,4,0,37,Japan,Indonesia,Akane Yamaguchi,2.0,Putri Kusuma Wardani,,21,12,21.0,18.0,,,42,30,2,0,2,0,7,4,1,0,0,2,83570,27,34630
+369,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WS,6,0,60,China,Chinesetaipei,He Bing Jiao,5.0,Pai Yu Po,,21,23,21.0,10.0,21.0,13.0,63,46,2,1,3,3,8,5,2,0,0,9,39650,21,29280
+370,Yonex_All_England_Open,2023-03-16,England,WS,6,0,67,China,China,He Bing Jiao,5.0,Zhang Yi Man,,24,22,18.0,21.0,21.0,12.0,63,55,2,1,2,8,5,5,4,0,0,9,19200,10,17630
+371,Victor_China_Open,2023-09-06,China,WS,4,0,31,China,Usa,Chen Yu Fei,3.0,Beiwen Zhang,,21,18,21.0,5.0,,,42,23,2,0,3,0,15,5,5,1,1,4,59990,3,68180
+372,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WS,4,0,31,Scotland,Usa,Kirsty Gilmour,,Beiwen Zhang,,21,16,21.0,11.0,,,42,27,2,0,4,0,4,3,2,3,1,24,25140,8,39780
+373,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,WS,6,0,92,Indonesia,Usa,Putri Kusuma Wardani,,Iris Wang,,15,21,22.0,20.0,23.0,21.0,60,62,2,1,3,6,4,6,1,0,0,29,20160,35,17290
+374,Yonex_All_England_Open,2023-03-14,England,WS,4,0,38,China,Japan,Wang Zhi Yi,6.0,Saena Kawakami,,23,21,21.0,11.0,,,44,32,2,0,3,5,6,5,5,0,0,4,21190,40,4420
+375,Yonex_All_England_Open,2023-03-15,England,WS,6,0,57,Chinesetaipei,Denmark,Pai Yu Po,,Line Christophersen,,17,21,21.0,16.0,21.0,17.0,59,54,2,1,2,1,5,6,2,1,0,16,13530,19,12370
+376,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,WS,4,0,47,Thailand,Thailand,Pornpawee Chochuwong,,Supanida Katethong,,21,17,21.0,18.0,,,42,35,2,0,3,0,4,3,1,1,0,7,42840,18,30220
+377,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,WS,4,0,36,Japan,Indonesia,Akane Yamaguchi,1.0,Putri Kusuma Wardani,,21,15,21.0,11.0,,,42,26,2,0,3,0,9,4,1,0,0,2,55300,29,20160
+378,Victor_China_Open,2023-09-07,China,WS,4,0,32,Chinesetaipei,China,Tai Tzu Ying,4.0,Zhang Yi Man,,21,11,21.0,12.0,,,42,23,2,0,3,0,6,3,3,1,0,15,53600,16,48840
+379,Yonex_All_England_Open,2023-03-14,England,WS,4,0,24,China,Singapore,Han Yue,,Yeo Jia Min,,21,10,21.0,7.0,,,42,17,2,0,3,0,16,5,3,2,0,3,23160,30,7880
+380,Victor_China_Open,2023-09-05,China,WS,4,0,43,China,Thailand,Han Yue,,Pornpawee Chochuwong,,21,19,21.0,17.0,,,42,36,2,0,4,0,8,5,6,2,0,7,59140,13,54740
+381,Victor_China_Open,2023-09-07,China,WS,4,0,42,Spain,China,Carolina Marin,6.0,Gao Fang Jie,,21,9,21.0,16.0,,,42,25,2,0,2,0,5,4,5,1,0,5,59890,38,23410
+382,Victor_China_Open,2023-09-08,China,WS,6,0,63,Korea,China,An Se Young,1.0,Han Yue,,15,21,21.0,15.0,21.0,17.0,57,53,2,1,7,1,5,7,6,1,0,1,97150,7,59140
+383,Victor_China_Open,2023-09-06,China,WS,4,0,44,China,Chinesetaipei,He Bing Jiao,5.0,Sung Shuo Yun,,21,15,21.0,13.0,,,42,28,2,0,4,0,6,3,2,0,0,6,59200,28,34210
+384,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,WS,4,0,43,Thailand,Chinesetaipei,Ratchanok Intanon,8.0,Wen Chi Hsu,,21,16,21.0,18.0,,,42,34,2,0,4,0,6,4,4,0,1,27,22790,10,39180
+385,Victor_China_Open,2023-09-06,China,WS,4,0,38,Japan,Malaysia,Aya Ohori,,Goh Jin Wei,,21,18,21.0,12.0,,,42,30,2,0,3,0,6,5,2,1,0,20,43850,26,34830
+386,Victor_China_Open,2023-09-05,China,WS,4,0,45,China,Japan,Gao Fang Jie,,Natsuki Nidaira,,21,13,21.0,14.0,,,42,27,2,0,5,0,7,3,1,0,0,38,23410,39,21960
+387,Victor_China_Open,2023-09-06,China,WS,4,0,40,Germany,Scotland,Yvonne Li,,Kirsty Gilmour,,21,16,21.0,18.0,,,42,34,2,0,3,0,5,5,2,6,0,22,40400,31,29940
+388,Victor_China_Open,2023-09-08,China,WS,4,0,47,China,China,Chen Yu Fei,3.0,He Bing Jiao,5.0,21,18,21.0,11.0,,,42,29,2,0,2,0,6,6,9,8,0,4,59990,6,59200
+389,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,WS,4,0,39,China,Germany,He Bing Jiao,5.0,Yvonne Li,,21,16,21.0,14.0,,,42,30,2,0,5,0,5,3,1,0,0,9,39650,20,29340
+390,Yonex_All_England_Open,2023-03-15,England,WS,6,0,67,China,Usa,He Bing Jiao,5.0,Iris Wang,,17,21,21.0,17.0,21.0,6.0,59,44,2,1,4,1,8,5,3,0,0,9,19200,49,1670
+391,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,WS,4,0,34,Spain,Malaysia,Carolina Marin,6.0,Goh Jin Wei,,21,11,21.0,11.0,,,42,22,2,0,2,0,6,4,2,0,0,3,49690,26,23060
+392,Victor_China_Open,2023-09-05,China,WS,4,0,41,Korea,Denmark,An Se Young,1.0,Mia Blichfeldt,,21,16,21.0,12.0,,,42,28,2,0,5,0,4,3,3,0,0,1,97150,21,41090
+393,Yonex_All_England_Open,2022-03-16,England,WS,4,0,35,Japan,Thailand,Sayaka Takahashi,,Supanida Katethong,,21,17,23.0,21.0,,,44,38,2,0,3,2,6,8,0,0,1,33,3850,3,14400
+394,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,WS,4,0,42,Thailand,Thailand,Ratchanok Intanon,8.0,Pornpawee Chochuwong,,21,13,21.0,17.0,,,42,30,2,0,5,0,5,5,4,2,1,27,22790,7,42840
+395,Victor_China_Open,2023-09-08,China,WS,6,0,68,Chinesetaipei,Spain,Tai Tzu Ying,4.0,Carolina Marin,6.0,21,17,10.0,21.0,21.0,19.0,52,57,2,1,3,1,5,7,11,12,1,15,53600,5,59890
+396,Victor_China_Open,2023-09-05,China,WS,4,0,39,Spain,Chinesetaipei,Carolina Marin,6.0,Wen Chi Hsu,,21,12,21.0,12.0,,,42,24,2,0,3,0,7,4,2,0,0,5,59890,17,48210
+397,Victor_China_Open,2023-09-07,China,WS,6,0,54,China,Vietnam,Han Yue,,Thuy Linh Nguyen,,21,23,21.0,8.0,21.0,5.0,63,36,2,1,3,2,7,3,3,0,0,7,59140,48,11640
+398,Victor_China_Open,2023-09-08,China,WS,4,0,33,Japan,Denmark,Akane Yamaguchi,2.0,Line Højmark Kjaersfeldt,,21,15,21.0,13.0,,,42,28,2,0,2,0,4,5,7,0,0,2,83570,25,35490
+399,Victor_China_Open,2023-09-07,China,WS,4,0,43,Japan,Korea,Akane Yamaguchi,2.0,Kim Ga Eun,,22,20,21.0,17.0,,,43,37,2,0,2,3,5,6,9,0,0,2,83570,11,56860
+400,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WS,4,0,28,Korea,India,An Se Young,2.0,Aakarshi Kashyap,,21,10,21.0,4.0,,,42,14,2,0,3,0,8,2,1,0,0,1,68550,30,18850
+401,Yonex_All_England_Open,2023-03-15,England,WS,4,0,33,Usa,Thailand,Beiwen Zhang,,Supanida Katethong,,21,17,21.0,14.0,,,42,31,2,0,5,0,5,3,2,2,1,14,15400,11,17570
+402,Yonex_All_England_Open,2023-03-15,England,WS,4,0,36,Korea,Chinesetaipei,An Se Young,2.0,Wen Chi Hsu,,21,10,21.0,12.0,,,42,22,2,0,8,0,12,5,7,0,0,1,36350,6,20230
+403,Victor_China_Open,2023-09-05,China,WS,4,0,32,Vietnam,Indonesia,Thuy Linh Nguyen,,Gregoria Mariska Tunjung,8.0,21,15,21.0,14.0,,,42,29,2,0,2,0,7,5,0,1,1,48,11640,8,59080
+404,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,WS,4,0,47,Korea,China,Kim Ga Eun,,Wang Zhi Yi,7.0,21,19,22.0,20.0,,,43,39,2,0,9,0,5,7,2,1,1,14,35320,6,44150
+405,Victor_China_Open,2023-09-05,China,WS,4,0,32,Chinesetaipei,Chinesetaipei,Tai Tzu Ying,4.0,Pai Yu Po,,21,13,21.0,17.0,,,42,30,2,0,2,0,4,3,4,0,0,15,53600,19,47430
+406,Victor_China_Open,2023-09-07,China,WS,4,0,44,China,Japan,Chen Yu Fei,3.0,Aya Ohori,,22,20,21.0,9.0,,,43,29,2,0,2,5,9,5,11,0,0,4,59990,20,43850
+407,Petronas_Malaysia_Open,2024-01-10,Malaysia,WS,4,0,48,China,Japan,Chen Yu Fei,2.0,Aya Ohori,,21,18,21.0,12.0,,,42,30,2,0,3,0,7,4,11,0,1,,,19,4900
+408,Victor_China_Open,2023-09-06,China,WS,4,0,37,Denmark,Usa,Line Højmark Kjaersfeldt,,Lauren Lam,,21,15,21.0,13.0,,,42,28,2,0,4,0,10,5,0,0,0,25,35490,44,17630
+409,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WS,4,0,28,China,Myanmar,Wang Zhi Yi,7.0,Thet Htar Thuzar,,21,11,21.0,9.0,,,42,20,2,0,3,0,10,3,1,0,0,6,44150,44,11070
+410,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,WS,4,0,43,China,Japan,Chen Yu Fei,4.0,Saena Kawakami,,21,13,21.0,19.0,,,42,32,2,0,6,0,8,6,4,1,0,12,37250,39,13960
+411,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,WS,4,0,32,Korea,Scotland,An Se Young,2.0,Kirsty Gilmour,,21,11,21.0,9.0,,,42,20,2,0,3,0,9,3,5,0,0,1,68550,24,25140
+412,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WS,4,0,30,Japan,Japan,Saena Kawakami,,Aya Ohori,,21,15,21.0,7.0,,,42,22,2,0,3,0,11,5,1,1,1,39,13960,23,27890
+413,Petronas_Malaysia_Open,2024-01-10,Malaysia,WS,4,0,40,Malaysia,Chinesetaipei,Goh Jin Wei,,Sung Shuo Yun,,21,18,21.0,11.0,,,42,29,2,0,3,0,5,5,0,0,1,,,6,8170
+414,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WS,4,0,40,China,Japan,Chen Yu Fei,4.0,Natsuki Nidaira,,21,17,21.0,11.0,,,42,28,2,0,3,0,6,3,0,0,0,12,37250,36,15360
+415,Victor_China_Open,2023-09-06,China,WS,6,0,59,Japan,Thailand,Saena Kawakami,,Supanida Katethong,,12,21,22.0,20.0,22.0,20.0,56,61,2,1,3,5,6,5,2,1,1,30,30840,10,57030
+416,Victor_China_Open,2023-09-07,China,WS,4,0,40,Korea,China,An Se Young,1.0,Wang Zhi Yi,,21,14,22.0,20.0,,,43,34,2,0,3,0,5,3,7,2,0,1,97150,9,58310
+417,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,WS,4,0,36,Germany,Spain,Yvonne Li,,Clara Azurmendi,,21,16,21.0,15.0,,,42,31,2,0,2,0,6,4,3,1,0,20,29340,34,17900
+418,Petronas_Malaysia_Open,2024-01-09,Malaysia,WS,4,0,37,China,India,Zhang Yi Man,,Aakarshi Kashyap,,21,15,21.0,15.0,,,42,30,2,0,2,0,5,4,2,0,1,,,15,5070
+419,Yonex_All_England_Open,2024-03-13,England,WS,4,0,33,Chinesetaipei,Japan,Tai Tzu Ying,3.0,Nozomi Okuhara,,21,11,21.0,16.0,,,42,27,2,0,3,0,7,3,8,6,1,6,21200,1,30200
+420,Yonex_All_England_Open,2024-03-14,England,WS,4,0,42,Korea,India,An Se Young,1.0,Pusarla V. Sindhu,,21,19,21.0,11.0,,,42,30,2,0,5,0,5,5,5,0,0,11,18050,51,6050
+421,Yonex_All_England_Open,2024-03-15,England,WS,6,0,62,Japan,Indonesia,Akane Yamaguchi,4.0,Gregoria Mariska Tunjung,7.0,21,10,20.0,22.0,21.0,18.0,62,50,2,1,5,1,12,5,13,5,1,30,10920,15,15960
+422,Victor_China_Open,2023-09-07,China,WS,4,0,37,Denmark,Germany,Line Højmark Kjaersfeldt,,Yvonne Li,,21,19,21.0,10.0,,,42,29,2,0,2,0,5,3,5,2,1,25,35490,22,40400
+423,Yonex_All_England_Open,2024-03-12,England,WS,4,0,42,Usa,Denmark,Beiwen Zhang,,Line Højmark Kjaersfeldt,,22,20,21.0,18.0,,,43,38,2,0,4,2,6,5,8,3,1,29,10920,20,13830
+424,Yonex_All_England_Open,2024-03-16,England,WS,6,0,82,Japan,Korea,Akane Yamaguchi,4.0,An Se Young,1.0,21,10,19.0,21.0,21.0,14.0,61,45,2,1,4,1,7,4,12,11,1,30,10920,11,18050
+425,Yonex_All_England_Open,2024-03-15,England,WS,6,0,75,Chinesetaipei,China,Tai Tzu Ying,3.0,He Bing Jiao,6.0,16,21,21.0,16.0,22.0,20.0,59,57,2,1,4,2,7,8,15,4,0,6,21200,10,19070
+426,Yonex_All_England_Open,2024-03-13,England,WS,4,0,38,Korea,Thailand,Kim Ga Eun,,Ratchanok Intanon,,21,16,21.0,18.0,,,42,34,2,0,3,0,5,3,3,1,1,56,4900,7,20200
+427,Yonex_All_England_Open,2024-03-14,England,WS,4,0,39,Indonesia,Usa,Gregoria Mariska Tunjung,7.0,Beiwen Zhang,,21,19,24.0,22.0,,,45,41,2,0,4,1,3,7,5,2,0,15,15960,29,10920
+428,Yonex_All_England_Open,2024-03-12,England,WS,4,0,30,Indonesia,Singapore,Gregoria Mariska Tunjung,7.0,Yeo Jia Min,,21,13,21.0,14.0,,,42,27,2,0,4,0,8,3,6,3,1,15,15960,13,16520
+429,Yonex_All_England_Open,2024-03-15,England,WS,4,0,55,Spain,China,Carolina Marin,5.0,Chen Yu Fei,2.0,21,17,21.0,15.0,,,42,32,2,0,3,0,10,8,5,7,1,79,2660,12,17750
+430,Yonex_All_England_Open,2024-03-16,England,WS,4,0,46,Spain,Chinesetaipei,Carolina Marin,5.0,Tai Tzu Ying,3.0,21,13,21.0,12.0,,,42,25,2,0,2,0,8,5,11,12,1,79,2660,6,21200
+431,Victor_China_Open,2023-09-07,China,WS,4,0,35,China,Japan,He Bing Jiao,5.0,Saena Kawakami,,21,5,21.0,16.0,,,42,21,2,0,2,0,10,5,3,1,0,6,59200,30,30840
+432,Yonex_All_England_Open,2024-03-14,England,WS,4,0,41,Spain,China,Carolina Marin,5.0,Wang Zhi Yi,,21,13,21.0,8.0,,,42,21,2,0,2,0,5,2,1,1,1,79,2660,4,21700
+433,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,WS,6,0,61,Korea,Japan,An Se Young,,Tomoka Miyazaki,,20,22,21.0,7.0,21.0,11.0,62,40,2,1,2,2,7,4,0,0,0,5,37450,30,19070
+434,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,WS,6,0,59,China,Denmark,He Bing Jiao,,Line Højmark Kjaersfeldt,,13,21,21.0,15.0,21.0,17.0,55,53,2,1,3,1,6,7,6,0,0,14,31720,23,22240
+435,Yonex_All_England_Open,2024-03-15,England,WS,4,0,46,Korea,China,An Se Young,1.0,Han Yue,8.0,21,16,21.0,19.0,,,42,35,2,0,4,0,8,6,6,1,0,11,18050,19,14160
+436,Yonex_All_England_Open,2024-03-12,England,WS,4,0,38,Thailand,Scotland,Pornpawee Chochuwong,,Kirsty Gilmour,,21,17,21.0,16.0,,,42,33,2,0,5,0,6,4,4,0,1,38,9290,23,12430
+437,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,WS,4,0,43,Indonesia,Japan,Ester Nurumi Tri Wardoyo,,Nozomi Okuhara,,21,17,21.0,16.0,,,42,33,2,0,5,0,7,5,0,0,1,35,17300,2,40760
+438,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,WS,4,0,46,Spain,China,Carolina Marin,,Zhang Yi Man,,21,16,21.0,18.0,,,42,34,2,0,3,0,5,4,4,1,1,25,21660,19,25930
+439,Petronas_Malaysia_Open,2024-01-09,Malaysia,WS,4,0,31,Korea,Denmark,An Se Young,1.0,Line Højmark Kjaersfeldt,,21,16,21.0,10.0,,,42,26,2,0,2,0,7,4,3,0,1,,,11,5950
+440,Yonex_All_England_Open,2024-03-14,England,WS,4,0,35,Chinesetaipei,Korea,Tai Tzu Ying,3.0,Kim Ga Eun,,21,17,21.0,15.0,,,42,32,2,0,3,0,4,4,8,0,0,6,21200,56,4900
+441,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,WS,4,0,32,Spain,Chinesetaipei,Carolina Marin,,Wen Chi Hsu,,21,12,21.0,7.0,,,42,19,2,0,2,0,8,3,2,0,1,25,21660,8,36720
+442,Petronas_Malaysia_Open,2024-01-09,Malaysia,WS,4,0,37,Chinesetaipei,Chinesetaipei,Wen Chi Hsu,,Pai Yu Po,,21,14,21.0,16.0,,,42,30,2,0,4,0,5,4,1,0,0,3,10860,,
+443,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,WS,4,0,34,Indonesia,Thailand,Gregoria Mariska Tunjung,,Supanida Katethong,,21,13,21.0,15.0,,,42,28,2,0,4,0,7,4,5,2,1,4,37870,1,42900
+444,Kapal_Api_Indonesia_Open,2024-06-07,Indonesia,WS,4,0,27,Spain,China,Carolina Marin,,Han Yue,,21,8,21.0,6.0,,,42,14,2,0,3,0,8,3,3,1,1,25,21660,11,32880
+445,Yonex_All_England_Open,2024-03-14,England,WS,4,0,49,China,Thailand,Chen Yu Fei,2.0,Busanan Ongbamrungphan,,22,20,21.0,16.0,,,43,36,2,0,3,3,5,5,11,3,1,12,17750,8,19350
+446,Yonex_All_England_Open,2024-03-13,England,WS,4,0,37,China,Vietnam,Chen Yu Fei,2.0,Thuy Linh Nguyen,,21,16,21.0,12.0,,,42,28,2,0,4,0,7,6,1,0,0,12,17750,31,10830
+447,Kapal_Api_Indonesia_Open,2024-06-07,Indonesia,WS,4,0,45,China,Indonesia,Wang Zhi Yi,,Gregoria Mariska Tunjung,,21,8,21.0,18.0,,,42,26,2,0,2,0,8,4,2,3,1,7,37240,4,37870
+448,Petronas_Malaysia_Open,2024-01-10,Malaysia,WS,4,0,36,China,Thailand,Wang Zhi Yi,,Pornpicha Choeikeewong,,21,14,21.0,14.0,,,42,28,2,0,4,0,7,3,1,0,1,,,46,1670
+449,Yonex_All_England_Open,2024-03-14,England,WS,4,0,38,China,Chinesetaipei,Han Yue,8.0,Pai Yu Po,,21,12,22.0,20.0,,,43,32,2,0,2,3,6,5,4,1,1,19,14160,17,15040
+450,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,WS,4,0,35,Scotland,Vietnam,Kirsty Gilmour,,Thuy Linh Nguyen,,21,10,21.0,18.0,,,42,28,2,0,6,0,5,4,0,0,1,28,20840,24,21990
+451,Yonex_All_England_Open,2024-03-12,England,WS,4,0,40,China,Thailand,Han Yue,8.0,Supanida Katethong,,21,12,21.0,19.0,,,42,31,2,0,3,0,6,4,0,2,1,19,14160,9,19340
+452,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,WS,4,0,33,China,Germany,Chen Yu Fei,,Yvonne Li,,21,14,21.0,10.0,,,42,24,2,0,8,0,9,4,2,0,0,13,32050,32,18670
+453,Yonex_All_England_Open,2024-03-12,England,WS,4,0,37,Chinesetaipei,India,Pai Yu Po,,Aakarshi Kashyap,,21,16,21.0,11.0,,,42,27,2,0,3,0,4,2,1,0,0,17,15040,21,13480
+454,Kapal_Api_Indonesia_Open,2024-06-07,Indonesia,WS,4,0,38,China,Chinesetaipei,Chen Yu Fei,,Sung Shuo Yun,,21,15,21.0,7.0,,,42,22,2,0,6,0,9,4,1,0,1,13,32050,12,32730
+455,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,WS,4,0,36,Indonesia,Indonesia,Gregoria Mariska Tunjung,,Putri Kusuma Wardani,,21,14,21.0,17.0,,,42,31,2,0,8,0,9,6,0,0,0,4,37870,44,13240
+456,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,WS,6,0,58,China,Usa,Han Yue,,Beiwen Zhang,,21,18,16.0,21.0,21.0,19.0,58,58,2,1,5,1,4,6,1,0,0,11,32880,22,23890
+457,Yonex_All_England_Open,2024-03-13,England,WS,4,0,59,Spain,Chinesetaipei,Carolina Marin,5.0,Sung Shuo Yun,,21,18,24.0,22.0,,,45,40,2,0,6,1,4,4,3,1,1,79,2660,5,21570
+458,Kapal_Api_Indonesia_Open,2024-06-08,Indonesia,WS,4,0,57,Korea,China,An Se Young,,Wang Zhi Yi,,23,21,21.0,13.0,,,44,34,2,0,3,1,4,4,7,2,0,5,37450,7,37240
+459,Petronas_Malaysia_Open,2024-01-11,Malaysia,WS,4,0,28,China,Chinesetaipei,Zhang Yi Man,,Wen Chi Hsu,,21,8,21.0,10.0,,,42,18,2,0,2,0,7,4,2,0,1,,,3,10860
+460,Kapal_Api_Indonesia_Open,2024-06-08,Indonesia,WS,6,0,74,China,Spain,Chen Yu Fei,,Carolina Marin,,21,11,17.0,21.0,21.0,13.0,59,45,2,1,4,1,6,5,6,6,0,13,32050,25,21660
+461,Kapal_Api_Indonesia_Open,2024-06-07,Indonesia,WS,4,0,49,Korea,China,An Se Young,,He Bing Jiao,,21,17,21.0,14.0,,,42,31,2,0,2,0,6,6,7,5,0,5,37450,14,31720
+462,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,WS,4,0,47,China,Indonesia,Wang Zhi Yi,,Ester Nurumi Tri Wardoyo,,21,13,21.0,13.0,,,42,26,2,0,3,0,7,4,2,0,0,7,37240,35,17300
+463,Kapal_Api_Indonesia_Open,2024-06-09,Indonesia,WS,6,0,82,China,Korea,Chen Yu Fei,,An Se Young,,21,14,14.0,21.0,21.0,18.0,56,53,2,1,2,2,6,6,12,7,1,13,32050,5,37450
+464,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,WS,6,0,70,Chinesetaipei,India,Wen Chi Hsu,,Pusarla V. Sindhu,,21,15,15.0,21.0,21.0,14.0,57,50,2,1,3,1,6,6,0,2,0,8,36720,34,17450
+465,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,WS,4,0,34,China,Japan,Chen Yu Fei,,Aya Ohori,,21,10,21.0,11.0,,,42,21,2,0,3,0,8,3,11,0,1,13,32050,9,35720
+466,Yonex_All_England_Open,2024-03-13,England,WS,4,0,48,Canada,Denmark,Michelle Li,,Mia Blichfeldt,,21,19,21.0,15.0,,,42,34,2,0,5,0,4,4,2,2,0,16,15830,22,12660
+467,Yonex_All_England_Open,2024-03-14,England,WS,4,0,30,China,Canada,He Bing Jiao,6.0,Michelle Li,,21,9,21.0,9.0,,,42,18,2,0,2,0,10,3,8,0,0,10,19070,16,15830
+468,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,WS,6,0,51,Thailand,Canada,Pornpicha Choeikeewong,,Michelle Li,,19,21,21.0,9.0,23.0,21.0,63,51,2,1,3,3,6,4,1,0,1,42,14960,18,26040
+469,Yonex_All_England_Open,2024-03-13,England,WS,4,0,37,China,Malaysia,He Bing Jiao,6.0,Goh Jin Wei,,21,15,22.0,20.0,,,43,35,2,0,5,0,5,6,2,3,0,10,19070,33,9680
+470,Yonex_All_England_Open,2024-03-13,England,WS,4,0,40,Japan,China,Akane Yamaguchi,4.0,Zhang Yi Man,,21,18,22.0,20.0,,,43,38,2,0,5,0,7,4,5,1,1,30,10920,18,14660
+471,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,WS,6,0,69,Japan,Chinesetaipei,Aya Ohori,,Pai Yu Po,,19,21,21.0,17.0,21.0,18.0,61,56,2,1,3,1,6,4,4,0,0,9,35720,20,25840
+472,Yonex_All_England_Open,2024-03-14,England,WS,6,0,60,Japan,Thailand,Akane Yamaguchi,4.0,Pornpawee Chochuwong,,21,17,9.0,21.0,21.0,19.0,51,57,2,1,4,1,5,5,9,5,0,30,10920,38,9290
+473,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,WS,4,0,35,China,Malaysia,Wang Zhi Yi,,Goh Jin Wei,,21,15,21.0,17.0,,,42,32,2,0,4,0,7,4,5,2,0,7,37240,41,15340
+474,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,WS,4,0,33,Korea,Thailand,An Se Young,,Pornpicha Choeikeewong,,21,13,21.0,6.0,,,42,19,2,0,2,0,8,3,0,0,0,5,37450,42,14960
+475,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,WS,4,0,34,Thailand,India,Ratchanok Intanon,,Aakarshi Kashyap,,21,18,21.0,6.0,,,42,24,2,0,2,0,9,5,1,0,0,3,38130,31,18700
+476,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,WS,4,0,43,Thailand,Thailand,Supanida Katethong,,Pornpawee Chochuwong,,21,17,21.0,18.0,,,42,35,2,0,2,0,4,5,0,2,0,1,42900,15,30870
+477,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,WS,6,0,66,China,China,Han Yue,,Gao Fang Jie,,21,17,18.0,21.0,21.0,12.0,60,50,2,1,3,1,5,4,1,1,0,11,32880,26,21400
+478,Yonex_All_England_Open,2024-03-13,England,WS,4,0,39,China,Japan,Wang Zhi Yi,,Aya Ohori,,21,11,21.0,17.0,,,42,28,2,0,6,0,6,4,3,3,1,4,21700,3,22820
+479,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,WS,4,0,32,China,Myanmar,Gao Fang Jie,,Thet Htar Thuzar,,21,14,21.0,8.0,,,42,22,2,0,2,0,9,5,1,0,0,26,21400,36,16960
+480,Yonex_All_England_Open,2024-03-13,England,WS,4,0,42,Korea,Chinesetaipei,An Se Young,1.0,Wen Chi Hsu,,21,17,21.0,16.0,,,42,33,2,0,3,0,6,4,7,0,1,11,18050,2,26060
+481,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,WS,6,0,66,Chinesetaipei,Thailand,Sung Shuo Yun,,Ratchanok Intanon,,20,22,21.0,14.0,21.0,17.0,62,53,2,1,2,2,6,5,1,0,1,12,32730,3,38130
+482,Yonex_All_England_Open,2024-03-13,England,WS,6,0,76,Thailand,China,Busanan Ongbamrungphan,,Gao Fang Jie,,17,21,21.0,14.0,23.0,21.0,61,56,2,1,7,2,5,8,4,2,0,8,19350,32,10700
+483,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,WS,4,0,34,China,Scotland,He Bing Jiao,,Kirsty Gilmour,,21,17,21.0,9.0,,,42,26,2,0,3,0,8,3,4,2,0,14,31720,28,20840

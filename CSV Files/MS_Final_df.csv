@@ -1,0 +1,485 @@
+,Tournament Name,Tournament Date,Tournament Country,Discipline,Number of Sets Played,Retired,Match Duration (min),Team 1 Nationalities,Team 2 Nationalities,Team 1 Name(s),Team 1 Seed,Team 2 Name(s),Team 2 Seed,Points Set 1 Team 1,Points Set 1 Team 2,Points Set 2 Team 1,Points Set 2 Team 2,Points Set 3 Team 1,Points Set 3 Team 2,Total Points Team 1,Total Points Team 2,Sets Won Team 1,Sets Won Team 2,Total Game Points Team 1,Total Game Points Team 2,Most Consecutive Points Team 1,Most Consecutive Points Team 2,Team 1 Head to Head Analysis,Team 2 Head to Head Analysis,Upset,Team 1 World Ranking (at the time),Team 1 Points Accumulated,Team 2 World Ranking (at the time),Team 2 Points Accumulated
+0,Yonex_All_England_Open,2018-03-18,England,MS,6,0,75,China,China,Shi Yu Qi,7.0,Lin Dan,6.0,21,19,16.0,21.0,21.0,9.0,58,49,2,1,3,1,7,3,4,2,0,8,14100,26,8290
+1,Blibli_Indonesia_Open,2018-07-03,Indonesia,MS,6,0,59,Japan,Denmark,Kanta Tsuneyama,,Jan O Jorgensen,,12,21,21.0,17.0,21.0,6.0,54,44,2,1,3,1,9,5,1,0,1,63,7970,32,13650
+2,Blibli_Indonesia_Open,2018-07-04,Indonesia,MS,6,0,68,Indonesia,Thailand,Tommy Sugiarto,,Khosit Phetpradab,,20,22,21.0,10.0,21.0,16.0,62,48,2,1,7,1,7,5,1,0,0,1,28920,21,15260
+3,Yonex_All_England_Open,2018-03-17,England,MS,4,0,45,China,Korea,Shi Yu Qi,7.0,Son Wan Ho,5.0,21,17,21.0,14.0,,,42,31,2,0,3,0,7,4,5,4,0,8,14100,17,10310
+4,Blibli_Indonesia_Open,2018-07-06,Indonesia,MS,4,0,38,Japan,Indonesia,Kento Momota,,Tommy Sugiarto,,21,11,21.0,15.0,,,42,26,2,0,4,0,6,4,8,3,1,24,17050,1,36620
+5,Blibli_Indonesia_Open,2018-07-05,Indonesia,MS,4,0,49,Japan,Indonesia,Kento Momota,,Anthony Sinisuka Ginting,,21,14,21.0,15.0,,,42,29,2,0,4,0,7,8,10,5,1,24,17050,10,23750
+6,Blibli_Indonesia_Open,2018-07-06,Indonesia,MS,4,0,43,Malaysia,Thailand,Lee Chong Wei,7.0,Kantaphon Wangcharoen,,21,13,22.0,20.0,,,43,33,2,0,3,0,7,4,0,0,1,19,19820,5,30390
+7,Blibli_Indonesia_Open,2018-07-08,Indonesia,MS,4,0,38,Japan,Denmark,Kento Momota,,Viktor Axelsen,1.0,21,14,21.0,9.0,,,42,23,2,0,2,0,6,3,13,5,1,24,17050,22,18850
+8,Yonex_All_England_Open,2018-03-17,England,MS,6,0,61,China,China,Lin Dan,6.0,Huang Yu Xiang,,21,14,13.0,21.0,21.0,11.0,55,46,2,1,3,1,4,4,1,0,1,26,8290,25,8570
+9,Yonex_All_England_Open,2018-03-15,England,MS,6,0,64,Malaysia,Korea,Lee Chong Wei,2.0,Lee Dong Keun,,21,6,13.0,21.0,21.0,18.0,55,45,2,1,2,1,7,7,3,0,0,76,2220,83,1670
+10,Blibli_Indonesia_Open,2018-07-07,Indonesia,MS,6,0,52,Denmark,China,Viktor Axelsen,1.0,Shi Yu Qi,3.0,18,21,21.0,14.0,21.0,11.0,60,46,2,1,3,1,5,4,9,3,1,22,18850,3,32150
+11,Blibli_Indonesia_Open,2018-07-04,Indonesia,MS,4,0,38,Indonesia,Netherlands,Anthony Sinisuka Ginting,,Mark Caljouw,,21,9,21.0,17.0,,,42,26,2,0,3,0,8,2,0,0,1,12,21090,8,22060
+12,Blibli_Indonesia_Open,2018-07-03,Indonesia,MS,6,0,86,France,China,Brice Leverdez,,Chen Long,5.0,17,21,22.0,20.0,21.0,19.0,60,60,2,1,2,2,10,8,0,6,0,23,14620,31,13860
+13,Yonex_All_England_Open,2018-03-16,England,MS,4,0,52,China,Malaysia,Lin Dan,6.0,Lee Chong Wei,2.0,21,16,21.0,17.0,,,42,33,2,0,2,0,6,4,12,6,0,26,8290,76,2220
+14,Blibli_Indonesia_Open,2018-07-06,Indonesia,MS,4,0,34,Denmark,Japan,Viktor Axelsen,1.0,Kanta Tsuneyama,,21,11,21.0,10.0,,,42,21,2,0,2,0,6,2,5,1,0,22,18850,54,10630
+15,Blibli_Indonesia_Open,2018-07-07,Indonesia,MS,4,0,52,Japan,Malaysia,Kento Momota,,Lee Chong Wei,7.0,23,21,21.0,12.0,,,44,33,2,0,7,1,8,4,1,2,1,24,17050,19,19820
+16,Yonex_All_England_Open,2018-03-14,England,MS,6,0,58,India,France,Kidambi Srikanth,3.0,Brice Leverdez,,7,21,21.0,14.0,22.0,20.0,50,55,2,1,2,2,4,6,4,1,1,60,3600,28,7200
+17,Blibli_Indonesia_Open,2018-07-03,Indonesia,MS,6,0,60,India,China,Prannoy H. S.,8.0,Lin Dan,,21,15,9.0,21.0,21.0,14.0,51,50,2,1,3,2,5,8,2,2,1,53,8820,2,27160
+18,Blibli_Indonesia_Open,2018-07-03,Indonesia,MS,4,0,35,Chinesetaipei,India,Wang Tzu Wei,,Sai Praneeth B.,,21,10,21.0,13.0,,,42,23,2,0,3,0,9,4,3,0,1,16,18710,13,20390
+19,Yonex_All_England_Open,2018-03-15,England,MS,4,0,45,Japan,Hongkong,Kenta Nishimoto,,Ng Ka Long Angus,,21,12,21.0,15.0,,,42,27,2,0,4,0,8,3,6,3,1,13,12700,11,13210
+20,Yonex_All_England_Open,2018-03-14,England,MS,4,0,46,China,Denmark,Lin Dan,6.0,Hans-Kristian Solberg Vittinghus,,21,19,21.0,16.0,,,42,35,2,0,4,0,7,4,4,1,1,48,4440,8,13680
+21,Victor_China_Open,2018-09-18,China,MS,6,0,51,Korea,Hongkong,Son Wan Ho,4.0,Lee Cheuk Yiu,,19,21,21.0,5.0,21.0,13.0,61,39,2,1,2,2,12,5,3,0,0,25,26030,54,15980
+22,Blibli_Indonesia_Open,2018-07-04,Indonesia,MS,6,0,60,Japan,India,Kento Momota,,Kidambi Srikanth,4.0,12,21,21.0,14.0,21.0,15.0,54,50,2,1,3,3,4,8,15,4,1,65,7700,57,8400
+23,Victor_China_Open,2018-09-19,China,MS,4,0,42,China,Indonesia,Shi Yu Qi,2.0,Tommy Sugiarto,,23,21,21.0,13.0,,,44,34,2,0,2,3,5,3,2,1,1,4,40550,1,51020
+24,Blibli_Indonesia_Open,2018-07-03,Indonesia,MS,4,0,39,Japan,Thailand,Kazumasa Sakai,,Tanongsak Saensomboonsuk,,21,17,21.0,13.0,,,42,30,2,0,2,0,4,4,0,1,0,47,10020,49,9640
+25,Blibli_Indonesia_Open,2018-07-03,Indonesia,MS,4,0,39,Denmark,Indonesia,Viktor Axelsen,1.0,Jonatan Christie,,21,10,21.0,19.0,,,42,29,2,0,2,0,6,4,9,2,1,33,12800,9,21860
+26,Yonex_All_England_Open,2018-03-16,England,MS,4,0,39,China,China,Shi Yu Qi,7.0,Chen Long,4.0,21,10,21.0,17.0,,,42,27,2,0,2,0,5,4,1,5,0,8,14100,33,7260
+27,Blibli_Indonesia_Open,2018-07-04,Indonesia,MS,6,0,60,Malaysia,Hongkong,Lee Chong Wei,7.0,Ng Ka Long Angus,,21,15,18.0,21.0,21.0,10.0,60,46,2,1,3,1,4,4,7,1,1,53,8820,18,18010
+28,Blibli_Indonesia_Open,2018-07-06,Indonesia,MS,4,0,39,China,India,Shi Yu Qi,3.0,Prannoy H. S.,8.0,21,17,21.0,18.0,,,42,35,2,0,3,0,6,4,6,2,0,3,32150,57,8820
+29,Blibli_Indonesia_Open,2018-07-05,Indonesia,MS,4,0,47,Malaysia,Denmark,Lee Chong Wei,7.0,Anders Antonsen,,21,12,21.0,15.0,,,42,27,2,0,2,0,8,5,0,0,0,19,19820,39,13700
+30,Victor_China_Open,2018-09-18,China,MS,6,0,54,Indonesia,China,Anthony Sinisuka Ginting,,Lin Dan,,22,24,21.0,5.0,21.0,19.0,64,48,2,1,3,7,7,5,1,3,1,16,28550,7,34480
+31,Victor_China_Open,2018-09-19,China,MS,4,0,31,India,Denmark,Kidambi Srikanth,7.0,Rasmus Gemke,,21,9,21.0,19.0,,,42,28,2,0,2,0,7,5,0,1,1,41,19100,22,26820
+32,Victor_China_Open,2018-09-20,China,MS,4,0,45,Indonesia,Denmark,Anthony Sinisuka Ginting,,Viktor Axelsen,1.0,21,18,21.0,17.0,,,42,35,2,0,3,0,6,4,4,13,1,16,28550,13,29050
+33,Yonex_All_England_Open,2018-03-16,England,MS,6,0,78,Korea,Japan,Son Wan Ho,5.0,Kenta Nishimoto,,21,18,9.0,21.0,21.0,14.0,51,53,2,1,2,2,8,6,5,3,1,17,10310,13,12700
+34,Blibli_Indonesia_Open,2018-07-03,Indonesia,MS,6,0,69,India,Denmark,Sameer Verma,,Rasmus Gemke,,21,9,12.0,21.0,22.0,20.0,55,50,2,1,5,2,7,4,2,0,0,6,25810,26,14160
+35,Yonex_All_England_Open,2018-03-15,England,MS,4,0,43,Korea,Indonesia,Son Wan Ho,5.0,Jonatan Christie,,21,16,21.0,12.0,,,42,28,2,0,4,0,7,6,3,2,1,17,10310,15,11110
+36,Blibli_Indonesia_Open,2018-07-04,Indonesia,MS,4,0,33,Chinesetaipei,Hongkong,Chou Tien Chen,6.0,Wong Wing Ki Vincent,,21,17,21.0,11.0,,,42,28,2,0,4,0,4,4,5,3,0,3,26440,52,9110
+37,Yonex_All_England_Open,2018-03-14,England,MS,4,0,34,China,China,Chen Long,4.0,Qiao Bin,,21,13,21.0,11.0,,,42,24,2,0,3,0,6,5,2,0,0,25,7260,32,6420
+38,Victor_China_Open,2018-09-20,China,MS,4,0,35,China,Denmark,Chen Long,6.0,Jan O Jorgensen,,21,10,21.0,5.0,,,42,15,2,0,2,0,6,2,10,2,1,39,19520,21,27010
+39,Blibli_Indonesia_Open,2018-07-03,Indonesia,MS,6,0,62,China,England,Shi Yu Qi,3.0,Rajiv Ouseph,,16,21,21.0,18.0,21.0,18.0,58,57,2,1,3,1,3,4,3,2,0,4,26100,46,10190
+40,Yonex_All_England_Open,2018-03-16,England,MS,6,0,77,China,India,Huang Yu Xiang,,Prannoy H. S.,,20,22,21.0,16.0,23.0,21.0,64,59,2,1,6,1,5,8,2,2,0,25,8570,76,2220
+41,Blibli_Indonesia_Open,2018-07-04,Indonesia,MS,6,0,56,Thailand,Korea,Kantaphon Wangcharoen,,Lee Hyun Il,,21,13,12.0,21.0,24.0,22.0,57,56,2,1,6,1,4,4,0,1,0,5,26070,48,9770
+42,Victor_China_Open,2018-09-19,China,MS,4,0,34,Hongkong,India,Ng Ka Long Angus,8.0,Prannoy H. S.,,21,16,21.0,12.0,,,42,28,2,0,3,0,4,4,6,6,0,15,28930,42,19020
+43,Yonex_All_England_Open,2018-03-14,England,MS,4,0,45,Korea,Denmark,Lee Hyun Il,,Anders Antonsen,,21,11,21.0,14.0,,,42,25,2,0,4,0,7,3,2,1,1,72,2220,20,8040
+44,Victor_China_Open,2018-09-22,China,MS,6,0,68,Indonesia,Chinesetaipei,Anthony Sinisuka Ginting,,Chou Tien Chen,5.0,12,21,21.0,17.0,21.0,15.0,54,53,2,1,5,1,4,5,9,6,1,16,28550,2,46490
+45,Victor_China_Open,2018-09-21,China,MS,4,0,35,China,Hongkong,Shi Yu Qi,2.0,Ng Ka Long Angus,8.0,21,17,21.0,15.0,,,42,32,2,0,2,0,5,4,10,3,0,4,40550,15,28930
+46,Victor_China_Open,2018-09-22,China,MS,4,0,40,Japan,China,Kento Momota,3.0,Shi Yu Qi,2.0,21,10,21.0,17.0,,,42,27,2,0,6,0,7,3,5,6,1,13,29050,4,40550
+47,Blibli_Indonesia_Open,2018-07-05,Indonesia,MS,6,0,60,India,Chinesetaipei,Prannoy H. S.,8.0,Wang Tzu Wei,,21,23,21.0,15.0,21.0,13.0,63,51,2,1,4,1,7,5,5,3,1,57,8820,12,23030
+48,Blibli_Indonesia_Open,2018-07-04,Indonesia,MS,4,0,54,Denmark,Japan,Anders Antonsen,,Kenta Nishimoto,,21,14,25.0,23.0,,,46,37,2,0,5,2,6,4,8,4,1,44,11040,14,19300
+49,Victor_China_Open,2018-09-21,China,MS,6,0,85,Indonesia,China,Anthony Sinisuka Ginting,,Chen Long,6.0,18,21,22.0,20.0,21.0,16.0,61,57,2,1,4,1,9,7,7,6,0,16,28550,39,19520
+50,Yonex_All_England_Open,2018-03-15,England,MS,4,0,44,China,Chinesetaipei,Lin Dan,6.0,Wang Tzu Wei,,21,13,23.0,21.0,,,44,34,2,0,5,3,6,4,1,2,1,26,8290,9,13910
+51,Blibli_Indonesia_Open,2018-07-05,Indonesia,MS,4,0,35,China,Japan,Shi Yu Qi,3.0,Kazumasa Sakai,,21,14,21.0,17.0,,,42,31,2,0,4,0,5,3,4,1,0,3,32150,41,12680
+52,Blibli_Indonesia_Open,2018-07-05,Indonesia,MS,4,0,39,Denmark,India,Viktor Axelsen,1.0,Sameer Verma,,21,15,21.0,14.0,,,42,29,2,0,5,0,6,3,2,0,1,22,18850,6,28470
+53,Victor_China_Open,2018-09-20,China,MS,6,0,57,China,Korea,Shi Yu Qi,2.0,Lee Hyun Il,,19,21,21.0,18.0,21.0,15.0,61,54,2,1,4,4,6,8,3,1,0,4,40550,33,22130
+54,Blibli_Indonesia_Open,2018-07-05,Indonesia,MS,4,0,40,Japan,France,Kanta Tsuneyama,,Brice Leverdez,,24,22,21.0,13.0,,,45,35,2,0,4,1,4,7,2,0,1,54,10630,18,20670
+55,Victor_China_Open,2018-09-23,China,MS,4,0,63,Indonesia,Japan,Anthony Sinisuka Ginting,,Kento Momota,3.0,23,21,21.0,19.0,,,44,40,2,0,3,1,6,4,4,11,1,16,28550,13,29050
+56,Blibli_Indonesia_Open,2018-07-05,Indonesia,MS,6,0,64,Indonesia,Chinesetaipei,Tommy Sugiarto,,Chou Tien Chen,6.0,21,13,14.0,21.0,21.0,18.0,56,52,2,1,9,3,5,4,4,5,0,1,36620,2,32490
+57,Yonex_All_England_Open,2018-03-15,England,MS,4,0,51,China,Thailand,Chen Long,4.0,Khosit Phetpradab,,21,18,21.0,14.0,,,42,32,2,0,4,0,5,6,2,1,0,33,7260,45,5560
+58,Victor_China_Open,2018-09-18,China,MS,4,0,30,Denmark,Thailand,Viktor Axelsen,1.0,Khosit Phetpradab,,21,12,21.0,15.0,,,42,27,2,0,4,0,4,2,4,0,1,13,29050,10,29560
+59,Yonex_All_England_Open,2018-03-15,England,MS,4,0,38,China,Korea,Shi Yu Qi,7.0,Lee Hyun Il,,21,11,21.0,19.0,,,42,30,2,0,4,0,5,5,3,1,0,8,14100,50,4970
+60,Victor_China_Open,2018-09-21,China,MS,4,0,28,Japan,India,Kento Momota,3.0,Kidambi Srikanth,7.0,21,9,21.0,11.0,,,42,20,2,0,6,0,9,3,15,4,0,13,29050,41,19100
+61,Victor_China_Open,2018-09-21,China,MS,4,0,39,Chinesetaipei,Korea,Chou Tien Chen,5.0,Son Wan Ho,4.0,21,17,21.0,14.0,,,42,31,2,0,2,0,6,5,2,8,0,2,46490,25,26030
+62,Victor_China_Open,2018-09-18,China,MS,6,0,60,Denmark,Korea,Jan O Jorgensen,,Lee Dong Keun,,18,21,21.0,17.0,21.0,13.0,60,51,2,1,4,1,8,4,8,2,0,21,27010,61,13980
+63,Victor_China_Open,2018-09-20,China,MS,4,0,28,Chinesetaipei,Thailand,Chou Tien Chen,5.0,Kantaphon Wangcharoen,,21,14,21.0,11.0,,,42,25,2,0,3,0,6,2,6,1,0,2,46490,3,44250
+64,Victor_China_Open,2018-09-18,China,MS,6,0,75,China,China,Chen Long,6.0,Huang Yu Xiang,,20,22,21.0,19.0,21.0,13.0,62,54,2,1,3,1,6,6,2,0,1,39,19520,11,29230
+65,Yonex_All_England_Open,2018-03-14,England,MS,4,0,41,Chinesetaipei,Thailand,Wang Tzu Wei,,Tanongsak Saensomboonsuk,,21,17,21.0,18.0,,,42,35,2,0,4,0,6,5,2,0,0,10,12240,42,4970
+66,Yonex_All_England_Open,2019-03-06,England,MS,4,0,45,China,Denmark,Shi Yu Qi,2.0,Anders Antonsen,,21,17,21.0,16.0,,,42,33,2,0,3,0,5,4,5,3,1,26,8640,3,17370
+67,Victor_China_Open,2018-09-19,China,MS,6,0,69,Korea,Denmark,Lee Hyun Il,,Anders Antonsen,,18,21,21.0,19.0,21.0,18.0,60,58,2,1,2,4,5,4,2,1,0,33,22130,43,18500
+68,Yonex_All_England_Open,2018-03-15,England,MS,4,0,38,India,Indonesia,Prannoy H. S.,,Tommy Sugiarto,,21,10,21.0,19.0,,,42,29,2,0,3,0,5,3,2,0,1,76,2220,5,16420
+69,Yonex_All_England_Open,2018-03-14,England,MS,4,0,44,Japan,Japan,Kenta Nishimoto,,Kanta Tsuneyama,,21,8,21.0,18.0,,,42,26,2,0,3,0,7,4,3,1,0,21,7800,72,2220
+70,Victor_China_Open,2018-09-20,China,MS,4,0,30,Japan,Japan,Kento Momota,3.0,Kenta Nishimoto,,21,9,21.0,9.0,,,42,18,2,0,4,0,8,3,3,3,1,13,29050,9,30000
+71,Victor_China_Open,2018-09-19,China,MS,4,0,35,Japan,France,Kento Momota,3.0,Brice Leverdez,,21,14,21.0,12.0,,,42,26,2,0,4,0,6,7,2,0,0,13,29050,20,27690
+72,Yonex_All_England_Open,2018-03-15,England,MS,6,0,52,China,India,Huang Yu Xiang,,Kidambi Srikanth,3.0,21,11,15.0,21.0,22.0,20.0,58,52,2,1,3,4,5,6,0,4,0,25,8570,66,3600
+73,Victor_China_Open,2018-09-18,China,MS,4,0,23,Hongkong,Chinesetaipei,Wong Wing Ki Vincent,,Wang Tzu Wei,,21,10,21.0,13.0,,,42,23,2,0,3,0,5,3,3,1,1,48,16990,19,27830
+74,Yonex_All_England_Open,2019-03-06,England,MS,4,0,41,Indonesia,England,Tommy Sugiarto,,Rajiv Ouseph,,21,16,21.0,19.0,,,42,35,2,0,6,0,8,4,6,1,1,62,2220,37,6070
+75,Victor_China_Open,2018-09-18,China,MS,4,0,34,Thailand,Denmark,Kantaphon Wangcharoen,,Hans-Kristian Solberg Vittinghus,,21,18,21.0,18.0,,,42,36,2,0,3,0,7,5,1,2,0,3,44250,30,24140
+76,Victor_China_Open,2018-09-20,China,MS,4,0,44,Korea,Hongkong,Son Wan Ho,4.0,Wong Wing Ki Vincent,,21,16,21.0,16.0,,,42,32,2,0,3,0,5,5,0,1,0,25,26030,48,16990
+77,Victor_China_Open,2018-09-20,China,MS,6,0,63,India,Thailand,Kidambi Srikanth,7.0,Suppanyu Avihingsanon,,21,12,15.0,21.0,24.0,22.0,60,55,2,1,6,2,6,5,1,0,1,41,19100,5,39090
+78,Victor_China_Open,2018-09-19,China,MS,6,0,59,Indonesia,Japan,Jonatan Christie,,Kanta Tsuneyama,,21,18,17.0,21.0,21.0,13.0,59,52,2,1,4,2,6,5,4,0,0,12,29180,24,26430
+79,Yonex_All_England_Open,2019-03-07,England,MS,6,0,59,India,Indonesia,Kidambi Srikanth,7.0,Jonatan Christie,,21,17,11.0,21.0,21.0,12.0,53,50,2,1,5,1,5,6,6,5,0,14,10080,16,10020
+80,Victor_China_Open,2018-09-19,China,MS,4,0,41,Thailand,Netherlands,Suppanyu Avihingsanon,,Mark Caljouw,,22,20,21.0,17.0,,,43,37,2,0,3,1,5,5,0,1,0,5,39090,23,26730
+81,Victor_China_Open,2018-09-18,China,MS,6,0,61,Chinesetaipei,Chinesetaipei,Chou Tien Chen,5.0,Hsu Jen Hao,,21,11,20.0,22.0,21.0,19.0,62,52,2,1,3,2,4,4,1,1,0,2,46490,29,24290
+82,Victor_China_Open,2018-09-20,China,MS,4,0,39,Hongkong,Indonesia,Ng Ka Long Angus,8.0,Jonatan Christie,,21,18,21.0,16.0,,,42,34,2,0,2,0,7,4,4,7,1,15,28930,12,29180
+83,Blibli_Indonesia_Open,2018-07-05,Indonesia,MS,4,0,36,Thailand,Denmark,Kantaphon Wangcharoen,,Hans-Kristian Solberg Vittinghus,,21,18,21.0,11.0,,,42,29,2,0,2,0,5,6,1,2,0,5,30390,20,19340
+84,Yonex_All_England_Open,2019-03-07,England,MS,4,0,41,Denmark,China,Viktor Axelsen,6.0,Lu Guang Zu,,21,19,21.0,16.0,,,42,35,2,0,3,0,8,8,6,0,0,1,19840,24,8790
+85,Yonex_All_England_Open,2019-03-06,England,MS,6,0,65,Denmark,India,Viktor Axelsen,6.0,Sameer Verma,,16,21,21.0,18.0,21.0,14.0,58,53,2,1,5,1,8,5,2,0,0,1,19840,,
+86,Yonex_All_England_Open,2019-03-06,England,MS,4,0,40,Japan,Thailand,Kento Momota,1.0,Khosit Phetpradab,,21,13,21.0,7.0,,,42,20,2,0,4,0,10,3,3,0,0,4,17020,28,7780
+87,Victor_China_Open,2018-09-19,China,MS,4,0,33,Japan,Japan,Kenta Nishimoto,,Kazumasa Sakai,,21,12,21.0,11.0,,,42,23,2,0,4,0,5,4,0,2,0,9,30000,38,19700
+88,Yonex_All_England_Open,2019-03-08,England,MS,6,0,68,Hongkong,Indonesia,Ng Ka Long Angus,,Tommy Sugiarto,,16,21,21.0,14.0,21.0,15.0,58,50,2,1,2,2,3,6,3,5,0,29,7190,62,2220
+89,Yonex_All_England_Open,2019-03-09,England,MS,4,0,54,Japan,Hongkong,Kento Momota,1.0,Ng Ka Long Angus,,21,19,21.0,11.0,,,42,30,2,0,3,0,5,5,6,1,0,4,17020,29,7190
+90,Blibli_Indonesia_Open,2019-07-16,Indonesia,MS,4,0,43,Denmark,Chinesetaipei,Hans-Kristian Solberg Vittinghus,,Wang Tzu Wei,,21,16,21.0,18.0,,,42,34,2,0,3,0,6,4,3,3,1,21,24110,6,36010
+91,Yonex_All_England_Open,2019-03-10,England,MS,6,0,81,Japan,Denmark,Kento Momota,1.0,Viktor Axelsen,6.0,21,11,15.0,21.0,21.0,15.0,57,47,2,1,3,3,8,5,13,5,1,4,17020,1,19840
+92,Yonex_All_England_Open,2019-03-08,England,MS,4,0,44,Japan,India,Kento Momota,1.0,Kidambi Srikanth,7.0,21,12,21.0,16.0,,,42,28,2,0,8,0,9,4,15,4,0,4,17020,14,10080
+93,Yonex_All_England_Open,2019-03-07,England,MS,6,0,80,Indonesia,China,Tommy Sugiarto,,Huang Yu Xiang,,22,24,21.0,17.0,21.0,16.0,64,57,2,1,6,4,10,5,1,0,0,62,2220,,
+94,Yonex_All_England_Open,2019-03-09,England,MS,6,0,66,Denmark,China,Viktor Axelsen,6.0,Shi Yu Qi,2.0,22,20,13.0,21.0,21.0,9.0,56,50,2,1,4,1,5,6,9,3,0,1,19840,26,8640
+95,Yonex_All_England_Open,2019-03-07,England,MS,4,0,32,China,Malaysia,Shi Yu Qi,2.0,Liew Daren,,21,8,21.0,10.0,,,42,18,2,0,3,0,7,3,2,1,0,26,8640,31,6420
+96,Blibli_Indonesia_Open,2019-07-17,Indonesia,MS,6,0,92,China,Indonesia,Chen Long,5.0,Tommy Sugiarto,,22,20,14.0,21.0,21.0,17.0,57,58,2,1,4,1,7,7,11,1,0,8,35130,20,24190
+97,Blibli_Indonesia_Open,2019-07-18,Indonesia,MS,6,0,76,Chinesetaipei,China,Chou Tien Chen,4.0,Lin Dan,,24,22,17.0,21.0,21.0,13.0,62,56,2,1,2,6,5,5,2,7,1,22,24100,4,39740
+98,Blibli_Indonesia_Open,2019-07-19,Indonesia,MS,6,0,76,Chinesetaipei,Indonesia,Chou Tien Chen,4.0,Jonatan Christie,6.0,16,21,21.0,18.0,21.0,14.0,58,53,2,1,2,2,8,5,6,9,1,22,24100,2,44310
+99,Blibli_Indonesia_Open,2019-07-21,Indonesia,MS,6,0,91,Chinesetaipei,Denmark,Chou Tien Chen,4.0,Anders Antonsen,,21,18,24.0,26.0,21.0,15.0,66,59,2,1,7,5,6,5,6,4,1,22,24100,16,26910
+100,Blibli_Indonesia_Open,2019-07-18,Indonesia,MS,6,0,84,Thailand,Indonesia,Kantaphon Wangcharoen,,Anthony Sinisuka Ginting,7.0,22,20,11.0,21.0,21.0,19.0,54,60,2,1,4,3,8,8,3,7,1,14,30410,5,38240
+101,Yonex_All_England_Open,2019-03-08,England,MS,4,0,37,China,Japan,Shi Yu Qi,2.0,Kanta Tsuneyama,,21,14,21.0,7.0,,,42,21,2,0,2,0,11,5,5,1,1,26,8640,20,9670
+102,Blibli_Indonesia_Open,2019-07-20,Indonesia,MS,6,0,77,Chinesetaipei,Thailand,Chou Tien Chen,4.0,Kantaphon Wangcharoen,,21,19,18.0,21.0,21.0,16.0,60,56,2,1,5,2,6,6,6,1,1,22,24100,14,30410
+103,Blibli_Indonesia_Open,2019-07-20,Indonesia,MS,4,0,50,Denmark,Hongkong,Anders Antonsen,,Wong Wing Ki Vincent,,21,17,21.0,10.0,,,42,27,2,0,2,0,6,4,0,0,0,16,26910,39,14010
+104,Blibli_Indonesia_Open,2019-07-19,Indonesia,MS,4,0,33,Hongkong,Hongkong,Wong Wing Ki Vincent,,Ng Ka Long Angus,,21,16,21.0,13.0,,,42,29,2,0,4,0,7,4,3,2,1,39,14010,24,23210
+105,Victor_China_Open,2019-09-17,China,MS,6,0,79,China,Malaysia,Chen Long,5.0,Lee Zii Jia,,21,16,12.0,21.0,23.0,21.0,56,58,2,1,4,1,5,6,3,2,1,12,44810,7,49660
+106,Yonex_All_England_Open,2019-03-08,England,MS,4,0,43,Denmark,Denmark,Viktor Axelsen,6.0,Jan O Jorgensen,,23,21,21.0,18.0,,,44,39,2,0,5,1,5,4,4,3,0,1,19840,33,6110
+107,Blibli_Indonesia_Open,2019-07-18,Indonesia,MS,4,0,42,Indonesia,Denmark,Jonatan Christie,6.0,Hans-Kristian Solberg Vittinghus,,22,20,21.0,13.0,,,43,33,2,0,8,0,11,6,3,0,0,2,44310,21,24110
+108,Yonex_All_England_Open,2018-03-14,England,MS,4,0,33,Indonesia,Hongkong,Jonatan Christie,,Wong Wing Ki Vincent,,21,7,21.0,13.0,,,42,20,2,0,2,0,8,3,3,1,0,25,7260,48,4440
+109,Blibli_Indonesia_Open,2019-07-16,Indonesia,MS,4,0,35,Chinesetaipei,Thailand,Chou Tien Chen,4.0,Suppanyu Avihingsanon,,21,12,21.0,11.0,,,42,23,2,0,8,0,7,3,5,0,1,22,24100,18,25640
+110,Blibli_Indonesia_Open,2019-07-19,Indonesia,MS,4,0,49,Denmark,Malaysia,Anders Antonsen,,Lee Zii Jia,,21,16,21.0,11.0,,,42,27,2,0,5,0,9,4,4,4,1,16,26910,11,31230
+111,Blibli_Indonesia_Open,2019-07-17,Indonesia,MS,4,0,35,Hongkong,France,Ng Ka Long Angus,,Brice Leverdez,,21,13,21.0,9.0,,,42,22,2,0,2,0,5,3,3,1,0,24,23210,25,23020
+112,Yonex_All_England_Open,2019-03-06,England,MS,6,0,55,China,Denmark,Lu Guang Zu,,Hans-Kristian Solberg Vittinghus,,20,22,21.0,15.0,21.0,11.0,62,48,2,1,3,1,10,5,1,0,1,24,8790,5,14850
+113,Blibli_Indonesia_Open,2019-07-19,Indonesia,MS,4,0,39,Thailand,China,Kantaphon Wangcharoen,,Huang Yu Xiang,,21,10,21.0,17.0,,,42,27,2,0,2,0,5,3,2,1,0,14,30410,28,20520
+114,Victor_China_Open,2019-09-17,China,MS,6,0,61,Japan,Denmark,Kanta Tsuneyama,,Viktor Axelsen,6.0,10,21,21.0,14.0,21.0,16.0,52,51,2,1,2,1,8,8,0,6,1,11,44850,4,51710
+115,Blibli_Indonesia_Open,2019-07-17,Indonesia,MS,4,0,38,India,Japan,Kidambi Srikanth,8.0,Kenta Nishimoto,,21,14,21.0,13.0,,,42,27,2,0,3,0,6,3,5,4,0,7,35570,13,30940
+116,Yonex_All_England_Open,2019-03-07,England,MS,4,0,35,Hongkong,India,Ng Ka Long Angus,,Sai Praneeth B.,,21,12,21.0,17.0,,,42,29,2,0,3,0,8,5,2,2,0,29,7190,62,2220
+117,Victor_China_Open,2019-09-19,China,MS,4,0,51,Chinesetaipei,China,Chou Tien Chen,2.0,Huang Yu Xiang,,21,19,21.0,18.0,,,42,37,2,0,3,0,4,3,2,2,0,3,56620,29,29780
+118,Victor_China_Open,2019-09-19,China,MS,4,0,37,Japan,Indonesia,Kento Momota,1.0,Tommy Sugiarto,,21,10,21.0,11.0,,,42,21,2,0,2,0,6,3,8,3,0,2,58340,19,38510
+119,Yonex_All_England_Open,2019-03-07,England,MS,4,0,52,Japan,Japan,Kanta Tsuneyama,,Kenta Nishimoto,,21,19,21.0,13.0,,,42,32,2,0,3,0,6,3,0,4,1,20,9670,7,13150
+120,Victor_China_Open,2019-09-18,China,MS,4,0,34,Chinesetaipei,Thailand,Chou Tien Chen,2.0,Khosit Phetpradab,,21,12,21.0,10.0,,,42,22,2,0,2,0,6,2,3,1,0,3,56620,23,34730
+121,Victor_China_Open,2019-09-17,China,MS,4,0,49,Japan,China,Kento Momota,1.0,Lin Dan,,21,14,21.0,14.0,,,42,28,2,0,3,0,5,3,3,1,0,2,58340,5,50800
+122,Blibli_Indonesia_Open,2019-07-17,Indonesia,MS,4,0,36,Hongkong,Indonesia,Lee Cheuk Yiu,,Yehezkiel Fritz Mainaky,,21,12,21.0,15.0,,,42,27,2,0,3,0,4,2,0,0,0,38,14160,,
+123,Yonex_All_England_Open,2019-03-07,England,MS,4,0,56,Japan,Thailand,Kento Momota,1.0,Kantaphon Wangcharoen,,21,19,21.0,11.0,,,42,30,2,0,5,0,5,4,3,0,0,4,17020,9,12720
+124,Yonex_All_England_Open,2018-03-14,England,MS,4,0,39,Hongkong,Netherlands,Ng Ka Long Angus,,Mark Caljouw,,22,20,21.0,11.0,,,43,31,2,0,7,0,8,5,6,0,0,25,7260,66,2750
+125,Victor_China_Open,2019-09-19,China,MS,4,0,48,China,Chinesetaipei,Chen Long,5.0,Wang Tzu Wei,,21,10,21.0,17.0,,,42,27,2,0,3,0,6,2,3,2,1,12,44810,6,49690
+126,Blibli_Indonesia_Open,2019-07-16,Indonesia,MS,6,0,56,China,Canada,Lin Dan,,Jason Anthony Ho-Shue,,14,21,21.0,16.0,21.0,16.0,56,53,2,1,3,2,5,6,0,0,0,4,39740,86,3140
+127,Blibli_Indonesia_Open,2019-07-17,Indonesia,MS,6,0,55,Hongkong,India,Wong Wing Ki Vincent,,Sai Praneeth B.,,21,15,13.0,21.0,21.0,10.0,55,46,2,1,2,1,8,4,2,2,1,39,14010,17,25730
+128,Yonex_All_England_Open,2018-03-14,England,MS,6,0,59,Korea,India,Son Wan Ho,5.0,Sai Praneeth B.,,13,21,21.0,15.0,21.0,11.0,55,47,2,1,3,3,5,5,3,1,0,17,8640,17,8640
+129,Victor_China_Open,2019-09-20,China,MS,4,0,49,Denmark,Chinesetaipei,Anders Antonsen,8.0,Chou Tien Chen,2.0,21,17,21.0,11.0,,,42,28,2,0,3,0,5,3,3,7,1,14,43160,3,56620
+130,Victor_China_Open,2019-09-18,China,MS,6,0,71,Denmark,Hongkong,Rasmus Gemke,,Lee Cheuk Yiu,,21,13,14.0,21.0,21.0,14.0,56,48,2,1,2,1,6,4,2,3,0,31,28720,34,27170
+131,Blibli_Indonesia_Open,2019-07-16,Indonesia,MS,6,0,85,Thailand,Japan,Kantaphon Wangcharoen,,Kanta Tsuneyama,,21,19,19.0,21.0,21.0,17.0,61,57,2,1,3,1,6,6,1,0,1,14,30410,12,31110
+132,Blibli_Indonesia_Open,2019-07-17,Indonesia,MS,4,0,39,Malaysia,Thailand,Lee Zii Jia,,Khosit Phetpradab,,21,14,21.0,13.0,,,42,27,2,0,7,0,6,3,1,0,0,11,31230,23,24030
+133,Yonex_All_England_Open,2019-03-06,England,MS,4,0,30,Denmark,Japan,Jan O Jorgensen,,Kazumasa Sakai,,21,10,21.0,17.0,,,42,27,2,0,8,0,8,5,1,3,0,33,6110,33,6110
+134,Blibli_Indonesia_Open,2019-07-18,Indonesia,MS,6,0,74,China,Japan,Huang Yu Xiang,,Kento Momota,1.0,21,16,11.0,21.0,21.0,18.0,53,55,2,1,2,2,6,9,1,3,1,28,20520,3,42540
+135,Victor_China_Open,2019-09-18,China,MS,6,0,72,Indonesia,Japan,Anthony Sinisuka Ginting,7.0,Kenta Nishimoto,,21,14,19.0,21.0,21.0,13.0,61,48,2,1,2,2,6,5,6,4,0,8,49090,16,41640
+136,Victor_China_Open,2019-09-17,China,MS,4,0,32,Indonesia,Hongkong,Tommy Sugiarto,,Wong Wing Ki Vincent,,21,10,21.0,15.0,,,42,25,2,0,2,0,5,5,4,4,0,19,38510,26,31700
+137,Blibli_Indonesia_Open,2019-07-16,Indonesia,MS,4,0,58,Indonesia,Denmark,Jonatan Christie,6.0,Rasmus Gemke,,21,17,24.0,22.0,,,45,39,2,0,2,4,6,4,2,1,0,2,44310,32,19670
+138,Blibli_Indonesia_Open,2019-07-16,Indonesia,MS,6,0,78,Indonesia,China,Anthony Sinisuka Ginting,7.0,Lu Guang Zu,,20,22,23.0,21.0,21.0,18.0,64,61,2,1,6,5,6,7,4,1,0,5,38240,15,28450
+139,Yonex_All_England_Open,2019-03-07,England,MS,4,0,47,Denmark,Denmark,Jan O Jorgensen,,Rasmus Gemke,,21,17,22.0,20.0,,,43,37,2,0,4,0,6,5,1,0,0,33,6110,44,4440
+140,Victor_China_Open,2019-09-18,China,MS,6,0,72,India,Thailand,Sai Praneeth B.,,Suppanyu Avihingsanon,,21,19,21.0,23.0,21.0,14.0,63,56,2,1,3,3,6,4,3,1,0,15,41980,20,37300
+141,Yonex_All_England_Open,2019-03-06,England,MS,6,0,58,Hongkong,Indonesia,Ng Ka Long Angus,,Anthony Sinisuka Ginting,8.0,21,18,13.0,21.0,21.0,11.0,55,50,2,1,2,2,5,7,6,7,1,29,7190,14,10080
+142,Blibli_Indonesia_Open,2019-07-17,Indonesia,MS,6,0,71,China,India,Shi Yu Qi,2.0,Prannoy H. S.,,19,21,21.0,18.0,22.0,20.0,62,59,2,1,5,1,5,6,6,2,0,9,31740,29,20330
+143,Victor_China_Open,2019-09-19,China,MS,4,0,45,Denmark,Denmark,Anders Antonsen,8.0,Rasmus Gemke,,21,11,21.0,15.0,,,42,26,2,0,4,0,6,2,6,0,0,14,43160,31,28720
+144,Yonex_All_England_Open,2019-03-06,England,MS,4,0,52,India,India,Sai Praneeth B.,,Prannoy H. S.,,21,19,21.0,19.0,,,42,38,2,0,5,0,4,4,0,2,0,62,2220,,
+145,Victor_China_Open,2019-09-20,China,MS,6,0,55,Indonesia,India,Anthony Sinisuka Ginting,7.0,Sai Praneeth B.,,16,21,21.0,6.0,21.0,16.0,58,43,2,1,2,2,7,6,4,3,0,8,49090,15,41980
+146,Blibli_Indonesia_Open,2019-07-16,Indonesia,MS,4,0,48,Japan,Malaysia,Kento Momota,1.0,Liew Daren,,22,20,21.0,14.0,,,43,34,2,0,2,1,4,4,3,0,0,3,42540,27,21600
+147,Victor_China_Open,2019-09-20,China,MS,4,0,45,China,Hongkong,Chen Long,5.0,Ng Ka Long Angus,,21,13,21.0,13.0,,,42,26,2,0,3,0,5,4,4,2,0,12,44810,13,43600
+148,Blibli_Indonesia_Open,2019-07-17,Indonesia,MS,4,0,58,Denmark,Thailand,Anders Antonsen,,Sitthikom Thammasin,,21,16,21.0,15.0,,,42,31,2,0,2,0,7,3,2,0,0,16,26910,19,25620
+149,Victor_China_Open,2019-09-20,China,MS,4,0,36,Japan,Japan,Kento Momota,1.0,Kanta Tsuneyama,,21,11,21.0,8.0,,,42,19,2,0,3,0,7,3,3,3,0,2,58340,11,44850
+150,Blibli_Indonesia_Open,2019-07-16,Indonesia,MS,4,0,41,China,Netherlands,Huang Yu Xiang,,Mark Caljouw,,21,12,21.0,13.0,,,42,25,2,0,3,0,10,6,0,1,0,28,20520,47,11590
+151,Victor_China_Open,2019-09-21,China,MS,6,0,87,Japan,China,Kento Momota,1.0,Chen Long,5.0,19,21,21.0,18.0,21.0,16.0,61,55,2,1,2,1,6,6,4,5,0,2,58340,12,44810
+152,Yonex_All_England_Open,2018-03-14,England,MS,4,0,46,China,Korea,Shi Yu Qi,7.0,Jeon Hyeok Jin,,21,18,21.0,19.0,,,42,37,2,0,3,0,7,4,1,0,0,16,9200,28,7200
+153,Victor_China_Open,2019-09-21,China,MS,6,0,67,Indonesia,Denmark,Anthony Sinisuka Ginting,7.0,Anders Antonsen,8.0,18,21,21.0,5.0,21.0,14.0,60,40,2,1,2,3,9,5,6,2,0,8,49090,14,43160
+154,Victor_China_Open,2019-09-18,China,MS,6,0,67,China,Thailand,Huang Yu Xiang,,Kantaphon Wangcharoen,,21,15,16.0,21.0,21.0,17.0,58,53,2,1,3,1,12,7,0,3,1,29,29780,10,45350
+155,Blibli_Indonesia_Open,2019-07-18,Indonesia,MS,6,0,88,Malaysia,China,Lee Zii Jia,,Chen Long,5.0,21,16,19.0,21.0,22.0,20.0,62,57,2,1,5,2,7,4,1,4,1,11,31230,8,35130
+156,Yonex_All_England_Open,2019-03-06,England,MS,6,0,79,China,Chinesetaipei,Huang Yu Xiang,,Chou Tien Chen,3.0,21,14,16.0,21.0,24.0,22.0,61,57,2,1,4,3,4,6,1,3,1,,,30,7120
+157,Victor_China_Open,2019-09-22,China,MS,6,0,90,Japan,Indonesia,Kento Momota,1.0,Anthony Sinisuka Ginting,7.0,19,21,21.0,17.0,21.0,19.0,61,57,2,1,2,2,8,5,10,5,0,2,58340,8,49090
+158,Yonex_All_England_Open,2018-03-14,England,MS,4,0,39,Thailand,Chinesetaipei,Khosit Phetpradab,,Hsu Jen Hao,,21,14,21.0,14.0,,,42,28,2,0,6,0,8,3,1,2,1,53,3890,36,5820
+159,Victor_China_Open,2019-09-17,China,MS,6,0,63,Malaysia,Thailand,Liew Daren,,Sitthikom Thammasin,,13,21,21.0,19.0,21.0,15.0,55,55,2,1,3,1,6,6,1,1,1,25,32230,18,38650
+160,Yonex_All_England_Open,2020-03-11,England,MS,4,0,41,Malaysia,Indonesia,Lee Zii Jia,,Jonatan Christie,6.0,21,15,21.0,13.0,,,42,28,2,0,6,0,8,4,4,5,0,14,11390,17,10080
+161,Yonex_All_England_Open,2019-03-06,England,MS,4,0,46,Indonesia,Korea,Jonatan Christie,,Lee Dong Keun,,21,16,21.0,19.0,,,42,35,2,0,2,0,10,8,1,2,0,16,10020,,
+162,Yonex_All_England_Open,2020-03-12,England,MS,6,0,82,Chinesetaipei,Japan,Chou Tien Chen,1.0,Kanta Tsuneyama,,19,21,26.0,24.0,21.0,13.0,66,58,2,1,0,0,0,0,6,3,1,34,5820,28,7190
+163,Yonex_All_England_Open,2020-03-13,England,MS,4,0,49,Malaysia,China,Lee Zii Jia,,Chen Long,3.0,21,12,21.0,18.0,,,42,30,2,0,0,0,0,0,1,4,0,14,11390,40,5040
+164,Victor_China_Open,2019-09-17,China,MS,4,0,37,Chinesetaipei,Denmark,Wang Tzu Wei,,Hans-Kristian Solberg Vittinghus,,21,16,21.0,19.0,,,42,35,2,0,6,0,8,6,2,4,0,6,49690,27,31570
+165,Yonex_All_England_Open,2018-03-14,England,MS,4,0,39,Indonesia,Indonesia,Tommy Sugiarto,,Anthony Sinisuka Ginting,,21,14,21.0,19.0,,,42,33,2,0,2,0,8,5,2,3,0,2,16420,7,14240
+166,Yonex_All_England_Open,2020-03-11,England,MS,4,0,47,Japan,Hongkong,Kenta Nishimoto,,Ng Ka Long Angus,8.0,21,18,21.0,15.0,,,42,33,2,0,3,0,5,8,6,3,1,8,13150,3,17020
+167,Victor_China_Open,2019-09-19,China,MS,6,0,70,Indonesia,India,Anthony Sinisuka Ginting,7.0,Parupalli Kashyap,,23,21,15.0,21.0,21.0,12.0,59,54,2,1,3,3,4,6,7,0,0,8,49090,17,38920
+168,Yonex_All_England_Open,2020-03-13,England,MS,4,0,40,Denmark,China,Viktor Axelsen,2.0,Shi Yu Qi,7.0,21,15,21.0,7.0,,,42,22,2,0,0,0,0,0,9,3,0,1,21220,4,16650
+169,Yonex_All_England_Open,2020-03-12,England,MS,4,0,45,Denmark,India,Viktor Axelsen,2.0,Lakshya Sen,,21,17,21.0,18.0,,,42,35,2,0,0,0,0,0,7,1,0,1,21220,49,3610
+170,Victor_China_Open,2019-09-18,China,MS,4,0,38,India,France,Parupalli Kashyap,,Brice Leverdez,,21,12,21.0,15.0,,,42,27,2,0,3,0,7,5,1,2,0,17,38920,32,28680
+171,Yonex_All_England_Open,2018-03-14,England,MS,4,0,33,China,England,Huang Yu Xiang,,Rajiv Ouseph,,21,13,21.0,14.0,,,42,27,2,0,6,0,9,3,0,1,1,36,5820,30,7190
+172,Blibli_Indonesia_Open,2019-07-18,Indonesia,MS,6,0,57,Hongkong,Hongkong,Wong Wing Ki Vincent,,Lee Cheuk Yiu,,15,21,21.0,10.0,21.0,7.0,57,38,2,1,2,2,6,6,0,0,1,39,14010,38,14160
+173,Victor_China_Open,2019-09-19,China,MS,4,0,42,Japan,Malaysia,Kanta Tsuneyama,,Liew Daren,,21,12,21.0,19.0,,,42,31,2,0,2,0,5,5,4,2,0,11,44850,25,32230
+174,Victor_China_Open,2019-09-18,China,MS,4,0,15,China,China,Lu Guang Zu,,Shi Yu Qi,3.0,21,5,21.0,9.0,,,42,14,2,0,2,0,7,3,1,10,1,24,34110,21,36540
+175,Blibli_Indonesia_Open,2019-07-18,Indonesia,MS,4,0,39,Hongkong,India,Ng Ka Long Angus,,Kidambi Srikanth,8.0,21,17,21.0,19.0,,,42,36,2,0,3,0,5,4,3,4,1,24,23210,7,35570
+176,Victor_China_Open,2019-09-17,China,MS,6,0,54,Hongkong,China,Ng Ka Long Angus,,Zhao Jun Peng,,9,21,21.0,18.0,21.0,19.0,51,58,2,1,7,1,4,4,3,0,0,13,43600,41,21930
+177,Yonex_All_England_Open,2020-03-14,England,MS,6,0,73,Denmark,Malaysia,Viktor Axelsen,2.0,Lee Zii Jia,,17,21,21.0,13.0,21.0,19.0,59,53,2,1,0,0,0,0,6,4,0,1,21220,14,11390
+178,Yonex_All_England_Open,2020-03-11,England,MS,4,0,43,China,India,Chen Long,3.0,Kidambi Srikanth,,21,15,21.0,16.0,,,42,31,2,0,4,0,6,5,6,2,1,40,5040,10,12710
+179,Yonex_All_England_Open,2020-03-15,England,MS,4,0,46,Denmark,Chinesetaipei,Viktor Axelsen,2.0,Chou Tien Chen,1.0,21,13,21.0,14.0,,,42,27,2,0,0,0,0,0,18,4,0,1,21220,34,5820
+180,Victor_China_Open,2019-09-17,China,MS,6,0,60,Indonesia,Indonesia,Shesar Hiren Rhustavito,,Jonatan Christie,4.0,23,21,18.0,21.0,21.0,10.0,62,52,2,1,3,3,6,4,0,5,1,36,25880,1,60260
+181,Yonex_All_England_Open,2020-03-12,England,MS,6,0,77,Denmark,Indonesia,Rasmus Gemke,,Shesar Hiren Rhustavito,,18,21,21.0,13.0,21.0,19.0,60,53,2,1,0,0,0,0,1,1,0,20,9670,20,9670
+182,Yonex_All_England_Open,2021-03-17,England,MS,4,0,42,Japan,India,Kento Momota,1.0,Parupalli Kashyap,,21,13,22.0,20.0,,,43,33,2,0,0,0,0,0,4,0,1,,,17,1670
+183,Victor_China_Open,2019-09-19,China,MS,4,0,34,Hongkong,Indonesia,Ng Ka Long Angus,,Shesar Hiren Rhustavito,,21,10,21.0,10.0,,,42,20,2,0,3,0,9,5,2,1,0,13,43600,36,25880
+184,Yonex_All_England_Open,2021-03-18,England,MS,4,0,48,Japan,India,Kento Momota,1.0,Prannoy H. S.,,21,15,21.0,14.0,,,42,29,2,0,0,0,0,0,7,1,1,,,17,1670
+185,Yonex_All_England_Open,2018-03-14,England,MS,4,0,37,Malaysia,Brazil,Lee Chong Wei,2.0,Ygor Coelho,,21,15,21.0,17.0,,,42,32,2,0,3,0,4,5,0,0,1,72,2220,39,5560
+186,Yonex_All_England_Open,2020-03-12,England,MS,4,0,31,China,China,Shi Yu Qi,7.0,Zhao Jun Peng,,21,13,21.0,13.0,,,42,26,2,0,0,0,0,0,5,0,0,4,16650,6,13620
+187,Yonex_All_England_Open,2020-03-13,England,MS,4,0,44,Chinesetaipei,Chinesetaipei,Chou Tien Chen,1.0,Wang Tzu Wei,,21,11,21.0,12.0,,,42,23,2,0,0,0,0,0,10,0,1,34,5820,2,17240
+188,Yonex_All_England_Open,2021-03-19,England,MS,4,0,55,Malaysia,Japan,Lee Zii Jia,6.0,Kento Momota,1.0,21,16,21.0,19.0,,,42,35,2,0,0,0,0,0,3,8,0,3,4900,,
+189,Yonex_All_England_Open,2020-03-13,England,MS,4,0,50,Denmark,Denmark,Anders Antonsen,5.0,Rasmus Gemke,,21,10,21.0,13.0,,,42,23,2,0,0,0,0,0,6,0,0,18,10020,20,9670
+190,Victor_China_Open,2019-09-19,China,MS,4,0,48,India,China,Sai Praneeth B.,,Lu Guang Zu,,21,19,21.0,19.0,,,42,38,2,0,4,0,4,4,0,1,0,15,41980,24,34110
+191,Yonex_All_England_Open,2020-03-11,England,MS,6,0,65,China,Indonesia,Shi Yu Qi,7.0,Tommy Sugiarto,,21,17,17.0,21.0,21.0,7.0,59,45,2,1,2,2,6,4,2,1,0,4,16650,34,5820
+192,Yonex_All_England_Open,2020-03-12,England,MS,4,0,50,Chinesetaipei,Japan,Wang Tzu Wei,,Kenta Nishimoto,,21,16,21.0,16.0,,,42,32,2,0,0,0,0,0,1,3,0,2,17240,8,13150
+193,Yonex_All_England_Open,2021-03-17,England,MS,4,0,53,Indonesia,Thailand,Jonatan Christie,5.0,Kunlavut Vitidsarn,,21,13,24.0,22.0,,,45,35,2,0,2,3,5,6,5,3,1,,,2,5950
+194,Yonex_All_England_Open,2019-03-06,England,MS,6,0,61,Japan,China,Kanta Tsuneyama,,Lin Dan,,19,21,21.0,14.0,21.0,7.0,61,42,2,1,4,6,10,4,1,3,1,20,9670,13,10920
+195,Yonex_All_England_Open,2018-03-14,England,MS,6,0,65,India,Chinesetaipei,Prannoy H. S.,,Chou Tien Chen,8.0,9,21,21.0,18.0,21.0,18.0,51,57,2,1,4,2,4,5,5,7,1,72,2220,1,16440
+196,Yonex_All_England_Open,2021-03-19,England,MS,4,0,34,Denmark,Thailand,Viktor Axelsen,2.0,Sitthikom Thammasin,,21,4,21.0,15.0,,,42,19,2,0,0,0,0,0,4,0,0,1,7000,17,1670
+197,Yonex_All_England_Open,2020-03-12,England,MS,6,0,78,Denmark,China,Anders Antonsen,5.0,Huang Yu Xiang,,19,21,21.0,12.0,21.0,15.0,61,48,2,1,0,0,0,0,3,0,1,18,10020,12,11750
+198,Yonex_All_England_Open,2020-03-12,England,MS,4,0,36,Malaysia,China,Lee Zii Jia,,Lu Guang Zu,,21,10,21.0,16.0,,,42,26,2,0,0,0,0,0,4,2,0,14,11390,27,7200
+199,Yonex_All_England_Open,2021-03-21,England,MS,6,0,74,Malaysia,Denmark,Lee Zii Jia,6.0,Viktor Axelsen,2.0,30,29,20.0,22.0,21.0,9.0,71,60,2,1,0,0,0,0,3,7,1,3,4900,1,7000
+200,Yonex_All_England_Open,2021-03-20,England,MS,4,0,44,Malaysia,Netherlands,Lee Zii Jia,6.0,Mark Caljouw,,21,13,21.0,17.0,,,42,30,2,0,0,0,0,0,4,0,0,3,4900,9,2750
+201,Yonex_All_England_Open,2021-03-18,England,MS,4,0,50,Denmark,India,Anders Antonsen,3.0,Sameer Verma,,22,20,21.0,10.0,,,43,30,2,0,0,0,0,0,4,2,1,,,17,1670
+202,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,MS,4,0,39,Denmark,Thailand,Hans-Kristian Solberg Vittinghus,,Kantaphon Wangcharoen,,21,18,21.0,12.0,,,42,30,2,0,5,0,9,4,1,2,1,23,11650,19,12510
+203,Yonex_All_England_Open,2021-03-20,England,MS,6,0,67,Denmark,Denmark,Viktor Axelsen,2.0,Anders Antonsen,3.0,16,21,21.0,7.0,21.0,17.0,58,45,2,1,0,0,0,0,5,4,0,1,7000,,
+204,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,MS,6,0,50,Indonesia,Thailand,Shesar Hiren Rhustavito,,Sitthikom Thammasin,,21,12,15.0,21.0,21.0,16.0,57,49,2,1,3,1,7,6,4,0,0,9,17800,36,8270
+205,Yonex_All_England_Open,2021-03-17,England,MS,6,0,65,Denmark,Japan,Viktor Axelsen,2.0,Koki Watanabe,,13,21,21.0,19.0,21.0,19.0,55,59,2,1,0,0,0,0,2,0,0,1,7000,,
+206,Yonex_All_England_Open,2021-03-19,England,MS,6,0,55,Netherlands,India,Mark Caljouw,,Lakshya Sen,,21,17,16.0,21.0,21.0,17.0,58,55,2,1,0,0,0,0,0,1,0,9,2750,17,1670
+207,Yonex_All_England_Open,2020-03-11,England,MS,4,0,37,China,Thailand,Lu Guang Zu,,Kantaphon Wangcharoen,,21,16,21.0,9.0,,,42,25,2,0,5,0,9,3,4,1,0,27,7200,30,6110
+208,Yonex_All_England_Open,2021-03-17,England,MS,6,0,60,Ireland,India,Nhat Nguyen,,Kidambi Srikanth,8.0,21,11,15.0,21.0,21.0,12.0,57,44,2,1,0,0,0,0,1,3,1,17,1670,3,4900
+209,Yonex_All_England_Open,2020-03-12,England,MS,4,0,45,China,China,Chen Long,3.0,Lin Dan,,21,17,21.0,8.0,,,42,25,2,0,0,0,0,0,9,8,1,40,5040,30,6110
+210,Yonex_All_England_Open,2019-03-06,England,MS,4,0,40,Malaysia,Thailand,Liew Daren,,Suppanyu Avihingsanon,,21,13,21.0,17.0,,,42,30,2,0,2,0,6,4,2,0,1,31,6420,22,9160
+211,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,MS,4,0,49,France,Indonesia,Christo Popov,,Anthony Sinisuka Ginting,5.0,21,17,21.0,18.0,,,42,35,2,0,2,0,4,4,0,2,0,50,3780,55,3000
+212,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,MS,4,0,54,Japan,India,Kento Momota,1.0,Lakshya Sen,,23,21,21.0,15.0,,,44,36,2,0,4,1,7,4,1,1,1,11,16800,5,19120
+213,Yonex_All_England_Open,2021-03-17,England,MS,4,0,52,Denmark,Japan,Rasmus Gemke,7.0,Kenta Nishimoto,,21,13,21.0,14.0,,,42,27,2,0,3,0,7,3,4,4,0,9,2750,,
+214,Yonex_All_England_Open,2018-03-14,England,MS,6,0,57,Korea,Denmark,Lee Dong Keun,,Jan O Jorgensen,,13,21,21.0,10.0,21.0,17.0,55,48,2,1,3,1,7,7,1,9,1,,,33,5950
+215,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,MS,4,0,43,Denmark,Japan,Viktor Axelsen,2.0,Koki Watanabe,,21,14,21.0,14.0,,,42,28,2,0,2,0,9,4,2,0,0,1,31860,55,3000
+216,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,MS,6,0,69,Singapore,Japan,Loh Kean Yew,,Kento Momota,1.0,21,7,17.0,21.0,21.0,19.0,59,47,2,1,2,1,6,8,0,2,1,38,7320,11,16800
+217,Yonex_All_England_Open,2019-03-06,England,MS,4,0,30,India,France,Kidambi Srikanth,7.0,Brice Leverdez,,21,13,21.0,11.0,,,42,24,2,0,2,0,7,3,4,1,0,14,10080,18,9870
+218,Siminvest_Indonesia_Open_2021_New_,2021-11-26,Indonesia,MS,4,0,25,Singapore,Denmark,Loh Kean Yew,,Hans-Kristian Solberg Vittinghus,,21,9,21.0,4.0,,,42,13,2,0,2,0,10,2,1,0,1,38,7320,23,11650
+219,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,MS,4,0,37,Denmark,India,Viktor Axelsen,2.0,Kidambi Srikanth,,21,14,21.0,18.0,,,42,32,2,0,2,0,5,5,10,3,0,1,31860,8,18390
+220,Yonex_All_England_Open,2021-03-17,England,MS,4,0,30,India,Malaysia,Prannoy H. S.,,Liew Daren,,21,10,21.0,10.0,,,42,20,2,0,4,0,7,4,7,4,0,17,1670,17,1670
+221,Yonex_All_England_Open,2020-03-11,England,MS,6,0,62,Chinesetaipei,Thailand,Wang Tzu Wei,,Khosit Phetpradab,,21,14,15.0,21.0,21.0,8.0,57,43,2,1,3,1,12,5,3,4,0,2,17240,49,3610
+222,Siminvest_Indonesia_Open_2021_New_,2021-11-26,Indonesia,MS,4,0,36,Denmark,India,Viktor Axelsen,2.0,Sai Praneeth B.,,21,12,21.0,8.0,,,42,20,2,0,5,0,7,3,6,1,0,1,31860,23,11650
+223,Yonex_All_England_Open,2021-03-18,England,MS,4,0,53,India,France,Lakshya Sen,,Thomas Rouxel,,21,18,21.0,17.0,,,42,35,2,0,0,0,0,0,2,0,1,17,1670,9,2750
+224,Siminvest_Indonesia_Open_2021_New_,2021-11-27,Indonesia,MS,4,0,54,Denmark,Indonesia,Viktor Axelsen,2.0,Jonatan Christie,6.0,21,19,21.0,15.0,,,42,34,2,0,2,0,5,5,9,2,0,1,31860,25,11400
+225,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,MS,4,0,35,Chinesetaipei,Hongkong,Chou Tien Chen,4.0,Lee Cheuk Yiu,,21,12,21.0,14.0,,,42,26,2,0,2,0,10,3,8,4,0,12,15950,15,14450
+226,Siminvest_Indonesia_Open_2021_New_,2021-11-27,Indonesia,MS,4,0,42,Singapore,Denmark,Loh Kean Yew,,Rasmus Gemke,,21,14,21.0,7.0,,,42,21,2,0,2,0,5,3,1,0,1,38,7320,14,14870
+227,Yonex_All_England_Open,2021-03-18,England,MS,4,0,38,Netherlands,Ireland,Mark Caljouw,,Nhat Nguyen,,21,18,21.0,7.0,,,42,25,2,0,0,0,0,0,4,1,0,9,2750,17,1670
+228,Yonex_All_England_Open,2021-03-18,England,MS,6,0,77,Japan,Denmark,Kanta Tsuneyama,,Rasmus Gemke,7.0,21,15,18.0,21.0,21.0,14.0,60,50,2,1,0,0,0,0,1,0,1,,,9,2750
+229,Siminvest_Indonesia_Open_2021_New_,2021-11-26,Indonesia,MS,4,0,64,Denmark,Japan,Rasmus Gemke,,Kenta Nishimoto,,21,18,21.0,17.0,,,42,35,2,0,2,0,5,5,4,4,0,14,14870,21,12050
+230,Yonex_All_England_Open,2021-03-18,England,MS,6,0,52,Denmark,India,Viktor Axelsen,2.0,Sai Praneeth B.,,15,21,21.0,12.0,21.0,12.0,57,45,2,1,0,0,0,0,6,1,0,1,7000,5,3850
+231,Yonex_All_England_Open,2021-03-17,England,MS,4,0,36,Denmark,Israel,Hans-Kristian Solberg Vittinghus,,Misha Zilberman,,21,16,21.0,19.0,,,42,35,2,0,0,0,0,0,4,0,1,,,17,1670
+232,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,MS,4,0,44,Japan,France,Kenta Nishimoto,,Thomas Rouxel,,21,13,21.0,13.0,,,42,26,2,0,2,0,6,4,1,0,1,21,12050,6,18780
+233,Yonex_All_England_Open,2020-03-11,England,MS,6,0,66,Japan,Korea,Kanta Tsuneyama,,Heo Kwang Hee,,21,17,16.0,21.0,21.0,15.0,58,53,2,1,2,3,9,5,1,0,1,28,7190,7,13230
+234,Yonex_All_England_Open,2021-03-18,England,MS,4,0,35,Malaysia,Denmark,Lee Zii Jia,6.0,Hans-Kristian Solberg Vittinghus,,21,12,21.0,13.0,,,42,25,2,0,0,0,0,0,2,0,0,3,4900,,
+235,Siminvest_Indonesia_Open_2021_New_,2021-11-28,Indonesia,MS,6,0,59,Denmark,Singapore,Viktor Axelsen,2.0,Loh Kean Yew,,21,13,9.0,21.0,21.0,13.0,51,47,2,1,5,1,8,4,8,2,0,1,31860,38,7320
+236,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,MS,4,0,35,Indonesia,Malaysia,Jonatan Christie,6.0,Liew Daren,,21,14,21.0,15.0,,,42,29,2,0,2,0,5,4,3,1,1,25,11400,20,12130
+237,Yonex_All_England_Open,2021-03-17,England,MS,4,0,28,Malaysia,Canada,Lee Zii Jia,6.0,Brian Yang,,21,13,21.0,10.0,,,42,23,2,0,0,0,0,0,4,1,0,3,4900,9,2750
+238,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,MS,4,0,40,Chinesetaipei,Indonesia,Wang Tzu Wei,,Tommy Sugiarto,,21,17,21.0,17.0,,,42,34,2,0,3,0,8,5,1,0,1,38,7320,35,8400
+239,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,MS,6,0,82,Denmark,Chinesetaipei,Anders Antonsen,3.0,Wang Tzu Wei,,18,21,21.0,13.0,21.0,14.0,60,48,2,1,3,1,7,4,2,3,0,13,15860,38,7320
+240,Yonex_All_England_Open,2022-03-17,England,MS,4,0,55,India,Denmark,Lakshya Sen,,Anders Antonsen,3.0,21,16,21.0,18.0,,,42,34,2,0,4,0,5,6,1,4,0,1,15150,,
+241,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,MS,4,0,35,Indonesia,Indonesia,Jonatan Christie,6.0,Chico Aura Dwi Wardoyo,,21,11,21.0,12.0,,,42,23,2,0,5,0,8,3,3,0,0,25,11400,40,7240
+242,Yonex_All_England_Open,2022-03-16,England,MS,4,0,43,Chinesetaipei,Indonesia,Chou Tien Chen,4.0,Shesar Hiren Rhustavito,,21,10,21.0,19.0,,,42,29,2,0,2,0,9,6,4,0,1,,,58,1670
+243,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,MS,6,0,83,India,France,Sai Praneeth B.,,Christo Popov,,21,17,14.0,21.0,21.0,19.0,56,57,2,1,2,1,4,7,0,2,0,23,11650,50,3780
+244,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,MS,6,0,67,Denmark,Malaysia,Rasmus Gemke,,Lee Zii Jia,7.0,13,21,25.0,23.0,21.0,16.0,59,60,2,1,4,3,7,5,3,0,1,14,14870,2,26160
+245,Yonex_All_England_Open,2022-03-18,England,MS,6,0,64,Malaysia,Japan,Lee Zii Jia,6.0,Kento Momota,2.0,21,7,13.0,21.0,21.0,11.0,55,39,2,1,2,1,10,10,3,8,0,26,4900,58,1670
+246,Yonex_All_England_Open,2020-03-11,England,MS,6,0,64,China,Thailand,Lin Dan,,Kunlavut Vitidsarn,,13,21,22.0,20.0,21.0,10.0,56,51,2,1,4,3,6,4,1,0,1,30,6110,5,14700
+247,Yonex_All_England_Open,2019-03-06,England,MS,4,0,50,Denmark,China,Rasmus Gemke,,Chen Long,4.0,21,15,21.0,17.0,,,42,32,2,0,3,0,5,4,0,1,1,44,4440,8,12840
+248,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,MS,6,0,68,Japan,Hongkong,Kanta Tsuneyama,,Ng Ka Long Angus,8.0,22,20,13.0,21.0,21.0,19.0,56,60,2,1,4,8,7,6,1,5,0,4,22400,31,9120
+249,Yonex_All_England_Open,2022-03-16,England,MS,4,0,48,Denmark,India,Viktor Axelsen,1.0,Sai Praneeth B.,,22,20,21.0,11.0,,,43,31,2,0,5,0,7,4,6,1,0,26,4900,,
+250,Yonex_All_England_Open,2022-03-18,England,MS,4,0,34,Denmark,Indonesia,Viktor Axelsen,1.0,Anthony Sinisuka Ginting,5.0,21,4,21.0,9.0,,,42,13,2,0,2,0,14,2,12,5,0,26,4900,39,2750
+251,Yonex_All_England_Open,2022-03-17,England,MS,4,0,45,Malaysia,Canada,Lee Zii Jia,6.0,Brian Yang,,26,24,21.0,11.0,,,47,35,2,0,7,1,8,4,4,1,1,26,4900,9,9170
+252,Yonex_All_England_Open,2019-03-06,England,MS,6,0,68,Thailand,Chinesetaipei,Kantaphon Wangcharoen,,Wang Tzu Wei,,23,21,14.0,21.0,22.0,20.0,59,62,2,1,5,2,3,9,1,4,0,9,12720,10,11590
+253,Yonex_All_England_Open,2022-03-18,England,MS,4,0,36,Chinesetaipei,Indonesia,Chou Tien Chen,4.0,Jonatan Christie,7.0,21,10,21.0,15.0,,,42,25,2,0,3,0,7,4,6,9,1,,,39,2750
+254,Yonex_All_England_Open,2022-03-17,England,MS,4,0,46,Indonesia,Thailand,Jonatan Christie,7.0,Kunlavut Vitidsarn,,21,16,21.0,19.0,,,42,35,2,0,4,0,7,4,5,3,1,39,2750,16,7000
+255,Siminvest_Indonesia_Open_2021_New_,2021-11-23,Indonesia,MS,4,0,32,Singapore,India,Loh Kean Yew,,Parupalli Kashyap,,21,11,21.0,14.0,,,42,25,2,0,2,0,9,5,2,0,1,38,7320,27,10840
+256,Yonex_All_England_Open,2020-03-11,England,MS,4,0,38,Chinesetaipei,Netherlands,Chou Tien Chen,1.0,Mark Caljouw,,21,19,21.0,17.0,,,42,36,2,0,2,0,6,6,2,0,0,34,5820,,
+257,Yonex_All_England_Open,2022-03-16,England,MS,6,0,74,Denmark,Singapore,Anders Antonsen,3.0,Loh Kean Yew,,21,15,18.0,21.0,21.0,13.0,60,49,2,1,6,4,6,6,1,4,1,,,7,9470
+258,Yonex_All_England_Open,2022-03-19,England,MS,6,0,76,India,Malaysia,Lakshya Sen,,Lee Zii Jia,6.0,21,13,12.0,21.0,21.0,19.0,54,53,2,1,3,2,6,6,3,2,0,1,15150,26,4900
+259,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,MS,4,0,31,Indonesia,Indonesia,Chico Aura Dwi Wardoyo,,Henrikho Wibowo Kho,,21,11,21.0,18.0,,,42,29,2,0,2,0,6,3,0,0,0,40,7240,,
+260,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,MS,4,0,46,India,France,Sai Praneeth B.,,Toma Junior Popov,,21,19,21.0,18.0,,,42,37,2,0,7,0,5,4,1,0,1,23,11650,3,22830
+261,Yonex_All_England_Open,2022-03-16,England,MS,4,0,39,Malaysia,France,Liew Daren,,Toma Junior Popov,,21,15,21.0,19.0,,,42,34,2,0,3,0,8,7,2,0,1,,,39,2750
+262,Yonex_All_England_Open,2022-03-19,England,MS,4,0,48,Denmark,Chinesetaipei,Viktor Axelsen,1.0,Chou Tien Chen,4.0,21,13,21.0,15.0,,,42,28,2,0,2,0,7,4,18,4,0,26,4900,,
+263,Yonex_All_England_Open,2021-03-17,England,MS,4,0,34,India,Brazil,Sameer Verma,,Ygor Coelho,,21,11,21.0,19.0,,,42,30,2,0,0,0,0,0,2,0,0,17,1670,17,1670
+264,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,MS,6,0,76,Japan,Chinesetaipei,Kenta Nishimoto,,Chou Tien Chen,4.0,18,21,21.0,15.0,21.0,11.0,60,47,2,1,3,1,7,5,4,9,1,21,12050,12,15950
+265,Yonex_All_England_Open,2022-03-20,England,MS,4,0,53,Denmark,India,Viktor Axelsen,1.0,Lakshya Sen,,21,10,21.0,15.0,,,42,25,2,0,6,0,6,3,7,1,1,26,4900,1,15150
+266,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,MS,6,0,56,India,India,Kidambi Srikanth,,Prannoy H. S.,,21,15,19.0,21.0,21.0,12.0,61,48,2,1,3,1,4,4,5,3,0,8,18390,18,12640
+267,Yonex_All_England_Open,2022-03-17,England,MS,6,0,62,Indonesia,India,Anthony Sinisuka Ginting,5.0,Kidambi Srikanth,,9,21,21.0,18.0,21.0,19.0,51,58,2,1,3,1,6,5,4,2,1,39,2750,14,7450
+268,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,MS,4,0,41,Malaysia,India,Lee Zii Jia,6.0,Sameer Verma,,21,10,21.0,13.0,,,42,23,2,0,4,0,5,3,4,2,0,3,27540,27,14340
+269,Siminvest_Indonesia_Open_2021_New_,2021-11-24,Indonesia,MS,6,0,79,Denmark,Thailand,Anders Antonsen,3.0,Kunlavut Vitidsarn,,21,15,17.0,21.0,21.0,17.0,59,53,2,1,4,1,5,9,4,1,1,13,15860,7,18460
+270,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,MS,6,0,74,Chinesetaipei,Thailand,Chou Tien Chen,4.0,Kunlavut Vitidsarn,,22,20,19.0,21.0,21.0,12.0,62,53,2,1,2,2,7,4,1,2,1,16,18420,13,19060
+271,Siminvest_Indonesia_Open_2021_New_,2021-11-25,Indonesia,MS,6,0,54,Denmark,Japan,Hans-Kristian Solberg Vittinghus,,Kanta Tsuneyama,,10,21,21.0,18.0,21.0,13.0,52,52,2,1,6,1,6,4,4,0,1,23,11650,4,22400
+272,East_Ventures_Indonesia_Open,2022-06-17,Indonesia,MS,6,0,65,Malaysia,Singapore,Lee Zii Jia,6.0,Loh Kean Yew,,21,18,16.0,21.0,22.0,20.0,59,59,2,1,2,3,5,6,5,2,0,3,27540,14,18890
+273,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,MS,4,0,45,Denmark,China,Viktor Axelsen,1.0,Lu Guang Zu,,21,17,21.0,9.0,,,42,26,2,0,3,0,7,5,6,0,0,2,32450,10,20460
+274,East_Ventures_Indonesia_Open,2022-06-18,Indonesia,MS,6,0,70,Denmark,Malaysia,Viktor Axelsen,1.0,Lee Zii Jia,6.0,19,21,21.0,11.0,23.0,21.0,63,53,2,1,6,3,7,5,6,4,0,2,32450,3,27540
+275,East_Ventures_Indonesia_Open,2022-06-17,Indonesia,MS,6,0,67,Denmark,Indonesia,Viktor Axelsen,1.0,Anthony Sinisuka Ginting,5.0,21,13,19.0,21.0,21.0,9.0,61,43,2,1,2,2,6,5,12,5,0,2,32450,7,22890
+276,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,MS,4,0,36,Indonesia,Denmark,Anthony Sinisuka Ginting,5.0,Hans-Kristian Solberg Vittinghus,,21,17,21.0,9.0,,,42,26,2,0,3,0,5,6,1,1,0,7,22890,42,9550
+277,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,MS,4,0,42,Indonesia,Thailand,Jonatan Christie,7.0,Kantaphon Wangcharoen,,22,20,21.0,8.0,,,43,28,2,0,4,1,5,6,2,0,0,5,26370,29,14090
+278,East_Ventures_Indonesia_Open,2022-06-18,Indonesia,MS,4,0,40,China,India,Zhao Jun Peng,,Prannoy H. S.,,21,16,21.0,15.0,,,42,31,2,0,6,0,5,4,1,1,1,18,17160,6,26130
+279,Yonex_All_England_Open,2022-03-16,England,MS,4,0,41,Netherlands,India,Mark Caljouw,,Sameer Verma,,21,18,21.0,11.0,,,42,29,2,0,2,0,4,4,1,0,1,58,1670,24,5270
+280,East_Ventures_Indonesia_Open,2022-06-17,Indonesia,MS,4,0,40,India,Denmark,Prannoy H. S.,,Rasmus Gemke,,21,14,21.0,12.0,,,42,26,2,0,2,0,8,3,2,2,0,6,26130,69,5820
+281,Yonex_All_England_Open,2022-03-17,England,MS,4,0,37,Denmark,Netherlands,Viktor Axelsen,1.0,Mark Caljouw,,21,14,21.0,13.0,,,42,27,2,0,6,0,10,5,4,0,0,26,4900,58,1670
+282,Yonex_All_England_Open,2021-03-17,England,MS,4,0,28,Netherlands,Thailand,Mark Caljouw,,Khosit Phetpradab,,21,7,21.0,7.0,,,42,14,2,0,2,0,8,2,2,1,0,9,2750,9,2750
+283,East_Ventures_Indonesia_Open,2022-06-19,Indonesia,MS,4,0,38,Denmark,China,Viktor Axelsen,1.0,Zhao Jun Peng,,21,9,21.0,10.0,,,42,19,2,0,7,0,7,4,4,1,0,2,32450,18,17160
+284,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,MS,6,0,82,Denmark,Japan,Rasmus Gemke,,Kento Momota,2.0,21,19,19.0,21.0,21.0,14.0,61,54,2,1,4,6,8,5,1,6,1,69,5820,39,10490
+285,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,MS,4,0,41,India,Hongkong,Prannoy H. S.,,Ng Ka Long Angus,,21,11,21.0,18.0,,,42,29,2,0,4,0,5,4,5,7,0,6,26130,35,11510
+286,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,MS,4,0,32,Denmark,Japan,Viktor Axelsen,1.0,Kanta Tsuneyama,,21,8,21.0,4.0,,,42,12,2,0,2,0,7,6,5,1,0,2,32450,,
+287,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,MS,4,0,30,China,Netherlands,Zhao Jun Peng,,Mark Caljouw,,21,11,21.0,11.0,,,42,22,2,0,2,0,7,4,0,0,0,18,17160,31,13330
+288,Yonex_All_England_Open,2021-03-17,England,MS,4,0,42,Thailand,Spain,Sitthikom Thammasin,,Pablo Abian,,21,15,21.0,12.0,,,42,27,2,0,3,0,6,4,0,0,1,17,1670,9,2750
+289,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,MS,4,0,45,India,France,Sameer Verma,,Thomas Rouxel,,21,19,21.0,15.0,,,42,34,2,0,7,0,7,5,2,0,0,27,14340,47,9070
+290,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,MS,4,0,48,Denmark,France,Rasmus Gemke,,Brice Leverdez,,21,12,21.0,15.0,,,42,27,2,0,2,0,9,4,2,1,1,69,5820,45,9110
+291,East_Ventures_Indonesia_Open,2022-06-17,Indonesia,MS,6,0,59,China,Hongkong,Zhao Jun Peng,,Lee Cheuk Yiu,,21,14,17.0,21.0,21.0,11.0,59,46,2,1,3,4,6,5,3,2,0,18,17160,37,11020
+292,Yonex_All_England_Open,2022-03-17,England,MS,4,0,42,Japan,Korea,Kento Momota,2.0,Heo Kwang Hee,,21,16,21.0,12.0,,,42,28,2,0,2,0,4,3,3,3,1,58,1670,39,2750
+293,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,MS,4,0,57,France,Ireland,Toma Junior Popov,,Nhat Nguyen,,21,15,21.0,15.0,,,42,30,2,0,3,0,7,4,6,2,0,8,20920,9,20540
+294,Yonex_All_England_Open,2021-03-17,England,MS,4,0,49,India,Thailand,Lakshya Sen,,Kantaphon Wangcharoen,,21,18,21.0,12.0,,,42,30,2,0,3,0,9,5,3,2,1,17,1670,5,3850
+295,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,MS,4,0,37,Singapore,France,Loh Kean Yew,,Toma Junior Popov,,21,16,21.0,9.0,,,42,25,2,0,3,0,7,4,4,0,1,14,18890,8,20920
+296,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,MS,4,0,41,Malaysia,Thailand,Lee Zii Jia,6.0,Sitthikom Thammasin,,21,15,21.0,14.0,,,42,29,2,0,2,0,5,3,5,0,0,3,27540,20,16470
+297,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,MS,4,0,47,Indonesia,Indonesia,Anthony Sinisuka Ginting,5.0,Tommy Sugiarto,,21,17,22.0,20.0,,,43,37,2,0,5,0,5,3,2,3,0,7,22890,57,8040
+298,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,MS,6,0,60,Hongkong,Indonesia,Ng Ka Long Angus,,Shesar Hiren Rhustavito,,21,17,11.0,21.0,21.0,16.0,53,54,2,1,2,1,6,5,2,1,1,35,11510,15,18640
+299,Yonex_All_England_Open,2022-03-17,England,MS,4,0,38,China,Hongkong,Lu Guang Zu,,Ng Ka Long Angus,8.0,21,10,21.0,11.0,,,42,21,2,0,2,0,6,4,1,1,0,39,2750,58,1670
+300,Yonex_All_England_Open,2022-03-16,England,MS,4,0,56,Thailand,India,Kunlavut Vitidsarn,,Prannoy H. S.,,21,15,24.0,22.0,,,45,37,2,0,4,2,6,5,2,0,1,16,7000,2,12740
+301,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,MS,6,0,65,China,Indonesia,Zhao Jun Peng,,Jonatan Christie,7.0,21,12,18.0,21.0,21.0,14.0,60,47,2,1,4,1,7,6,2,3,1,18,17160,5,26370
+302,Yonex_All_England_Open,2022-03-16,England,MS,6,0,60,Indonesia,France,Jonatan Christie,7.0,Brice Leverdez,,21,9,16.0,21.0,21.0,17.0,58,47,2,1,3,2,6,5,2,1,0,39,2750,58,1670
+303,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,MS,4,0,42,France,India,Brice Leverdez,,Kidambi Srikanth,,23,21,21.0,10.0,,,44,31,2,0,3,2,4,3,0,5,1,45,9110,4,27170
+304,Yonex_All_England_Open,2020-03-11,England,MS,4,0,33,China,India,Zhao Jun Peng,,Sai Praneeth B.,,21,12,21.0,13.0,,,42,25,2,0,0,0,0,0,1,0,0,6,13620,28,7190
+305,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,MS,4,0,45,Denmark,India,Hans-Kristian Solberg Vittinghus,,Sai Praneeth B.,,21,16,21.0,19.0,,,42,35,2,0,3,0,5,4,3,1,0,42,9550,49,9000
+306,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,MS,4,0,42,Singapore,Korea,Loh Kean Yew,,Heo Kwang Hee,,21,12,23.0,21.0,,,44,33,2,0,3,6,8,4,2,0,0,14,18890,17,18340
+307,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,MS,4,0,45,Hongkong,Malaysia,Lee Cheuk Yiu,,Liew Daren,,21,19,21.0,18.0,,,42,37,2,0,3,0,7,6,6,0,1,37,11020,25,15660
+308,East_Ventures_Indonesia_Open,2022-06-14,Indonesia,MS,4,0,57,China,Japan,Lu Guang Zu,,Kenta Nishimoto,,21,18,21.0,13.0,,,42,31,2,0,2,0,7,5,0,4,0,10,20460,48,9070
+309,Yonex_All_England_Open,2021-03-17,England,MS,4,0,54,India,France,Sai Praneeth B.,,Toma Junior Popov,,21,18,22.0,20.0,,,43,38,2,0,0,0,0,0,1,0,0,5,3850,17,1670
+310,East_Ventures_Indonesia_Open,2022-06-15,Indonesia,MS,4,0,34,India,India,Prannoy H. S.,,Lakshya Sen,8.0,21,10,21.0,9.0,,,42,19,2,0,3,0,7,3,2,5,1,6,26130,1,33990
+311,East_Ventures_Indonesia_Open,2022-06-16,Indonesia,MS,4,0,49,Hongkong,Chinesetaipei,Lee Cheuk Yiu,,Chou Tien Chen,4.0,21,18,21.0,13.0,,,42,31,2,0,2,0,7,4,3,9,1,37,11020,16,18420
+312,Yonex_All_England_Open,2020-03-11,England,MS,4,0,43,Denmark,Indonesia,Rasmus Gemke,,Anthony Sinisuka Ginting,4.0,21,14,21.0,18.0,,,42,32,2,0,0,0,0,0,0,1,1,20,9670,13,11420
+313,Yonex_All_England_Open,2020-03-11,England,MS,4,0,40,Denmark,Thailand,Viktor Axelsen,2.0,Sitthikom Thammasin,,21,15,21.0,13.0,,,42,28,2,0,0,0,0,0,4,0,0,1,21220,,
+314,Yonex_All_England_Open,2023-03-15,England,MS,4,0,33,Malaysia,Thailand,Lee Zii Jia,4.0,Sitthikom Thammasin,,21,12,21.0,15.0,,,42,27,2,0,4,0,6,5,5,0,0,19,13670,41,3890
+315,Yonex_All_England_Open,2020-03-11,England,MS,6,0,59,India,Hongkong,Lakshya Sen,,Lee Cheuk Yiu,,17,21,21.0,8.0,21.0,17.0,59,46,2,1,0,0,0,0,1,2,1,49,3610,18,10020
+316,Yonex_All_England_Open,2023-03-14,England,MS,4,0,51,Indonesia,Thailand,Anthony Sinisuka Ginting,3.0,Kantaphon Wangcharoen,,21,17,21.0,19.0,,,42,36,2,0,7,0,7,4,6,4,0,9,17900,26,10790
+317,Yonex_All_England_Open,2023-03-14,England,MS,4,0,49,India,Chinesetaipei,Lakshya Sen,,Chou Tien Chen,5.0,21,18,21.0,19.0,,,42,37,2,0,3,0,5,5,1,3,0,18,14030,20,13070
+318,Yonex_All_England_Open,2023-03-16,England,MS,6,0,69,Malaysia,Denmark,Ng Tze Yong,,Viktor Axelsen,1.0,21,15,9.0,21.0,23.0,21.0,53,57,2,1,2,3,6,10,0,1,1,16,14910,4,21350
+319,Yonex_All_England_Open,2023-03-15,England,MS,4,0,61,Thailand,Japan,Kunlavut Vitidsarn,6.0,Kento Momota,,23,21,21.0,15.0,,,44,36,2,0,5,2,5,3,0,2,0,5,21070,27,9780
+320,Yonex_All_England_Open,2023-03-18,England,MS,4,0,43,China,Malaysia,Shi Yu Qi,,Lee Zii Jia,4.0,21,19,21.0,13.0,,,42,32,2,0,2,0,5,4,4,1,0,7,20310,19,13670
+321,Yonex_All_England_Open,2023-03-17,England,MS,6,0,73,Denmark,Indonesia,Anders Antonsen,,Anthony Sinisuka Ginting,3.0,21,14,9.0,21.0,21.0,17.0,51,52,2,1,4,1,6,6,1,7,1,13,15470,9,17900
+322,Yonex_All_England_Open,2023-03-14,England,MS,6,0,60,Denmark,Hongkong,Viktor Axelsen,1.0,Lee Cheuk Yiu,,19,21,21.0,15.0,21.0,11.0,61,47,2,1,2,2,5,5,5,1,0,4,21350,11,16630
+323,Yonex_All_England_Open,2023-03-16,England,MS,6,0,68,Indonesia,India,Anthony Sinisuka Ginting,3.0,Prannoy H. S.,,22,20,15.0,21.0,21.0,17.0,58,58,2,1,4,5,5,4,1,4,0,9,17900,24,11480
+324,Yonex_All_England_Open,2023-03-17,England,MS,4,0,41,China,Malaysia,Li Shi Feng,,Ng Tze Yong,,21,11,21.0,11.0,,,42,22,2,0,6,0,8,4,5,0,0,2,22120,16,14910
+325,Yonex_All_England_Open,2020-03-11,England,MS,4,0,56,Denmark,Korea,Anders Antonsen,5.0,Son Wan Ho,,22,20,21.0,13.0,,,43,33,2,0,0,0,0,0,2,2,1,18,10020,15,11010
+326,Yonex_All_England_Open,2023-03-18,England,MS,6,0,95,China,Denmark,Li Shi Feng,,Anders Antonsen,,21,11,19.0,21.0,21.0,18.0,61,50,2,1,2,2,6,5,1,1,0,2,22120,13,15470
+327,Yonex_All_England_Open,2023-03-16,England,MS,4,0,40,Malaysia,Japan,Lee Zii Jia,4.0,Kenta Nishimoto,,21,15,21.0,10.0,,,42,25,2,0,3,0,6,4,8,3,1,19,13670,6,20560
+328,Yonex_All_England_Open,2023-03-14,England,MS,6,0,58,China,Singapore,Zhao Jun Peng,,Loh Kean Yew,8.0,21,16,16.0,21.0,21.0,7.0,58,44,2,1,2,1,6,6,1,4,1,23,11870,8,19000
+329,Yonex_All_England_Open,2020-03-11,England,MS,4,0,38,China,Denmark,Huang Yu Xiang,,Jan O Jorgensen,,21,15,21.0,19.0,,,42,34,2,0,0,0,0,0,1,2,0,12,11750,20,9670
+330,Yonex_All_England_Open,2023-03-17,England,MS,4,0,43,China,China,Shi Yu Qi,,Weng Hong Yang,,21,9,21.0,16.0,,,42,25,2,0,3,0,5,6,3,1,0,7,20310,28,9550
+331,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,MS,6,0,60,China,Malaysia,Shi Yu Qi,,Ng Tze Yong,,21,7,17.0,21.0,21.0,13.0,59,41,2,1,3,1,10,6,0,0,0,4,40450,8,36940
+332,Yonex_All_England_Open,2023-03-19,England,MS,4,0,50,China,China,Li Shi Feng,,Shi Yu Qi,,26,24,21.0,5.0,,,47,29,2,0,6,2,5,6,0,2,0,2,22120,7,20310
+333,Yonex_All_England_Open,2023-03-17,England,MS,6,0,67,Malaysia,Japan,Lee Zii Jia,4.0,Kodai Naraoka,7.0,21,9,10.0,21.0,21.0,13.0,52,43,2,1,2,2,6,4,2,3,1,19,13670,10,16750
+334,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,MS,4,0,45,Singapore,Indonesia,Loh Kean Yew,4.0,Chico Aura Dwi Wardoyo,,21,15,23.0,21.0,,,44,36,2,0,6,0,6,7,4,1,0,23,28540,25,27550
+335,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,MS,4,0,38,Hongkong,Japan,Ng Ka Long Angus,,Kento Momota,,21,8,21.0,15.0,,,42,23,2,0,2,0,8,3,0,7,0,6,39330,39,15000
+336,Yonex_All_England_Open,2023-03-16,England,MS,4,0,52,Denmark,India,Anders Antonsen,,Lakshya Sen,,21,13,21.0,15.0,,,42,28,2,0,2,0,6,4,3,2,0,13,15470,18,14030
+337,Yonex_All_England_Open,2023-03-14,England,MS,4,0,65,Denmark,Denmark,Anders Antonsen,,Rasmus Gemke,,21,16,21.0,18.0,,,42,34,2,0,4,0,7,3,6,0,0,13,15470,32,9050
+338,Yonex_All_England_Open,2023-03-15,England,MS,4,0,42,China,Japan,Shi Yu Qi,,Kanta Tsuneyama,,21,16,21.0,11.0,,,42,27,2,0,3,0,5,3,5,1,0,7,20310,12,16190
+339,Kapal_Api_Group_Indonesia_Open,2023-06-16,Indonesia,MS,6,0,69,China,India,Li Shi Feng,,Kidambi Srikanth,,21,14,14.0,21.0,21.0,12.0,56,47,2,1,2,1,5,4,1,1,0,1,49040,20,30860
+340,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,MS,4,0,39,Indonesia,Japan,Jonatan Christie,6.0,Kanta Tsuneyama,,21,17,21.0,10.0,,,42,27,2,0,2,0,9,4,4,0,1,18,30960,16,31690
+341,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,MS,6,0,80,Japan,China,Kodai Naraoka,3.0,Shi Yu Qi,,17,21,21.0,12.0,21.0,18.0,59,51,2,1,7,2,8,4,3,7,1,10,36090,4,40450
+342,Yonex_All_England_Open,2023-03-16,England,MS,4,0,51,Japan,India,Kodai Naraoka,7.0,Kidambi Srikanth,,21,17,21.0,15.0,,,42,32,2,0,2,0,5,5,2,0,0,10,16750,33,7880
+343,Yonex_All_England_Open,2022-03-16,England,MS,4,0,37,Indonesia,India,Anthony Sinisuka Ginting,5.0,Parupalli Kashyap,,21,11,21.0,18.0,,,42,29,2,0,3,0,4,4,7,0,0,39,2750,58,1670
+344,Yonex_All_England_Open,2023-03-16,England,MS,4,0,51,China,Thailand,Shi Yu Qi,,Kunlavut Vitidsarn,6.0,21,12,21.0,13.0,,,42,25,2,0,2,0,10,3,2,2,1,7,20310,5,21070
+345,Kapal_Api_Group_Indonesia_Open,2023-06-16,Indonesia,MS,4,0,39,Denmark,Chinesetaipei,Viktor Axelsen,1.0,Chou Tien Chen,5.0,21,5,21.0,19.0,,,42,24,2,0,8,0,7,5,18,4,1,17,31050,15,32160
+346,Yonex_All_England_Open,2023-03-15,England,MS,6,0,63,India,France,Kidambi Srikanth,,Toma Junior Popov,,19,21,21.0,14.0,21.0,5.0,61,40,2,1,2,1,9,5,2,2,1,33,7880,25,10930
+347,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,MS,4,0,36,Denmark,China,Viktor Axelsen,1.0,Weng Hong Yang,,21,12,21.0,8.0,,,42,20,2,0,3,0,7,3,1,0,1,17,31050,12,33540
+348,Kapal_Api_Group_Indonesia_Open,2023-06-18,Indonesia,MS,4,0,47,Denmark,Indonesia,Viktor Axelsen,1.0,Anthony Sinisuka Ginting,2.0,21,14,21.0,13.0,,,42,27,2,0,3,0,5,3,12,5,1,17,31050,7,39100
+349,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,MS,4,0,43,Denmark,Chinesetaipei,Viktor Axelsen,1.0,Wang Tzu Wei,,21,8,21.0,13.0,,,42,21,2,0,4,0,7,5,6,1,0,17,31050,30,22980
+350,Kapal_Api_Group_Indonesia_Open,2023-06-17,Indonesia,MS,4,0,46,Denmark,India,Viktor Axelsen,1.0,Prannoy H. S.,7.0,21,15,21.0,15.0,,,42,30,2,0,2,0,5,4,6,3,0,17,31050,19,30890
+351,Yonex_All_England_Open,2022-03-16,England,MS,4,0,33,India,India,Lakshya Sen,,Sourabh Verma,,21,17,21.0,7.0,,,42,24,2,0,2,0,10,3,1,2,0,1,15150,29,3890
+352,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,MS,4,0,31,Indonesia,Denmark,Anthony Sinisuka Ginting,2.0,Hans-Kristian Solberg Vittinghus,,21,8,21.0,10.0,,,42,18,2,0,4,0,9,3,1,1,0,7,39100,42,13960
+353,Yonex_All_England_Open,2022-03-16,England,MS,4,0,36,India,Thailand,Kidambi Srikanth,,Kantaphon Wangcharoen,,21,18,21.0,14.0,,,42,32,2,0,3,0,8,5,2,1,0,14,7450,58,1670
+354,Victor_China_Open,2023-09-05,China,MS,6,0,66,Malaysia,India,Ng Tze Yong,,Prannoy H. S.,,21,12,13.0,21.0,21.0,18.0,55,51,2,1,2,3,5,6,0,0,1,12,54340,5,60590
+355,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,MS,6,0,63,Indonesia,India,Anthony Sinisuka Ginting,2.0,Priyanshu Rajawat,,20,22,21.0,15.0,21.0,15.0,62,52,2,1,4,1,5,5,0,0,0,7,39100,32,20500
+356,Kapal_Api_Group_Indonesia_Open,2023-06-17,Indonesia,MS,4,0,51,Indonesia,China,Anthony Sinisuka Ginting,2.0,Li Shi Feng,,21,17,21.0,15.0,,,42,32,2,0,3,0,6,5,2,2,1,7,39100,1,49040
+357,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,MS,4,0,38,Chinesetaipei,Canada,Chou Tien Chen,5.0,Brian Yang,,21,16,21.0,8.0,,,42,24,2,0,2,0,6,3,5,1,0,15,32160,24,28000
+358,Yonex_All_England_Open,2023-03-15,England,MS,4,0,38,Indonesia,Malaysia,Chico Aura Dwi Wardoyo,,Liew Daren,,21,9,21.0,16.0,,,42,25,2,0,3,0,7,4,1,0,0,14,15260,31,9130
+359,Kapal_Api_Group_Indonesia_Open,2023-06-16,Indonesia,MS,4,0,55,India,Japan,Prannoy H. S.,7.0,Kodai Naraoka,3.0,21,18,21.0,16.0,,,42,34,2,0,3,0,4,5,0,6,1,19,30890,10,36090
+360,Yonex_All_England_Open,2023-03-14,England,MS,4,0,36,Malaysia,Indonesia,Ng Tze Yong,,Shesar Hiren Rhustavito,,21,9,21.0,12.0,,,42,21,2,0,2,0,4,3,0,1,0,16,14910,30,9260
+361,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,MS,4,0,50,India,Japan,Prannoy H. S.,7.0,Kenta Nishimoto,,21,16,21.0,14.0,,,42,30,2,0,4,0,7,4,1,4,1,19,30890,3,42810
+362,Kapal_Api_Group_Indonesia_Open,2023-06-16,Indonesia,MS,4,0,51,Indonesia,Indonesia,Anthony Sinisuka Ginting,2.0,Jonatan Christie,6.0,21,19,21.0,16.0,,,42,35,2,0,2,0,5,4,5,4,0,7,39100,18,30960
+363,Victor_China_Open,2023-09-06,China,MS,6,0,75,China,Chinesetaipei,Li Shi Feng,6.0,Chou Tien Chen,,21,14,18.0,21.0,21.0,18.0,60,53,2,1,3,2,7,4,0,0,0,1,74900,14,52810
+364,Yonex_All_England_Open,2023-03-14,England,MS,4,0,49,India,Chinesetaipei,Prannoy H. S.,,Wang Tzu Wei,,21,19,22.0,20.0,,,43,39,2,0,3,0,5,6,5,3,0,24,11480,29,9540
+365,Victor_China_Open,2023-09-05,China,MS,6,0,78,Denmark,India,Anders Antonsen,,Lakshya Sen,,23,21,16.0,21.0,21.0,9.0,60,51,2,1,3,4,4,4,3,2,1,10,56310,4,62000
+366,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,MS,4,0,44,China,Singapore,Li Shi Feng,,Loh Kean Yew,4.0,21,19,21.0,14.0,,,42,33,2,0,3,0,7,6,1,5,0,1,49040,23,28540
+367,Victor_China_Open,2023-09-06,China,MS,6,0,73,Hongkong,China,Lee Cheuk Yiu,,Zhao Jun Peng,,21,19,21.0,23.0,21.0,19.0,63,61,2,1,5,2,7,4,1,4,0,15,52120,34,28200
+368,Yonex_All_England_Open,2022-03-16,England,MS,4,0,36,Hongkong,France,Ng Ka Long Angus,8.0,Thomas Rouxel,,21,11,21.0,19.0,,,42,30,2,0,4,0,8,4,0,0,0,58,1670,58,1670
+369,Victor_China_Open,2023-09-06,China,MS,6,0,66,Japan,Indonesia,Kanta Tsuneyama,,Anthony Sinisuka Ginting,2.0,21,11,18.0,21.0,21.0,17.0,60,49,2,1,2,3,5,4,4,5,1,18,48420,9,57000
+370,Victor_China_Open,2023-09-05,China,MS,4,0,46,Denmark,Indonesia,Viktor Axelsen,1.0,Chico Aura Dwi Wardoyo,,21,17,21.0,18.0,,,42,35,2,0,3,0,4,4,4,0,0,13,54050,22,44090
+371,Victor_China_Open,2023-09-07,China,MS,6,0,74,Indonesia,Malaysia,Shesar Hiren Rhustavito,,Ng Tze Yong,,18,21,21.0,11.0,22.0,20.0,61,52,2,1,4,7,8,6,0,1,1,45,17530,12,54340
+372,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,MS,4,0,33,India,Malaysia,Lakshya Sen,,Lee Zii Jia,8.0,21,17,21.0,13.0,,,42,30,2,0,3,0,7,5,3,2,1,14,33180,13,33230
+373,Yonex_All_England_Open,2022-03-16,England,MS,6,0,75,China,China,Lu Guang Zu,,Zhao Jun Peng,,23,25,21.0,18.0,21.0,16.0,65,59,2,1,4,3,8,5,2,1,1,39,2750,32,3850
+374,Victor_China_Open,2023-09-07,China,MS,6,0,57,Indonesia,Canada,Jonatan Christie,5.0,Brian Yang,,12,21,21.0,15.0,21.0,14.0,54,50,2,1,2,1,5,7,1,1,0,16,50510,24,40450
+375,Yonex_All_England_Open,2023-03-16,England,MS,4,0,34,China,China,Li Shi Feng,,Zhao Jun Peng,,21,9,21.0,17.0,,,42,26,2,0,5,0,9,3,1,1,0,2,22120,23,11870
+376,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,MS,4,0,43,India,Hongkong,Prannoy H. S.,7.0,Ng Ka Long Angus,,21,18,21.0,16.0,,,42,34,2,0,2,0,5,3,5,7,1,19,30890,6,39330
+377,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,MS,6,0,66,Chinesetaipei,France,Chou Tien Chen,5.0,Christo Popov,,15,21,22.0,20.0,21.0,1.0,58,42,2,1,3,1,16,6,2,0,0,15,32160,29,23060
+378,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,MS,6,0,64,Indonesia,France,Jonatan Christie,6.0,Toma Junior Popov,,19,21,21.0,11.0,21.0,11.0,61,43,2,1,2,1,6,6,2,0,1,18,30960,11,34550
+379,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,MS,6,0,82,Japan,Denmark,Kodai Naraoka,3.0,Anders Antonsen,,14,21,21.0,7.0,21.0,17.0,56,45,2,1,4,1,7,5,3,4,1,10,36090,5,39790
+380,Victor_China_Open,2023-09-05,China,MS,4,0,47,Singapore,France,Loh Kean Yew,7.0,Christo Popov,,21,14,21.0,17.0,,,42,31,2,0,6,0,6,4,2,2,0,21,46020,36,26060
+381,Yonex_All_England_Open,2023-03-15,England,MS,4,0,40,China,Indonesia,Weng Hong Yang,,Jonatan Christie,2.0,21,6,21.0,11.0,,,42,17,2,0,3,0,7,3,1,2,1,28,9550,3,21700
+382,Victor_China_Open,2023-09-07,China,MS,6,0,72,China,Denmark,Shi Yu Qi,8.0,Rasmus Gemke,,21,11,16.0,21.0,21.0,16.0,58,48,2,1,3,1,7,3,6,1,0,8,57720,38,26050
+383,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,MS,4,0,35,Chinesetaipei,Thailand,Wang Tzu Wei,,Kantaphon Wangcharoen,,21,12,21.0,9.0,,,42,21,2,0,3,0,6,2,3,2,0,30,22980,31,22270
+384,Yonex_All_England_Open,2023-03-16,England,MS,6,0,62,China,Indonesia,Weng Hong Yang,,Chico Aura Dwi Wardoyo,,21,11,15.0,21.0,21.0,13.0,57,45,2,1,6,2,9,5,1,0,1,28,9550,14,15260
+385,Kapal_Api_Group_Indonesia_Open,2023-06-13,Indonesia,MS,4,0,64,Canada,Ireland,Brian Yang,,Nhat Nguyen,,21,18,22.0,20.0,,,43,38,2,0,3,0,8,5,1,0,0,24,28000,27,24300
+386,Victor_China_Open,2023-09-08,China,MS,6,0,85,China,Japan,Shi Yu Qi,8.0,Kodai Naraoka,4.0,18,21,21.0,9.0,22.0,20.0,61,50,2,1,3,2,5,6,6,4,1,8,57720,2,65450
+387,Victor_China_Open,2023-09-06,China,MS,6,0,75,Japan,Malaysia,Kodai Naraoka,4.0,Lee Zii Jia,,26,24,12.0,21.0,21.0,11.0,59,56,2,1,9,1,6,4,2,3,0,2,65450,19,47530
+388,Victor_China_Open,2023-09-05,China,MS,6,0,74,Indonesia,China,Jonatan Christie,5.0,Weng Hong Yang,,22,20,19.0,21.0,21.0,10.0,62,51,2,1,3,1,6,5,1,2,1,16,50510,11,55030
+389,Victor_China_Open,2023-09-08,China,MS,4,0,51,Denmark,Singapore,Viktor Axelsen,1.0,Loh Kean Yew,7.0,21,17,23.0,21.0,,,44,38,2,0,4,0,6,5,8,2,0,13,54050,21,46020
+390,Yonex_All_England_Open,2023-03-15,England,MS,4,0,44,Japan,Canada,Kenta Nishimoto,,Brian Yang,,21,16,21.0,14.0,,,42,30,2,0,3,0,7,4,3,1,0,6,20560,15,15120
+391,Victor_China_Open,2023-09-06,China,MS,6,0,79,Denmark,Thailand,Rasmus Gemke,,Kantaphon Wangcharoen,,21,18,18.0,21.0,21.0,15.0,60,54,2,1,2,1,5,6,2,0,1,38,26050,29,31380
+392,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,MS,6,0,70,China,Hongkong,Li Shi Feng,,Lee Cheuk Yiu,,21,18,9.0,21.0,21.0,19.0,51,58,2,1,4,1,5,7,2,0,0,1,49040,9,36160
+393,Kapal_Api_Group_Indonesia_Open,2023-06-15,Indonesia,MS,4,0,45,India,India,Kidambi Srikanth,,Lakshya Sen,,21,17,22.0,20.0,,,43,37,2,0,8,0,6,6,2,0,1,20,30860,14,33180
+394,Victor_China_Open,2023-09-06,China,MS,6,0,71,Chinesetaipei,France,Lin Chun-Yi,,Toma Junior Popov,,21,15,10.0,21.0,21.0,16.0,52,52,2,1,2,1,6,6,1,2,0,20,47090,26,39350
+395,Victor_China_Open,2023-09-06,China,MS,4,0,37,China,Denmark,Shi Yu Qi,8.0,Magnus Johannesen,,21,8,21.0,11.0,,,42,19,2,0,4,0,8,4,2,0,0,8,57720,35,26780
+396,Victor_China_Open,2023-09-05,China,MS,4,0,58,Chinesetaipei,Japan,Wang Tzu Wei,,Kenta Nishimoto,,23,21,22.0,20.0,,,45,41,2,0,3,4,4,4,1,3,1,23,42540,3,62780
+397,Victor_China_Open,2023-09-08,China,MS,6,0,67,China,Japan,Lu Guang Zu,,Kanta Tsuneyama,,14,21,21.0,18.0,21.0,8.0,56,47,2,1,3,1,10,5,2,2,1,25,39830,18,48420
+398,Victor_China_Open,2023-09-07,China,MS,4,0,51,Singapore,Denmark,Loh Kean Yew,7.0,Anders Antonsen,,21,17,21.0,12.0,,,42,29,2,0,4,0,5,4,3,2,1,21,46020,10,56310
+399,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,MS,4,0,46,India,China,Kidambi Srikanth,,Lu Guang Zu,,21,13,21.0,19.0,,,42,32,2,0,4,0,5,6,4,1,0,20,30860,22,29130
+400,Victor_China_Open,2023-09-08,China,MS,4,0,36,Indonesia,Indonesia,Jonatan Christie,5.0,Shesar Hiren Rhustavito,,21,12,21.0,17.0,,,42,29,2,0,2,0,4,4,4,1,0,16,50510,45,17530
+401,Victor_China_Open,2023-09-05,China,MS,4,0,41,Indonesia,India,Shesar Hiren Rhustavito,,Priyanshu Rajawat,,21,13,26.0,24.0,,,47,37,2,0,6,2,5,4,0,0,1,45,17530,27,37980
+402,Victor_China_Open,2023-09-07,China,MS,6,0,67,Denmark,Chinesetaipei,Viktor Axelsen,1.0,Wang Tzu Wei,,20,22,21.0,6.0,21.0,14.0,62,42,2,1,4,1,8,5,6,1,0,13,54050,23,42540
+403,Yonex_All_England_Open,2022-03-16,England,MS,6,0,66,Canada,Thailand,Brian Yang,,Sitthikom Thammasin,,16,21,21.0,19.0,22.0,20.0,59,60,2,1,3,2,5,6,0,0,0,9,9170,,
+404,Petronas_Malaysia_Open,2024-01-09,Malaysia,MS,6,0,65,India,Indonesia,Kidambi Srikanth,,Jonatan Christie,6.0,12,21,21.0,18.0,21.0,16.0,54,55,2,1,3,1,7,9,6,5,0,44,1670,,
+405,Victor_China_Open,2023-09-07,China,MS,4,0,49,Japan,Chinesetaipei,Kodai Naraoka,4.0,Lin Chun-Yi,,21,19,21.0,8.0,,,42,27,2,0,3,0,6,3,5,1,0,2,65450,20,47090
+406,Yonex_All_England_Open,2022-03-16,England,MS,4,0,43,Malaysia,Japan,Lee Zii Jia,6.0,Kenta Nishimoto,,21,16,21.0,17.0,,,42,33,2,0,2,0,9,5,8,3,0,26,4900,32,3850
+407,Victor_China_Open,2023-09-06,China,MS,4,0,49,China,Hongkong,Lu Guang Zu,,Ng Ka Long Angus,,21,17,21.0,15.0,,,42,32,2,0,4,0,6,4,1,1,1,25,39830,7,58890
+408,Kapal_Api_Group_Indonesia_Open,2023-06-14,Indonesia,MS,4,0,51,France,Chinesetaipei,Toma Junior Popov,,Lin Chun-Yi,,21,18,21.0,15.0,,,42,33,2,0,3,0,4,5,1,2,0,11,34550,21,30460
+409,Yonex_All_England_Open,2022-03-16,England,MS,6,0,49,Korea,Hongkong,Heo Kwang Hee,,Lee Cheuk Yiu,,21,13,9.0,21.0,21.0,16.0,51,50,2,1,2,1,6,7,0,2,0,39,2750,39,2750
+410,Victor_China_Open,2023-09-05,China,MS,6,0,56,Canada,Israel,Brian Yang,,Misha Zilberman,,21,8,14.0,21.0,21.0,18.0,56,47,2,1,6,2,5,6,1,3,0,24,40450,37,26050
+411,Petronas_Malaysia_Open,2024-01-09,Malaysia,MS,4,0,49,Indonesia,Chinesetaipei,Anthony Sinisuka Ginting,4.0,Su Li Yang,,21,18,21.0,12.0,,,42,30,2,0,2,0,5,4,1,0,1,,,44,1670
+412,Petronas_Malaysia_Open,2024-01-13,Malaysia,MS,4,0,41,Denmark,Chinesetaipei,Anders Antonsen,,Lin Chun-Yi,,21,16,21.0,7.0,,,42,23,2,0,4,0,5,5,1,1,1,,,23,3850
+413,Yonex_All_England_Open,2024-03-12,England,MS,4,0,47,Japan,Chinesetaipei,Koki Watanabe,,Wang Tzu Wei,,21,14,21.0,13.0,,,42,27,2,0,2,0,6,4,3,0,1,30,13510,6,23410
+414,Petronas_Malaysia_Open,2024-01-12,Malaysia,MS,4,0,49,Chinesetaipei,China,Lin Chun-Yi,,Li Shi Feng,3.0,21,12,21.0,18.0,,,42,30,2,0,3,0,5,5,1,1,0,23,3850,,
+415,Petronas_Malaysia_Open,2024-01-10,Malaysia,MS,6,0,79,China,Chinesetaipei,Li Shi Feng,3.0,Chia Hao Lee,,23,21,15.0,21.0,21.0,18.0,59,60,2,1,5,2,4,4,0,1,1,,,21,4360
+416,Yonex_All_England_Open,2024-03-16,England,MS,6,0,75,Indonesia,France,Anthony Sinisuka Ginting,5.0,Christo Popov,,19,21,21.0,5.0,21.0,11.0,61,37,2,1,2,1,13,5,1,1,0,10,21590,17,17540
+417,Yonex_All_England_Open,2024-03-14,England,MS,4,0,33,Malaysia,Singapore,Lee Zii Jia,,Loh Kean Yew,,21,15,21.0,12.0,,,42,27,2,0,2,0,8,5,5,2,1,21,16750,13,20040
+418,Yonex_All_England_Open,2024-03-15,England,MS,4,0,45,France,Japan,Christo Popov,,Koki Watanabe,,21,17,21.0,10.0,,,42,27,2,0,3,0,5,5,1,1,0,17,17540,30,13510
+419,Yonex_All_England_Open,2024-03-12,England,MS,4,0,33,Denmark,India,Viktor Axelsen,1.0,Kidambi Srikanth,,21,9,21.0,9.0,,,42,18,2,0,2,0,6,2,10,3,1,31,12720,16,18420
+420,Yonex_All_England_Open,2024-03-14,England,MS,6,0,70,Indonesia,Thailand,Jonatan Christie,,Kunlavut Vitidsarn,8.0,21,19,18.0,21.0,21.0,13.0,60,53,2,1,5,3,5,3,5,3,1,34,12200,5,24890
+421,Victor_China_Open,2023-09-07,China,MS,4,0,30,Japan,Hongkong,Kanta Tsuneyama,,Lee Cheuk Yiu,,21,9,21.0,8.0,,,42,17,2,0,4,0,10,3,5,0,1,18,48420,15,52120
+422,Yonex_All_England_Open,2024-03-16,England,MS,6,0,68,Indonesia,India,Jonatan Christie,,Lakshya Sen,,21,12,10.0,21.0,21.0,15.0,52,48,2,1,5,1,5,7,3,2,1,34,12200,19,16960
+423,Yonex_All_England_Open,2024-03-15,England,MS,6,0,69,Indonesia,Denmark,Anthony Sinisuka Ginting,5.0,Viktor Axelsen,1.0,8,21,21.0,18.0,21.0,19.0,50,58,2,1,4,4,8,9,4,13,0,10,21590,31,12720
+424,Yonex_All_England_Open,2024-03-17,England,MS,4,0,55,Indonesia,Indonesia,Jonatan Christie,,Anthony Sinisuka Ginting,5.0,21,15,21.0,14.0,,,42,29,2,0,2,0,6,3,3,6,1,34,12200,10,21590
+425,Petronas_Malaysia_Open,2024-01-10,Malaysia,MS,6,0,102,Thailand,Japan,Kunlavut Vitidsarn,5.0,Kenta Nishimoto,,21,14,21.0,23.0,21.0,15.0,63,52,2,1,8,1,6,4,4,3,1,,,14,5950
+426,Yonex_All_England_Open,2024-03-13,England,MS,4,0,37,Indonesia,Chinesetaipei,Jonatan Christie,,Chou Tien Chen,,21,4,21.0,15.0,,,42,19,2,0,2,0,8,3,8,7,1,34,12200,7,23340
+427,Yonex_All_England_Open,2024-03-12,England,MS,6,0,72,France,Hongkong,Christo Popov,,Lee Cheuk Yiu,,22,20,17.0,21.0,21.0,16.0,60,57,2,1,4,2,6,6,0,2,1,17,17540,12,20700
+428,Victor_China_Open,2023-09-07,China,MS,4,0,53,China,China,Lu Guang Zu,,Li Shi Feng,6.0,21,19,21.0,12.0,,,42,31,2,0,4,0,9,4,3,0,1,25,39830,1,74900
+429,Yonex_All_England_Open,2024-03-12,England,MS,4,0,52,France,China,Toma Junior Popov,,Li Shi Feng,3.0,21,17,21.0,13.0,,,42,30,2,0,3,0,5,3,2,1,1,28,14010,18,17460
+430,Yonex_All_England_Open,2024-03-13,England,MS,4,0,44,Denmark,Japan,Anders Antonsen,4.0,Kanta Tsuneyama,,21,18,21.0,9.0,,,42,27,2,0,3,0,7,3,6,2,0,3,27250,41,8320
+431,Petronas_Malaysia_Open,2024-01-11,Malaysia,MS,4,0,38,Hongkong,India,Ng Ka Long Angus,,Kidambi Srikanth,,21,13,21.0,17.0,,,42,30,2,0,3,0,6,6,3,4,1,,,44,1670
+432,Yonex_All_England_Open,2024-03-13,England,MS,6,0,81,China,Denmark,Shi Yu Qi,2.0,Rasmus Gemke,,18,21,23.0,21.0,21.0,19.0,62,61,2,1,4,1,4,5,6,1,0,1,32200,26,15490
+433,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,MS,4,0,40,Malaysia,Hongkong,Lee Zii Jia,,Ng Ka Long Angus,,21,17,21.0,16.0,,,42,33,2,0,2,0,5,4,5,3,0,6,43100,8,42580
+434,Yonex_All_England_Open,2024-03-12,England,MS,4,0,39,Indonesia,Chinesetaipei,Anthony Sinisuka Ginting,5.0,Chia Hao Lee,,21,13,21.0,17.0,,,42,30,2,0,3,0,8,3,0,0,0,10,21590,11,20700
+435,Yonex_All_England_Open,2024-03-14,England,MS,4,0,54,Indonesia,Japan,Anthony Sinisuka Ginting,5.0,Kenta Nishimoto,,21,18,21.0,19.0,,,42,37,2,0,4,0,5,7,6,4,0,10,21590,14,19820
+436,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,MS,4,0,36,Thailand,Singapore,Kunlavut Vitidsarn,8.0,Loh Kean Yew,,21,13,21.0,10.0,,,42,23,2,0,2,0,5,5,4,1,1,12,36110,4,44000
+437,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,MS,6,0,73,France,Denmark,Toma Junior Popov,,Rasmus Gemke,,21,18,8.0,21.0,21.0,12.0,50,51,2,1,3,1,5,6,0,2,0,20,31310,24,30490
+438,Yonex_All_England_Open,2024-03-15,England,MS,6,0,71,India,Malaysia,Lakshya Sen,,Lee Zii Jia,,20,22,21.0,16.0,21.0,19.0,62,57,2,1,2,4,7,5,3,2,0,19,16960,21,16750
+439,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,MS,4,0,36,Denmark,Hongkong,Anders Antonsen,4.0,Lee Cheuk Yiu,,21,14,21.0,10.0,,,42,24,2,0,5,0,8,3,4,1,0,5,43630,18,33290
+440,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,MS,6,0,67,Malaysia,Chinesetaipei,Leong Jun Hao,,Chou Tien Chen,,21,18,13.0,21.0,21.0,17.0,55,56,2,1,3,1,5,5,0,1,1,28,27380,1,56350
+441,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,MS,6,0,85,France,Chinesetaipei,Toma Junior Popov,,Wang Tzu Wei,,21,15,12.0,21.0,29.0,27.0,62,63,2,1,8,4,4,6,1,2,1,20,31310,7,42840
+442,Yonex_All_England_Open,2024-03-14,England,MS,4,0,39,China,Indonesia,Shi Yu Qi,2.0,Chico Aura Dwi Wardoyo,,21,19,21.0,10.0,,,42,29,2,0,2,0,9,4,2,0,0,1,32200,38,9920
+443,Yonex_All_England_Open,2024-03-13,England,MS,4,0,35,Singapore,Hongkong,Loh Kean Yew,,Ng Ka Long Angus,,21,12,21.0,17.0,,,42,29,2,0,2,0,8,3,3,0,1,13,20040,8,22700
+444,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,MS,4,0,54,Denmark,Japan,Rasmus Gemke,,Kodai Naraoka,5.0,21,12,21.0,10.0,,,42,22,2,0,3,0,5,6,1,2,1,24,30490,21,31050
+445,Yonex_All_England_Open,2024-03-14,England,MS,6,0,80,India,Denmark,Lakshya Sen,,Anders Antonsen,4.0,24,22,11.0,21.0,21.0,14.0,56,57,2,1,6,1,8,5,1,4,1,19,16960,3,27250
+446,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,MS,6,0,60,Japan,Indonesia,Kenta Nishimoto,,Anthony Sinisuka Ginting,7.0,17,21,21.0,11.0,21.0,8.0,59,40,2,1,2,2,10,5,3,7,1,17,33420,12,36110
+447,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,MS,4,0,45,India,Japan,Lakshya Sen,,Kenta Nishimoto,,21,9,21.0,15.0,,,42,24,2,0,2,0,7,5,2,1,1,22,30770,17,33420
+448,Yonex_All_England_Open,2024-03-13,England,MS,4,0,49,Malaysia,Japan,Lee Zii Jia,,Kodai Naraoka,6.0,21,12,21.0,19.0,,,42,31,2,0,9,0,6,7,2,3,1,21,16750,20,16960
+449,Yonex_All_England_Open,2024-03-12,England,MS,4,0,35,Japan,Canada,Kenta Nishimoto,,Brian Yang,,21,13,21.0,4.0,,,42,17,2,0,3,0,12,4,3,1,1,14,19820,9,22340
+450,Petronas_Malaysia_Open,2024-01-10,Malaysia,MS,6,0,63,Canada,Chinesetaipei,Brian Yang,,Wang Tzu Wei,,11,21,21.0,17.0,21.0,16.0,53,54,2,1,3,1,7,7,0,0,1,,,26,2750
+451,Kapal_Api_Indonesia_Open,2024-06-07,Indonesia,MS,6,0,65,China,France,Shi Yu Qi,2.0,Toma Junior Popov,,17,21,21.0,10.0,21.0,18.0,59,49,2,1,2,1,5,6,1,0,0,2,49800,20,31310
+452,Yonex_All_England_Open,2024-03-12,England,MS,6,0,73,China,Chinesetaipei,Weng Hong Yang,,Lin Chun-Yi,,18,21,21.0,16.0,21.0,16.0,60,53,2,1,2,6,6,11,1,1,1,33,12340,2,29150
+453,Kapal_Api_Indonesia_Open,2024-06-07,Indonesia,MS,4,0,61,Denmark,India,Anders Antonsen,4.0,Lakshya Sen,,24,22,21.0,18.0,,,45,40,2,0,3,3,5,5,3,2,0,5,43630,22,30770
+454,Petronas_Malaysia_Open,2024-01-10,Malaysia,MS,4,0,38,Chinesetaipei,Thailand,Lin Chun-Yi,,Kantaphon Wangcharoen,,21,17,21.0,13.0,,,42,30,2,0,2,0,7,4,4,0,0,23,3850,33,2180
+455,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,MS,4,0,49,Thailand,India,Kunlavut Vitidsarn,8.0,Priyanshu Rajawat,,21,10,21.0,17.0,,,42,27,2,0,4,0,7,3,1,1,0,12,36110,32,25500
+456,Yonex_All_England_Open,2024-03-13,England,MS,6,0,57,Indonesia,India,Chico Aura Dwi Wardoyo,,Priyanshu Rajawat,,21,19,11.0,21.0,21.0,9.0,53,49,2,1,3,2,6,10,1,0,1,38,9920,23,15990
+457,Yonex_All_England_Open,2024-03-14,England,MS,4,0,48,Denmark,China,Viktor Axelsen,1.0,Weng Hong Yang,,21,19,21.0,14.0,,,42,33,2,0,4,0,5,3,1,0,0,31,12720,33,12340
+458,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,MS,4,0,40,India,Japan,Lakshya Sen,,Kanta Tsuneyama,,21,12,21.0,17.0,,,42,29,2,0,2,0,5,4,3,0,0,22,30770,45,15650
+459,Yonex_All_England_Open,2024-03-12,England,MS,6,0,67,Chinesetaipei,India,Su Li Yang,,Prannoy H. S.,7.0,14,21,21.0,13.0,21.0,13.0,56,47,2,1,4,2,8,4,0,0,0,4,25660,24,15580
+460,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,MS,4,0,37,Thailand,Indonesia,Kantaphon Wangcharoen,,Chico Aura Dwi Wardoyo,,21,16,21.0,9.0,,,42,25,2,0,3,0,6,6,1,1,0,29,27190,35,22640
+461,Petronas_Malaysia_Open,2024-01-09,Malaysia,MS,6,0,78,France,Chinesetaipei,Toma Junior Popov,,Chou Tien Chen,,21,11,19.0,21.0,21.0,15.0,61,47,2,1,6,1,8,5,1,1,1,,,44,1670
+462,Petronas_Malaysia_Open,2024-01-11,Malaysia,MS,4,0,50,Chinesetaipei,Thailand,Lin Chun-Yi,,Kunlavut Vitidsarn,5.0,21,18,21.0,16.0,,,42,34,2,0,3,0,7,5,0,3,0,23,3850,,
+463,Kapal_Api_Indonesia_Open,2024-06-07,Indonesia,MS,4,0,43,China,Malaysia,Li Shi Feng,6.0,Leong Jun Hao,,21,11,21.0,12.0,,,42,23,2,0,2,0,10,4,2,0,0,16,34850,28,27380
+464,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,MS,6,0,74,China,Chinesetaipei,Lu Guang Zu,,Su Li Yang,,14,21,21.0,19.0,21.0,17.0,56,57,2,1,4,5,6,5,0,0,1,14,36030,9,39760
+465,Kapal_Api_Indonesia_Open,2024-06-07,Indonesia,MS,4,0,53,Thailand,Malaysia,Kunlavut Vitidsarn,8.0,Lee Zii Jia,,21,16,21.0,17.0,,,42,33,2,0,2,0,6,6,4,4,1,12,36110,6,43100
+466,Kapal_Api_Indonesia_Open,2024-06-09,Indonesia,MS,6,0,71,China,Denmark,Shi Yu Qi,2.0,Anders Antonsen,4.0,21,9,12.0,21.0,21.0,14.0,54,44,2,1,5,1,13,7,5,3,0,2,49800,5,43630
+467,Kapal_Api_Indonesia_Open,2024-06-08,Indonesia,MS,6,0,79,China,China,Shi Yu Qi,2.0,Li Shi Feng,6.0,19,21,21.0,19.0,21.0,14.0,61,54,2,1,4,1,5,6,1,1,0,2,49800,16,34850
+468,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,MS,4,0,39,India,India,Priyanshu Rajawat,,Prannoy H. S.,,21,17,21.0,12.0,,,42,29,2,0,7,0,6,4,0,3,0,32,25500,33,25120
+469,Kapal_Api_Indonesia_Open,2024-06-08,Indonesia,MS,6,0,91,Denmark,Thailand,Anders Antonsen,4.0,Kunlavut Vitidsarn,8.0,21,15,19.0,21.0,21.0,11.0,61,47,2,1,2,1,5,7,4,1,0,5,43630,12,36110
+470,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,MS,6,0,62,Malaysia,Indonesia,Leong Jun Hao,,Jonatan Christie,3.0,21,13,16.0,21.0,21.0,12.0,58,46,2,1,3,1,5,7,0,0,0,28,27380,30,26860
+471,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,MS,4,0,47,Denmark,Thailand,Anders Antonsen,4.0,Kantaphon Wangcharoen,,21,17,21.0,11.0,,,42,28,2,0,2,0,5,4,3,0,0,5,43630,29,27190
+472,Yonex_All_England_Open,2024-03-14,England,MS,4,0,50,Japan,France,Koki Watanabe,,Toma Junior Popov,,21,18,23.0,21.0,,,44,39,2,0,8,1,6,6,1,0,1,30,13510,28,14010
+473,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,MS,4,0,40,Chinesetaipei,Chinesetaipei,Chou Tien Chen,,Lin Chun-Yi,,21,17,21.0,14.0,,,42,31,2,0,3,0,7,5,2,2,0,1,56350,3,48440
+474,Yonex_All_England_Open,2024-03-14,England,MS,6,0,75,France,Chinesetaipei,Christo Popov,,Su Li Yang,,21,14,17.0,21.0,21.0,15.0,59,50,2,1,2,1,7,4,2,1,1,17,17540,4,25660
+475,Kapal_Api_Indonesia_Open,2024-06-04,Indonesia,MS,6,0,58,China,India,Weng Hong Yang,,Kiran George,,11,21,21.0,10.0,22.0,20.0,54,51,2,1,3,3,6,7,0,1,1,37,21460,25,29490
+476,Yonex_All_England_Open,2024-03-13,England,MS,6,0,75,Thailand,China,Kunlavut Vitidsarn,8.0,Lu Guang Zu,,19,21,21.0,18.0,21.0,15.0,61,54,2,1,6,1,6,6,2,2,0,5,24890,15,18910
+477,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,MS,6,0,72,Malaysia,China,Lee Zii Jia,,Weng Hong Yang,,20,22,21.0,9.0,21.0,16.0,62,47,2,1,4,1,8,5,2,3,0,6,43100,37,21460
+478,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,MS,4,0,39,France,Belgium,Christo Popov,,Julien Carraggi,,21,16,21.0,10.0,,,42,26,2,0,4,0,6,3,3,0,0,15,35240,42,16250
+479,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,MS,4,0,40,China,France,Li Shi Feng,6.0,Christo Popov,,21,11,21.0,13.0,,,42,24,2,0,3,0,8,4,0,0,1,16,34850,15,35240
+480,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,MS,4,0,38,China,China,Shi Yu Qi,2.0,Lei Lan Xi,,21,16,21.0,13.0,,,42,29,2,0,2,0,4,3,0,0,0,2,49800,34,24210
+481,Kapal_Api_Indonesia_Open,2024-06-05,Indonesia,MS,4,0,49,China,Canada,Li Shi Feng,6.0,Brian Yang,,21,18,21.0,12.0,,,42,30,2,0,2,0,4,4,1,1,0,16,34850,19,31880
+482,Kapal_Api_Indonesia_Open,2024-06-06,Indonesia,MS,4,0,36,China,China,Shi Yu Qi,2.0,Lu Guang Zu,,21,16,21.0,16.0,,,42,32,2,0,3,0,5,3,9,2,0,2,49800,14,36030
+483,Yonex_All_England_Open,2024-03-13,England,MS,4,0,40,India,Denmark,Lakshya Sen,,Magnus Johannesen,,21,14,21.0,14.0,,,42,28,2,0,2,0,4,3,0,0,0,19,16960,29,13870
