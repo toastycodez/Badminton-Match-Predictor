@@ -6,7 +6,7 @@ This project involves scraping and analyzing badminton tournament data to predic
 
 ## Phases
 
-### 1. Data Scraping
+### Data Scraping
 
 - **Collect data from the Badminton World Federation**: Extract match data, player rankings, and other relevant information from the BWF website.
 
