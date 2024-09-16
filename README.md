@@ -12,8 +12,8 @@ This project involves scraping and analyzing badminton tournament data to predic
 
 ### Data Processing
 
-- **Clean and format data**: Remove unnecessary or corrupted data, standardize formats, and handle missing values.
-- **Enrich data with player rankings and match statistics**: Integrate player ranking data and other match statistics into the dataset for enhanced analysis.
+- **Clean and format data**: Filter out matches and data that are not relevant to the analysis or prediction model, standardize formats, and handle missing values to ensure a focused and clean dataset.
+- **Feature engineering**: Incorporate player rankings and match statistics into the dataset to enhance analysis
 
 ### Match Prediction
 
